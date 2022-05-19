@@ -1,0 +1,11 @@
+F:\peoject\翻译的工具\src\HPI2\QR\GIFT\DATA\GIFT_010.xml
+F:\peoject\翻译的工具\src\HPI2\QR\GIFT\DATA\GIFT_011.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLCUSTOM.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLEXPBATTLE.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLEXPBATTLE_REINFORCE_ENEMY.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLEXPBATTLE_REINFORCE_PLAYER.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLEXPBATTLE_WEAK_ENEMY.xml
+F:\peoject\翻译的工具\src\HPI2\SKILL\SKILLEXPBATTLE_WEAK_PLAYER.xml
+F:\peoject\翻译的工具\src\HPI2\TESTDATA\TEST\DUNGEON.xml
+F:\peoject\翻译的工具\src\HPI2\TESTDATA\TEST\DUN_01F.xml
+F:\peoject\翻译的工具\src\HPI2\WORLDMAP\WORLDMAP_INFO_NAME.xml

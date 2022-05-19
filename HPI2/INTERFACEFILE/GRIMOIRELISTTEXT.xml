@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>94070000</size>
+		<number>34000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>全てのグリモアを表示します\f801\\ffff\</origin>
+				<translate>全てのグリモアを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>ソードマンのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ソードマンのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>レンジャーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>レンジャーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>パラディンのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>パラディンのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>ダークハンターのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ダークハンターのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>ブシドーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ブシドーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>メディックのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>メディックのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>アルケミストのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>アルケミストのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>カースメーカーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>カースメーカーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>バードのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>バードのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>ガンナーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ガンナーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>ドクトルマグスのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ドクトルマグスのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>ペットのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ペットのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>プリンセスのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>プリンセスのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>ファフニールのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ファフニールのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>ハイランダーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>ハイランダーのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>モンスターのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</origin>
+				<translate>モンスターのスキルが刻まれた\f801\グリモアのみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>新たに入手したグリモアから順に並び変えます\f801\\ffff\</origin>
+				<translate>新たに入手したグリモアから順に並び変えます\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>グリモアに登録されているスキルのレベルが\f801\高い方から順に並び替えます\f801\\ffff\</origin>
+				<translate>グリモアに登録されているスキルのレベルが\f801\高い方から順に並び替えます\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>グリモアに登録されているスキルのレベルが\f801\低い方から順に並び替えます\f801\\ffff\</origin>
+				<translate>グリモアに登録されているスキルのレベルが\f801\低い方から順に並び替えます\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>グリモアに登録されているスキル名の順に並び替えます\f801\\ffff\</origin>
+				<translate>グリモアに登録されているスキル名の順に並び替えます\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>付加効果が登録されているグリモアのみ表示します\f801\\ffff\</origin>
+				<translate>付加効果が登録されているグリモアのみ表示します\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>入力した文字列が含まれるスキル名のみを表示します\f801\\ffff\</origin>
+				<translate>入力した文字列が含まれるスキル名のみを表示します\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>入力した文字列に合致したものを\f801\順に表示します（仮\f801\\ffff\</origin>
+				<translate>入力した文字列に合致したものを\f801\順に表示します（仮\f801\\ffff\</translate>
+			</id>
+			<id id="25"/>
+			<id id="26"/>
+			<id id="27"/>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30"/>
+			<id id="31"/>
+			<id id="32"/>
+			<id id="33"/>
+			<id id="34"/>
+			<id id="35"/>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40"/>
+			<id id="41"/>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47"/>
+			<id id="48"/>
+			<id id="49"/>
+			<id id="50">
+				<origin>装備中のグリモアを外します\f801\\ffff\</origin>
+				<translate>装備中のグリモアを外します\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>選択したグリモアでトレードを行います\f801\\ffff\</origin>
+				<translate>選択したグリモアでトレードを行います\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>選択したグリモアでトレードを依頼します\f801\\ffff\</origin>
+				<translate>選択したグリモアでトレードを依頼します\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

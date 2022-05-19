@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>a0050000</size>
+		<number>1c000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>この星に生まれ、育った者の末裔よ\f801\\ffff\</origin>
+				<translate>この星に生まれ、育った者の末裔よ\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>見事であった\f801\\ffff\</origin>
+				<translate>見事であった\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>前にも告げた通り\f801\\ffff\</origin>
+				<translate>前にも告げた通り\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>かつて この星は闇に支配されていた\f801\\ffff\</origin>
+				<translate>かつて この星は闇に支配されていた\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>命の生まれぬ大地に\f801\\ffff\</origin>
+				<translate>命の生まれぬ大地に\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>命を育む世界樹を植えた者たちがいた\f801\\ffff\</origin>
+				<translate>命を育む世界樹を植えた者たちがいた\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>それが “アルコン” 我らの種族だ\f801\\ffff\</origin>
+				<translate>それが “アルコン” 我らの種族だ\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>アルコンは長い年月をかけてこの星を見守り\f801\\ffff\</origin>
+				<translate>アルコンは長い年月をかけてこの星を見守り\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>生命に溢れる大地へと変えた\f801\\ffff\</origin>
+				<translate>生命に溢れる大地へと変えた\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>“アルコン”は告げる\f801\\ffff\</origin>
+				<translate>“アルコン”は告げる\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>かつて 様々な危機のたび\f801\\ffff\</origin>
+				<translate>かつて 様々な危機のたび\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>世界樹の恵みが人々を救っていた\f801\\ffff\</origin>
+				<translate>世界樹の恵みが人々を救っていた\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>いつか人類が原始の闇を乗り越える…\f801\\ffff\</origin>
+				<translate>いつか人類が原始の闇を乗り越える…\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>その日まで種を守るのが使命であったと\f801\\ffff\</origin>
+				<translate>その日まで種を守るのが使命であったと\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>そして今 君たちが現れた\f801\\ffff\</origin>
+				<translate>そして今 君たちが現れた\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>原始の闇を乗り越えた君たち人類は\f801\\ffff\</origin>
+				<translate>原始の闇を乗り越えた君たち人類は\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>アルコンの頸木から脱し、己が手で\f801\\ffff\</origin>
+				<translate>アルコンの頸木から脱し、己が手で\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>世界を歩かねばならないと…\f801\\ffff\</origin>
+				<translate>世界を歩かねばならないと…\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>これで私が役割は終わる\f801\\ffff\</origin>
+				<translate>これで私が役割は終わる\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>私はこの地を去るだろうと\f801\\ffff\</origin>
+				<translate>私はこの地を去るだろうと\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>同様に君たちの冒険も終わる\f801\\ffff\</origin>
+				<translate>同様に君たちの冒険も終わる\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>世界樹を巡る旅は最後となるだろう\f801\\ffff\</origin>
+				<translate>世界樹を巡る旅は最後となるだろう\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>しかし君たちは“アルコン”が消えた後の\f801\\ffff\</origin>
+				<translate>しかし君たちは“アルコン”が消えた後の\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>世界を見守り、苦難を越えていくという\f801\\ffff\</origin>
+				<translate>世界を見守り、苦難を越えていくという\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>重く大変な役目があるのだ\f801\\ffff\</origin>
+				<translate>重く大変な役目があるのだ\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>だがきっと この迷宮を踏破した\f801\\ffff\</origin>
+				<translate>だがきっと この迷宮を踏破した\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>君たちなら成し遂げると信じている\f801\\ffff\</origin>
+				<translate>君たちなら成し遂げると信じている\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>みなで協力する事の大切さを誰よりも\f801\\ffff\</origin>
+				<translate>みなで協力する事の大切さを誰よりも\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>知っているだろうから………\f801\\ffff\</origin>
+				<translate>知っているだろうから………\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

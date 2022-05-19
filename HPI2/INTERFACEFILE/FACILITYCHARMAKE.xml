@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>f8010000</size>
+		<number>09000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>職業を選択してください\f801\\ffff\</origin>
+				<translate>職業を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>外見を選択してください\f801\\ffff\</origin>
+				<translate>外見を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>このキャラクターで登録します\f801\いいですか？\f801\\ffff\</origin>
+				<translate>このキャラクターで登録します\f801\いいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>キャラクターを登録しました\f801\\ffff\</origin>
+				<translate>キャラクターを登録しました\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>続けて冒険者を登録しますか？\f801\ギルド登録者数\f811\\0000\人：残り枠\f811\\0100\人\f801\\ffff\</origin>
+				<translate>続けて冒険者を登録しますか？\f801\ギルド登録者数\f811\\0000\人：残り枠\f811\\0100\人\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>サブクラスを選択してください\f801\\ffff\</origin>
+				<translate>サブクラスを選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>このクラスを習得します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>このクラスを習得します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>この職業でよろしいですか？\f801\\ffff\</origin>
+				<translate>この職業でよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>この職業に転職しました\f801\\ffff\</origin>
+				<translate>この職業に転職しました\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

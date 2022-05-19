@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>6c050000</size>
+		<number>11000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>インターネットへの接続を許可しますか？\f801\\ffff\</origin>
+				<translate>インターネットへの接続を許可しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>追加コンテンツの購入にはインターネット\f801\への接続を許可していただく必要があります。\f801\\ffff\</origin>
+				<translate>追加コンテンツの購入にはインターネット\f801\への接続を許可していただく必要があります。\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>追加コンテンツの一覧を更新中です\f801\\ffff\</origin>
+				<translate>追加コンテンツの一覧を更新中です\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>この追加コンテンツを\f801\購入しますか？\f801\\ffff\</origin>
+				<translate>この追加コンテンツを\f801\購入しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>この追加コンテンツをＳＤカードに\f801\ダウンロードしますか？\f801\\ffff\</origin>
+				<translate>この追加コンテンツをＳＤカードに\f801\ダウンロードしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>この追加コンテンツを\f801\ＳＤカードから削除しますか？\f801\\ffff\</origin>
+				<translate>この追加コンテンツを\f801\ＳＤカードから削除しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>ＳＤカードが\f801\本体に挿入されていません。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</origin>
+				<translate>ＳＤカードが\f801\本体に挿入されていません。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>ＳＤカードが認識できません。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</origin>
+				<translate>ＳＤカードが認識できません。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>インターネットに接続中です。\f801\\ffff\</origin>
+				<translate>インターネットに接続中です。\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>追加コンテンツの販売が\f801\開始されていません。\f801\\ffff\</origin>
+				<translate>追加コンテンツの販売が\f801\開始されていません。\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>ＳＤカードのフォーマットが不正。\f801\または書き込み不可に設定されています。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</origin>
+				<translate>ＳＤカードのフォーマットが不正。\f801\または書き込み不可に設定されています。\f801\\f802\ＳＤカードの挿入は本体の電源を\f801\切ってから行ってください。\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>選択した追加コンテンツを\f801\ＳＤカードから削除しています。\f801\\ffff\</origin>
+				<translate>選択した追加コンテンツを\f801\ＳＤカードから削除しています。\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>選択した追加コンテンツを\f801\ＳＤカードから削除しました。\f801\\ffff\</origin>
+				<translate>選択した追加コンテンツを\f801\ＳＤカードから削除しました。\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>追加コンテンツを認識できませんでした\f801\\ffff\</origin>
+				<translate>追加コンテンツを認識できませんでした\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>追加コンテンツの購入を終了し\f801\タイトルに戻りますか？\f801\\ffff\</origin>
+				<translate>追加コンテンツの購入を終了し\f801\タイトルに戻りますか？\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>ダウンロードカードをお持ちの場合は\f801\こちらで記載されたダウンロード番号\f801\の入力が行えます\f801\\ffff\</origin>
+				<translate>ダウンロードカードをお持ちの場合は\f801\こちらで記載されたダウンロード番号\f801\の入力が行えます\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>ダウンロード番号の入力を\f801\行いますか？\f801\\ffff\</origin>
+				<translate>ダウンロード番号の入力を\f801\行いますか？\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

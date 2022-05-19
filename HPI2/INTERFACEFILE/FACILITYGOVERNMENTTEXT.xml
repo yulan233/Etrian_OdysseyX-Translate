@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>9c020000</size>
+		<number>15000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>発動したミッションを\f801\引き受けることができます\f801\\ffff\</origin>
+				<translate>発動したミッションを\f801\引き受けることができます\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>ミッションの結果を報告します\f801\\ffff\</origin>
+				<translate>ミッションの結果を報告します\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>ラガード公宮のメンバーと話します\f801\\ffff\</origin>
+				<translate>ラガード公宮のメンバーと話します\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>依頼はありません\f801\\ffff\</origin>
+				<translate>依頼はありません\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>この依頼を引き受けますか？\f801\\ffff\</origin>
+				<translate>この依頼を引き受けますか？\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>依頼を引き受けました\f801\\ffff\</origin>
+				<translate>依頼を引き受けました\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>引き受けている依頼がありません\f801\\ffff\</origin>
+				<translate>引き受けている依頼がありません\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>\f804\\0500\\f811\\0000\\f804\\0000\を報告した！\f801\\ffff\</origin>
+				<translate>\f804\\0500\\f811\\0000\\f804\\0000\を報告した！\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>\f804\\0500\\f811\\0000\\f804\\0000\を報告した！\f801\\ffff\</origin>
+				<translate>\f804\\0500\\f811\\0000\\f804\\0000\を報告した！\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>\f804\\0500\\f811\\0000\Ｆ\f804\\0000\のマップを報告した！\f801\\ffff\</origin>
+				<translate>\f804\\0500\\f811\\0000\Ｆ\f804\\0000\のマップを報告した！\f801\\ffff\</translate>
+			</id>
+			<id id="12"/>
+			<id id="13"/>
+			<id id="14"/>
+			<id id="15"/>
+			<id id="16"/>
+			<id id="17"/>
+			<id id="18"/>
+			<id id="19"/>
+			<id id="20">
+				<origin>サブクラスが習得可能です\f801\\ffff\</origin>
+				<translate>サブクラスが習得可能です\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>天極殿の住人と話をします\f801\\ffff\</origin>
+				<translate>天極殿の住人と話をします\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

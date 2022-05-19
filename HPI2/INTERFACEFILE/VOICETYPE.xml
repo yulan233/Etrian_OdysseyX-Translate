@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>480c0000</size>
+		<number>69000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ボイスなし\f801\\ffff\</origin>
+				<translate>ボイスなし\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>少年・実直\f801\\ffff\</origin>
+				<translate>少年・実直\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>少年・元気\f801\\ffff\</origin>
+				<translate>少年・元気\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>少年・早熟\f801\\ffff\</origin>
+				<translate>少年・早熟\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>少年・気弱\f801\\ffff\</origin>
+				<translate>少年・気弱\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>少年・クール\f801\\ffff\</origin>
+				<translate>少年・クール\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>少年・無個性①\f801\\ffff\</origin>
+				<translate>少年・無個性①\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>少年・無個性②\f801\\ffff\</origin>
+				<translate>少年・無個性②\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>青年・真面目\f801\\ffff\</origin>
+				<translate>青年・真面目\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>青年・元気\f801\\ffff\</origin>
+				<translate>青年・元気\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>青年・お調子者\f801\\ffff\</origin>
+				<translate>青年・お調子者\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>青年・冷淡\f801\\ffff\</origin>
+				<translate>青年・冷淡\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>青年・冷静\f801\\ffff\</origin>
+				<translate>青年・冷静\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>青年・爽晴\f801\\ffff\</origin>
+				<translate>青年・爽晴\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>青年・横柄\f801\\ffff\</origin>
+				<translate>青年・横柄\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>青年・物静か\f801\\ffff\</origin>
+				<translate>青年・物静か\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>青年・オネエ\f801\\ffff\</origin>
+				<translate>青年・オネエ\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>青年・無気力\f801\\ffff\</origin>
+				<translate>青年・無気力\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>青年・無個性①\f801\\ffff\</origin>
+				<translate>青年・無個性①\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>青年・無個性②\f801\\ffff\</origin>
+				<translate>青年・無個性②\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>中年・真面目\f801\\ffff\</origin>
+				<translate>中年・真面目\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>中年・クール\f801\\ffff\</origin>
+				<translate>中年・クール\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>中年・横柄\f801\\ffff\</origin>
+				<translate>中年・横柄\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>中年・豪快\f801\\ffff\</origin>
+				<translate>中年・豪快\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>中年・無個性\f801\\ffff\</origin>
+				<translate>中年・無個性\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>老齢・クール\f801\\ffff\</origin>
+				<translate>老齢・クール\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>老齢・老人口調\f801\\ffff\</origin>
+				<translate>老齢・老人口調\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>老齢・無個性\f801\\ffff\</origin>
+				<translate>老齢・無個性\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>男性・実況者\f801\\ffff\</origin>
+				<translate>男性・実況者\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>男性・戦闘狂\f801\\ffff\</origin>
+				<translate>男性・戦闘狂\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>男性・無機質\f801\\ffff\</origin>
+				<translate>男性・無機質\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>幼女・真面目\f801\\ffff\</origin>
+				<translate>幼女・真面目\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>少女・真面目\f801\\ffff\</origin>
+				<translate>少女・真面目\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>少女・元気\f801\\ffff\</origin>
+				<translate>少女・元気\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>少女・ドジっ子\f801\\ffff\</origin>
+				<translate>少女・ドジっ子\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>少女・軍人\f801\\ffff\</origin>
+				<translate>少女・軍人\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>少女・クール\f801\\ffff\</origin>
+				<translate>少女・クール\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>少女・和やか\f801\\ffff\</origin>
+				<translate>少女・和やか\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>少女・大和撫子\f801\\ffff\</origin>
+				<translate>少女・大和撫子\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>少女・お嬢様\f801\\ffff\</origin>
+				<translate>少女・お嬢様\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>少女・勇敢\f801\\ffff\</origin>
+				<translate>少女・勇敢\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>少女・乱暴者\f801\\ffff\</origin>
+				<translate>少女・乱暴者\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>少女・男口調\f801\\ffff\</origin>
+				<translate>少女・男口調\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>少女・ボクっ娘\f801\\ffff\</origin>
+				<translate>少女・ボクっ娘\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>少女・高飛車\f801\\ffff\</origin>
+				<translate>少女・高飛車\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>少女・異邦人\f801\\ffff\</origin>
+				<translate>少女・異邦人\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>少女・無個性①\f801\\ffff\</origin>
+				<translate>少女・無個性①\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>少女・無個性②\f801\\ffff\</origin>
+				<translate>少女・無個性②\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>少女・無個性③\f801\\ffff\</origin>
+				<translate>少女・無個性③\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>女性・真面目\f801\\ffff\</origin>
+				<translate>女性・真面目\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>女性・姉御\f801\\ffff\</origin>
+				<translate>女性・姉御\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>女性・クール\f801\\ffff\</origin>
+				<translate>女性・クール\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>女性・男口調\f801\\ffff\</origin>
+				<translate>女性・男口調\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>女性・優しい\f801\\ffff\</origin>
+				<translate>女性・優しい\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>女性・フランク\f801\\ffff\</origin>
+				<translate>女性・フランク\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>女性・無個性\f801\\ffff\</origin>
+				<translate>女性・無個性\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>女性・軍人\f801\\ffff\</origin>
+				<translate>女性・軍人\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>女性・セクシー\f801\\ffff\</origin>
+				<translate>女性・セクシー\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>女性・戦闘狂\f801\\ffff\</origin>
+				<translate>女性・戦闘狂\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>少女・中二病\f801\\ffff\</origin>
+				<translate>少女・中二病\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>少女・無機質\f801\\ffff\</origin>
+				<translate>少女・無機質\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>熱血\f801\\ffff\</origin>
+				<translate>熱血\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>好青年\f801\\ffff\</origin>
+				<translate>好青年\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>自信家\f801\\ffff\</origin>
+				<translate>自信家\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>渋め\f801\\ffff\</origin>
+				<translate>渋め\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>やんちゃ\f801\\ffff\</origin>
+				<translate>やんちゃ\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>武人\f801\\ffff\</origin>
+				<translate>武人\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>理知的\f801\\ffff\</origin>
+				<translate>理知的\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>弱気\f801\\ffff\</origin>
+				<translate>弱気\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>物静か\f801\\ffff\</origin>
+				<translate>物静か\f801\\ffff\</translate>
+			</id>
+			<id id="70">
+				<origin>紳士\f801\\ffff\</origin>
+				<translate>紳士\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>穏やか\f801\\ffff\</origin>
+				<translate>穏やか\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>ニヒル\f801\\ffff\</origin>
+				<translate>ニヒル\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>武士\f801\\ffff\</origin>
+				<translate>武士\f801\\ffff\</translate>
+			</id>
+			<id id="74">
+				<origin>さわやか\f801\\ffff\</origin>
+				<translate>さわやか\f801\\ffff\</translate>
+			</id>
+			<id id="75">
+				<origin>丁寧\f801\\ffff\</origin>
+				<translate>丁寧\f801\\ffff\</translate>
+			</id>
+			<id id="76">
+				<origin>生意気\f801\\ffff\</origin>
+				<translate>生意気\f801\\ffff\</translate>
+			</id>
+			<id id="77">
+				<origin>冷然\f801\\ffff\</origin>
+				<translate>冷然\f801\\ffff\</translate>
+			</id>
+			<id id="78">
+				<origin>ハイテンション\f801\\ffff\</origin>
+				<translate>ハイテンション\f801\\ffff\</translate>
+			</id>
+			<id id="79">
+				<origin>無気力\f801\\ffff\</origin>
+				<translate>無気力\f801\\ffff\</translate>
+			</id>
+			<id id="80">
+				<origin>粗暴\f801\\ffff\</origin>
+				<translate>粗暴\f801\\ffff\</translate>
+			</id>
+			<id id="81">
+				<origin>お転婆\f801\\ffff\</origin>
+				<translate>お転婆\f801\\ffff\</translate>
+			</id>
+			<id id="82">
+				<origin>高飛車\f801\\ffff\</origin>
+				<translate>高飛車\f801\\ffff\</translate>
+			</id>
+			<id id="83">
+				<origin>軍人\f801\\ffff\</origin>
+				<translate>軍人\f801\\ffff\</translate>
+			</id>
+			<id id="84">
+				<origin>お嬢様\f801\\ffff\</origin>
+				<translate>お嬢様\f801\\ffff\</translate>
+			</id>
+			<id id="85">
+				<origin>活発\f801\\ffff\</origin>
+				<translate>活発\f801\\ffff\</translate>
+			</id>
+			<id id="86">
+				<origin>野生的\f801\\ffff\</origin>
+				<translate>野生的\f801\\ffff\</translate>
+			</id>
+			<id id="87">
+				<origin>素直\f801\\ffff\</origin>
+				<translate>素直\f801\\ffff\</translate>
+			</id>
+			<id id="88">
+				<origin>天然\f801\\ffff\</origin>
+				<translate>天然\f801\\ffff\</translate>
+			</id>
+			<id id="89">
+				<origin>冷静\f801\\ffff\</origin>
+				<translate>冷静\f801\\ffff\</translate>
+			</id>
+			<id id="90">
+				<origin>明るい\f801\\ffff\</origin>
+				<translate>明るい\f801\\ffff\</translate>
+			</id>
+			<id id="91">
+				<origin>ボーイッシュ\f801\\ffff\</origin>
+				<translate>ボーイッシュ\f801\\ffff\</translate>
+			</id>
+			<id id="92">
+				<origin>老婆\f801\\ffff\</origin>
+				<translate>老婆\f801\\ffff\</translate>
+			</id>
+			<id id="93">
+				<origin>真面目\f801\\ffff\</origin>
+				<translate>真面目\f801\\ffff\</translate>
+			</id>
+			<id id="94">
+				<origin>クール\f801\\ffff\</origin>
+				<translate>クール\f801\\ffff\</translate>
+			</id>
+			<id id="95">
+				<origin>古風\f801\\ffff\</origin>
+				<translate>古風\f801\\ffff\</translate>
+			</id>
+			<id id="96">
+				<origin>オドオド\f801\\ffff\</origin>
+				<translate>オドオド\f801\\ffff\</translate>
+			</id>
+			<id id="97">
+				<origin>意地っ張り\f801\\ffff\</origin>
+				<translate>意地っ張り\f801\\ffff\</translate>
+			</id>
+			<id id="98">
+				<origin>毒舌\f801\\ffff\</origin>
+				<translate>毒舌\f801\\ffff\</translate>
+			</id>
+			<id id="99">
+				<origin>無口\f801\\ffff\</origin>
+				<translate>無口\f801\\ffff\</translate>
+			</id>
+			<id id="100">
+				<origin>セクシー\f801\\ffff\</origin>
+				<translate>セクシー\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>エドガー\f801\\ffff\</origin>
+				<translate>エドガー\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>ジェネッタ\f801\\ffff\</origin>
+				<translate>ジェネッタ\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>メリーナ\f801\\ffff\</origin>
+				<translate>メリーナ\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>ソロル\f801\\ffff\</origin>
+				<translate>ソロル\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>リリ\f801\\ffff\</origin>
+				<translate>リリ\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

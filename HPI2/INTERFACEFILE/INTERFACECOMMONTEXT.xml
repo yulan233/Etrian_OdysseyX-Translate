@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>5a1c0000</size>
+		<number>f3000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1"/>
+			<id id="2">
+				<origin>\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を手に入れた\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を手に入れた\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を\f811\\0100\個手に入れた\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を\f811\\0100\個手に入れた\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>\f804\\0500\\f811\\0000\\f804\\0000\エンを手に入れた\f801\\ffff\</origin>
+				<translate>\f804\\0500\\f811\\0000\\f804\\0000\エンを手に入れた\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>選択したアイテムを破棄しますが、\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>選択したアイテムを破棄しますが、\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>アイテムが持ちきれません\f801\捨てるアイテムを選択してください\f801\\ffff\</origin>
+				<translate>アイテムが持ちきれません\f801\捨てるアイテムを選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>メインクラス：\f811\\0000\\f801\\ffff\</origin>
+				<translate>メインクラス：\f811\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>サブクラス ：\f811\\0100\\f801\\ffff\</origin>
+				<translate>サブクラス ：\f811\\0100\\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>クラス：\f811\\0000\\f801\\ffff\</origin>
+				<translate>クラス：\f811\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="10"/>
+			<id id="11">
+				<origin>ギルドカードを持ちきれません\f801\削除するカードを選択してください\f801\\ffff\</origin>
+				<translate>ギルドカードを持ちきれません\f801\削除するカードを選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>選択したギルドカードを削除します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>選択したギルドカードを削除します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>新たにモンスターを発見しました！\f801\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>新たにモンスターを発見しました！\f801\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>新たにアイテムを発見しました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>新たにアイテムを発見しました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>新たにアイテムを発見しました！\f801\\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>新たにアイテムを発見しました！\f801\\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>新たに食材を発見しました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>新たに食材を発見しました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>新たに食材を発見しました！\f801\\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>新たに食材を発見しました！\f801\\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>クリアデータをセーブしますか？\f801\\ffff\</origin>
+				<translate>クリアデータをセーブしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>オートセーブ先のデータは\f801\現在プレイ中のセーブデータとは\f801\別のデータです\f801\\ffff\</origin>
+				<translate>オートセーブ先のデータは\f801\現在プレイ中のセーブデータとは\f801\別のデータです\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>このデータで上書きしてもよろしいですか？\f801\\ffff\</origin>
+				<translate>このデータで上書きしてもよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>オートセーブ先のデータが\f801\認識できませんでした\f801\\f817\\ffff\</origin>
+				<translate>オートセーブ先のデータが\f801\認識できませんでした\f801\\f817\\ffff\</translate>
+			</id>
+			<id id="22"/>
+			<id id="23">
+				<origin>データをロードしますか？\f801\中断データは削除されます\f801\\ffff\</origin>
+				<translate>データをロードしますか？\f801\中断データは削除されます\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>ニューゲームで始めますか？\f801\中断データは削除されます\f801\\ffff\</origin>
+				<translate>ニューゲームで始めますか？\f801\中断データは削除されます\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>\f804\\0500\ニューゲーム\f804\\0000\で始めますか？\f801\中断データは削除されます\f801\\ffff\</origin>
+				<translate>\f804\\0500\ニューゲーム\f804\\0000\で始めますか？\f801\中断データは削除されます\f801\\ffff\</translate>
+			</id>
+			<id id="26"/>
+			<id id="27"/>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30">
+				<origin>\f811\\0000\\f801\\ffff\</origin>
+				<translate>\f811\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>Ｂ\f811\\0000\Ｆ\f801\\ffff\</origin>
+				<translate>Ｂ\f811\\0000\Ｆ\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>選択したい座標をタッチしてください。\f801\\ffff\</origin>
+				<translate>選択したい座標をタッチしてください。\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>この座標でよろしいですか。\f801\\ffff\</origin>
+				<translate>この座標でよろしいですか。\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>難易度は\f801\「ＢＡＳＩＣ」と「ＡＤＶＡＮＣＥＤ」の\f801\二種類あります\f801\\f802\「ＢＡＳＩＣ」は基本となるモードで\f801\ＲＰＧを楽しんで遊びたい方向けとなります\f801\\f802\またパーティが全滅しても\f801\「ゲームオーバー」ではなく\f801\一度だけ戦闘直前の状況から再開できます\f801\\f802\「ＡＤＶＡＮＣＥＤ」は高難易度のモードで\f801\過去の世界樹をやり込んだ方や歯応えある\f801\ＲＰＧが好きな方向けとなります\f801\\f802\難易度の違いによる\f801\ストーリーの変化は一切ありませんが、\f801\勲章が一部獲得できない場合があります\f801\\ffff\</origin>
+				<translate>難易度は\f801\「ＢＡＳＩＣ」と「ＡＤＶＡＮＣＥＤ」の\f801\二種類あります\f801\\f802\「ＢＡＳＩＣ」は基本となるモードで\f801\ＲＰＧを楽しんで遊びたい方向けとなります\f801\\f802\またパーティが全滅しても\f801\「ゲームオーバー」ではなく\f801\一度だけ戦闘直前の状況から再開できます\f801\\f802\「ＡＤＶＡＮＣＥＤ」は高難易度のモードで\f801\過去の世界樹をやり込んだ方や歯応えある\f801\ＲＰＧが好きな方向けとなります\f801\\f802\難易度の違いによる\f801\ストーリーの変化は一切ありませんが、\f801\勲章が一部獲得できない場合があります\f801\\ffff\</translate>
+			</id>
+			<id id="35"/>
+			<id id="36">
+				<origin>その名前は使えません\f801\\ffff\</origin>
+				<translate>その名前は使えません\f801\\ffff\</translate>
+			</id>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39">
+				<origin>経験値入手可能なキャラはいません！\f801\\ffff\</origin>
+				<translate>経験値入手可能なキャラはいません！\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\を手に入れた！！！\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\を手に入れた！！！\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\を\f811\\0100\個手に入れた！！！\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f804\\0900\\f811\\0000\\f804\\0000\を\f811\\0100\個手に入れた！！！\f801\\ffff\</translate>
+			</id>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47">
+				<origin>\f811\\0000\エンですが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンですが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>これでよろしいですか？\f801\\ffff\</origin>
+				<translate>これでよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>\f843\\0000\の\f801\ＨＰが\f811\\0000\回復した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＨＰが\f811\\0000\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>\f843\\0000\の\f801\ＨＰが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＨＰが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>\f843\\0000\の\f801\ＴＰが\f811\\0000\回復した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＴＰが\f811\\0000\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>\f843\\0000\の\f801\ＴＰが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＴＰが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>\f843\\0000\の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\回復した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>\f843\\0000\の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\減少した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>全員のＨＰが\f811\\0000\回復した！\f801\\ffff\</origin>
+				<translate>全員のＨＰが\f811\\0000\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>全員のＨＰが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>全員のＨＰが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>全員のＴＰが\f811\\0000\回復した！\f801\\ffff\</origin>
+				<translate>全員のＴＰが\f811\\0000\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>全員のＴＰが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>全員のＴＰが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>全員の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\回復した！\f801\\ffff\</origin>
+				<translate>全員の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>全員の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\減少した！\f801\\ffff\</origin>
+				<translate>全員の\f801\ＨＰが\f811\\0000\、ＴＰが\f811\\0100\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>フロアジャンプが解禁されました！\f801\\ffff\</origin>
+				<translate>フロアジャンプが解禁されました！\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>アイテムが持ちきれなくなったので\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を\f811\\0100\個\f801\預り所に預けた\f801\\ffff\</origin>
+				<translate>アイテムが持ちきれなくなったので\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\を\f811\\0100\個\f801\預り所に預けた\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>預り所にこれ以上預けられません\f801\\ffff\</origin>
+				<translate>預り所にこれ以上預けられません\f801\\ffff\</translate>
+			</id>
+			<id id="64"/>
+			<id id="65">
+				<origin>全員のＨＰが回復した！\f801\\ffff\</origin>
+				<translate>全員のＨＰが回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>全員のＨＰが減少した！\f801\\ffff\</origin>
+				<translate>全員のＨＰが減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>全員のＴＰが回復した！\f801\\ffff\</origin>
+				<translate>全員のＴＰが回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>全員のＴＰが減少した！\f801\\ffff\</origin>
+				<translate>全員のＴＰが減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>全員のＨＰとＴＰが回復した！\f801\\ffff\</origin>
+				<translate>全員のＨＰとＴＰが回復した！\f801\\ffff\</translate>
+			</id>
+			<id id="70">
+				<origin>全員のＨＰとＴＰが減少した！\f801\\ffff\</origin>
+				<translate>全員のＨＰとＴＰが減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="71"/>
+			<id id="72"/>
+			<id id="73"/>
+			<id id="74"/>
+			<id id="75"/>
+			<id id="76"/>
+			<id id="77"/>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80"/>
+			<id id="81"/>
+			<id id="82"/>
+			<id id="83"/>
+			<id id="84"/>
+			<id id="85"/>
+			<id id="86"/>
+			<id id="87"/>
+			<id id="88"/>
+			<id id="89"/>
+			<id id="90"/>
+			<id id="91"/>
+			<id id="92"/>
+			<id id="93"/>
+			<id id="94"/>
+			<id id="95"/>
+			<id id="96"/>
+			<id id="97"/>
+			<id id="98"/>
+			<id id="99"/>
+			<id id="100">
+				<origin>このクエストは達成済みだ。\f801\\ffff\</origin>
+				<translate>このクエストは達成済みだ。\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>このミッションは達成済みだ。\f801\\ffff\</origin>
+				<translate>このミッションは達成済みだ。\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>クワシルの酒場で報告せよ！\f801\\ffff\</origin>
+				<translate>クワシルの酒場で報告せよ！\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>探索司令部で報告せよ！\f801\\ffff\</origin>
+				<translate>探索司令部で報告せよ！\f801\\ffff\</translate>
+			</id>
+			<id id="104"/>
+			<id id="105"/>
+			<id id="106"/>
+			<id id="107"/>
+			<id id="108"/>
+			<id id="109"/>
+			<id id="110">
+				<origin>ムービーをスキップしますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>ムービーをスキップしますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="111"/>
+			<id id="112"/>
+			<id id="113"/>
+			<id id="114"/>
+			<id id="115">
+				<origin>数字は５文字までしか入力できません\f801\\ffff\</origin>
+				<translate>数字は５文字までしか入力できません\f801\\ffff\</translate>
+			</id>
+			<id id="116"/>
+			<id id="117"/>
+			<id id="118"/>
+			<id id="119"/>
+			<id id="120">
+				<origin>マップデータと漢字変換学習辞書を\f801\保存しますがよろしいですか？\f801\\ffff\</origin>
+				<translate>マップデータと漢字変換学習辞書を\f801\保存しますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>探索中一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</origin>
+				<translate>探索中一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>すでにリトライしているので\f801\リトライできません\f801\\ffff\</origin>
+				<translate>すでにリトライしているので\f801\リトライできません\f801\\ffff\</translate>
+			</id>
+			<id id="123">
+				<origin>ピクニックモードは何度でもリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</origin>
+				<translate>ピクニックモードは何度でもリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="124">
+				<origin>探索準備により一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</origin>
+				<translate>探索準備により一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="125">
+				<origin>戦闘前の状態に一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</origin>
+				<translate>戦闘前の状態に一度だけリトライできます\f801\戦闘前の状態からリトライしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="126"/>
+			<id id="127"/>
+			<id id="128"/>
+			<id id="129"/>
+			<id id="130">
+				<origin>追加コンテンツを読み込んでいます\f801\\ffff\</origin>
+				<translate>追加コンテンツを読み込んでいます\f801\\ffff\</translate>
+			</id>
+			<id id="131">
+				<origin>追加コンテンツの読み込みに失敗しました\f801\\ffff\</origin>
+				<translate>追加コンテンツの読み込みに失敗しました\f801\\ffff\</translate>
+			</id>
+			<id id="132"/>
+			<id id="133"/>
+			<id id="134"/>
+			<id id="135"/>
+			<id id="136"/>
+			<id id="137"/>
+			<id id="138"/>
+			<id id="139"/>
+			<id id="140"/>
+			<id id="141"/>
+			<id id="142"/>
+			<id id="143"/>
+			<id id="144"/>
+			<id id="145"/>
+			<id id="146"/>
+			<id id="147"/>
+			<id id="148"/>
+			<id id="149"/>
+			<id id="150"/>
+			<id id="151"/>
+			<id id="152"/>
+			<id id="153"/>
+			<id id="154"/>
+			<id id="155"/>
+			<id id="156"/>
+			<id id="157"/>
+			<id id="158"/>
+			<id id="159"/>
+			<id id="160">
+				<origin>\f843\\0000\の\f801\フォースゲージが\f811\\0000\増加した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\フォースゲージが\f811\\0000\増加した！\f801\\ffff\</translate>
+			</id>
+			<id id="161">
+				<origin>\f843\\0000\の\f801\フォースゲージが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>\f843\\0000\の\f801\フォースゲージが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="162">
+				<origin>全員のフォースゲージが\f811\\0000\増加した！\f801\\ffff\</origin>
+				<translate>全員のフォースゲージが\f811\\0000\増加した！\f801\\ffff\</translate>
+			</id>
+			<id id="163">
+				<origin>全員のフォースゲージが\f811\\0000\減少した！\f801\\ffff\</origin>
+				<translate>全員のフォースゲージが\f811\\0000\減少した！\f801\\ffff\</translate>
+			</id>
+			<id id="164"/>
+			<id id="165"/>
+			<id id="166"/>
+			<id id="167"/>
+			<id id="168"/>
+			<id id="169"/>
+			<id id="170">
+				<origin>この場所にセーブしますか？\f801\\ffff\</origin>
+				<translate>この場所にセーブしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="171">
+				<origin>このデータに上書きしますか？\f801\\ffff\</origin>
+				<translate>このデータに上書きしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="172">
+				<origin>このデータを削除しますか？\f801\\ffff\</origin>
+				<translate>このデータを削除しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="173">
+				<origin>削除したデータは復元できませんが、\f801\本当によろしいですか？\f801\\ffff\</origin>
+				<translate>削除したデータは復元できませんが、\f801\本当によろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="174">
+				<origin>下画面でスロットを選択してください。\f801\\ffff\</origin>
+				<translate>下画面でスロットを選択してください。\f801\\ffff\</translate>
+			</id>
+			<id id="175"/>
+			<id id="176"/>
+			<id id="177"/>
+			<id id="178"/>
+			<id id="179">
+				<origin>ギルドカードのセーブデータに\f801\アクセスできないため\f801\ギルドカードを受信できません\f801\\f802\ＳＤカードの抜き差しは電源を\f801\切った状態で行ってください\f801\\ffff\</origin>
+				<translate>ギルドカードのセーブデータに\f801\アクセスできないため\f801\ギルドカードを受信できません\f801\\f802\ＳＤカードの抜き差しは電源を\f801\切った状態で行ってください\f801\\ffff\</translate>
+			</id>
+			<id id="180">
+				<origin>追加コンテンツの読み込みに失敗しました\f801\\f802\タイトル画面に戻ります\f801\\ffff\</origin>
+				<translate>追加コンテンツの読み込みに失敗しました\f801\\f802\タイトル画面に戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="181">
+				<origin>追加コンテンツの読み込みに失敗しました\f801\\f802\追加コンテンツを\f801\進行することはできなくなりました\f801\\f802\マギニアに戻ります\f801\\ffff\</origin>
+				<translate>追加コンテンツの読み込みに失敗しました\f801\\f802\追加コンテンツを\f801\進行することはできなくなりました\f801\\f802\マギニアに戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="182"/>
+			<id id="183"/>
+			<id id="184"/>
+			<id id="185"/>
+			<id id="186"/>
+			<id id="187"/>
+			<id id="188"/>
+			<id id="189"/>
+			<id id="190">
+				<origin>ショートカットします\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>ショートカットします\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="191"/>
+			<id id="192"/>
+			<id id="193"/>
+			<id id="194"/>
+			<id id="195"/>
+			<id id="196"/>
+			<id id="197"/>
+			<id id="198"/>
+			<id id="199"/>
+			<id id="200">
+				<origin>プレイヤーのレベルが５以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</origin>
+				<translate>プレイヤーのレベルが５以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</translate>
+			</id>
+			<id id="201">
+				<origin>プレイヤーのレベルが１０以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</origin>
+				<translate>プレイヤーのレベルが１０以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</translate>
+			</id>
+			<id id="202">
+				<origin>プレイヤーのレベルが１５以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</origin>
+				<translate>プレイヤーのレベルが１５以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</translate>
+			</id>
+			<id id="203">
+				<origin>プレイヤーのレベルが２０以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</origin>
+				<translate>プレイヤーのレベルが２０以上となったので\f801\種族スキルが新たに解禁されました\f801\\ffff\</translate>
+			</id>
+			<id id="204"/>
+			<id id="205"/>
+			<id id="206"/>
+			<id id="207"/>
+			<id id="208"/>
+			<id id="209"/>
+			<id id="210">
+				<origin>選択したフロアから冒険をスタートできます\f801\移動しますか？\f801\\ffff\</origin>
+				<translate>選択したフロアから冒険をスタートできます\f801\移動しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="211"/>
+			<id id="212"/>
+			<id id="213"/>
+			<id id="214"/>
+			<id id="215"/>
+			<id id="216"/>
+			<id id="217"/>
+			<id id="218"/>
+			<id id="219"/>
+			<id id="220">
+				<origin>\f811\\0000\の\f801\ボイスの読み込みに失敗しました\f801\\f802\\f811\\0000\の\f801\キャラクターボイスを無音に設定しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\の\f801\ボイスの読み込みに失敗しました\f801\\f802\\f811\\0000\の\f801\キャラクターボイスを無音に設定しました\f801\\ffff\</translate>
+			</id>
+			<id id="221">
+				<origin>ボイスの読み込みに失敗しました\f801\\ffff\</origin>
+				<translate>ボイスの読み込みに失敗しました\f801\\ffff\</translate>
+			</id>
+			<id id="222">
+				<origin>追加コンテンツのＢＧＭ再生に\f801\失敗しました\f801\\f802\本体の電源を切りＳＤカードを\f801\挿し直してください\f801\\ffff\</origin>
+				<translate>追加コンテンツのＢＧＭ再生に\f801\失敗しました\f801\\f802\本体の電源を切りＳＤカードを\f801\挿し直してください\f801\\ffff\</translate>
+			</id>
+			<id id="223">
+				<origin>追加コンテンツのＢＧＭ再生に\f801\失敗しました\f801\\f802\ＢＧＭ ＰＬＡＹを終了します\f801\\f802\本体の電源を切りＳＤカードを\f801\挿し直してください\f801\\ffff\</origin>
+				<translate>追加コンテンツのＢＧＭ再生に\f801\失敗しました\f801\\f802\ＢＧＭ ＰＬＡＹを終了します\f801\\f802\本体の電源を切りＳＤカードを\f801\挿し直してください\f801\\ffff\</translate>
+			</id>
+			<id id="224"/>
+			<id id="225"/>
+			<id id="226"/>
+			<id id="227"/>
+			<id id="228"/>
+			<id id="229"/>
+			<id id="230">
+				<origin>装備を変更したことで\f801\使用できるスキルが変化しました\f801\\ffff\</origin>
+				<translate>装備を変更したことで\f801\使用できるスキルが変化しました\f801\\ffff\</translate>
+			</id>
+			<id id="231">
+				<origin>下画面で装備品を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>下画面で装備品を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="232">
+				<origin>このキャラクターの装備は\f801\変更できません！\f801\\ffff\</origin>
+				<translate>このキャラクターの装備は\f801\変更できません！\f801\\ffff\</translate>
+			</id>
+			<id id="233">
+				<origin>経験値入手可能なキャラはいません！\f801\\ffff\</origin>
+				<translate>経験値入手可能なキャラはいません！\f801\\ffff\</translate>
+			</id>
+			<id id="234">
+				<origin>演出をスキップしてよろしいですか？\f801\\ffff\</origin>
+				<translate>演出をスキップしてよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="235">
+				<origin>スキップしてよろしいですか？\f801\\ffff\</origin>
+				<translate>スキップしてよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="236">
+				<origin>\f804\\0300\サブウェポン\f804\\0000\を装備しました。\f801\戦闘時、サブウェポンのスキルも\f801\使用することができます！\f801\\ffff\</origin>
+				<translate>\f804\\0300\サブウェポン\f804\\0000\を装備しました。\f801\戦闘時、サブウェポンのスキルも\f801\使用することができます！\f801\\ffff\</translate>
+			</id>
+			<id id="237">
+				<origin>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\\ffff\</origin>
+				<translate>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\\ffff\</translate>
+			</id>
+			<id id="238">
+				<origin>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\使用できるスキルが変化しました\f801\\ffff\</origin>
+				<translate>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\使用できるスキルが変化しました\f801\\ffff\</translate>
+			</id>
+			<id id="239"/>
+			<id id="240">
+				<origin>世界樹の迷宮Ｘ \f801\の体験版をダウンロード\f801\して頂きありがとうございます\f801\\f802\製品版をニンテンドーｅショップ\f801\よりご購入頂けます\f801\\ffff\</origin>
+				<translate>世界樹の迷宮Ｘ \f801\の体験版をダウンロード\f801\して頂きありがとうございます\f801\\f802\製品版をニンテンドーｅショップ\f801\よりご購入頂けます\f801\\ffff\</translate>
+			</id>
+			<id id="241">
+				<origin>ニンテンドーｅショップを\f801\起動しますか？\f801\\ffff\</origin>
+				<translate>ニンテンドーｅショップを\f801\起動しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="242">
+				<origin>アプリケーションを終了しますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>アプリケーションを終了しますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="243">
+				<origin>ニンテンドーｅショップを\f801\使用できません\f801\\f802\ニンテンドーｅショップを\f801\使用するにはインターネットで\f801\本体更新をしてください\f801\\ffff\</origin>
+				<translate>ニンテンドーｅショップを\f801\使用できません\f801\\f802\ニンテンドーｅショップを\f801\使用するにはインターネットで\f801\本体更新をしてください\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

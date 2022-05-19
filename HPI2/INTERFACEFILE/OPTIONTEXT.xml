@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>36260000</size>
+		<number>12010000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>ＢＧＭの音量が変更できます\f801\\ffff\</origin>
+				<translate>ＢＧＭの音量が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>ＳＥの音量が変更できます\f801\\ffff\</origin>
+				<translate>ＳＥの音量が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>ＶＯＩＣＥの音量が変更できます\f801\\ffff\</origin>
+				<translate>ＶＯＩＣＥの音量が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>イベント中のメッセージ速度が変更できます\f801\\ffff\</origin>
+				<translate>イベント中のメッセージ速度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>戦闘中のメッセージウェイトが変更できます\f801\\ffff\</origin>
+				<translate>戦闘中のメッセージウェイトが変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>戦闘中のアニメーション速度が変更できます\f801\\ffff\</origin>
+				<translate>戦闘中のアニメーション速度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>戦闘中のオートバトル時の速度が変更できます\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル時の速度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>戦闘中にＡボタンを押した際の速度が変更できます\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押した際の速度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>戦闘中にオートバトルを選択した時の確認を変更できます\f801\\ffff\</origin>
+				<translate>戦闘中にオートバトルを選択した時の確認を変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>戦闘中にコマンド入力を終了した時の確認を変更できます\f801\\ffff\</origin>
+				<translate>戦闘中にコマンド入力を終了した時の確認を変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>左右のカメラ操作が変更できます\f801\\ffff\</origin>
+				<translate>左右のカメラ操作が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>上下のカメラ操作が変更できます\f801\\ffff\</origin>
+				<translate>上下のカメラ操作が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>踏破した床や周囲の壁が自動的に塗られる機能を変更できます\f801\\ffff\</origin>
+				<translate>踏破した床や周囲の壁が自動的に塗られる機能を変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>ダンジョン内での移動速度が変更できます\f801\\ffff\</origin>
+				<translate>ダンジョン内での移動速度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>宿屋宿泊時に自動でセーブを行う方式を変更できます\f801\\ffff\</origin>
+				<translate>宿屋宿泊時に自動でセーブを行う方式を変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>ＬボタンをＡボタンに変更できます\f801\\ffff\</origin>
+				<translate>ＬボタンをＡボタンに変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>難易度が変更できます\f801\\ffff\</origin>
+				<translate>難易度が変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>ＢＧＭ音源を変更できます\f801\\ffff\</origin>
+				<translate>ＢＧＭ音源を変更できます\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>ゲームカードのセーブデータを削除し初期化できます\f801\\ffff\</origin>
+				<translate>ゲームカードのセーブデータを削除し初期化できます\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>タイトル画面へ戻れます\f801\\ffff\</origin>
+				<translate>タイトル画面へ戻れます\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>オプション画面を終了してゲームへ戻ります\f801\\ffff\</origin>
+				<translate>オプション画面を終了してゲームへ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>体験版のセーブデータを削除し初期化できます\f801\\ffff\</origin>
+				<translate>体験版のセーブデータを削除し初期化できます\f801\\ffff\</translate>
+			</id>
+			<id id="23"/>
+			<id id="24"/>
+			<id id="25"/>
+			<id id="26"/>
+			<id id="27"/>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30">
+				<origin>ゲーム中の流れているＢＧＭの音量を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>ゲーム中の流れているＢＧＭの音量を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>ゲーム中のＳＥの音量を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>ゲーム中のＳＥの音量を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>ゲーム中のＶＯＩＣＥの音量を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>ゲーム中のＶＯＩＣＥの音量を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>イベント中に表示されるメッセージの速度を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>イベント中に表示されるメッセージの速度を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>戦闘中に表示されるメッセージウェイトを\f801\変更することができます\f801\\f802\ＰＡＵＳＥにすると\f801\ボタンを押さないとメッセージが送られず\f801\戦闘が先に進まなくなります\f801\\ffff\</origin>
+				<translate>戦闘中に表示されるメッセージウェイトを\f801\変更することができます\f801\\f802\ＰＡＵＳＥにすると\f801\ボタンを押さないとメッセージが送られず\f801\戦闘が先に進まなくなります\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>戦闘中のアニメーションの速度を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>戦闘中のアニメーションの速度を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>戦闘中にオートバトルを行った際の\f801\アニメーションの速度を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>戦闘中にオートバトルを行った際の\f801\アニメーションの速度を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>戦闘中にＡボタンを押した際の\f801\アニメーションの速度を\f801\変更することができます\f801\\f802\コマンド入力後から次のコマンド入力の\f801\間までにＡボタンを押すことで\f801\アニメーション速度を変更できる機能です\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押した際の\f801\アニメーションの速度を\f801\変更することができます\f801\\f802\コマンド入力後から次のコマンド入力の\f801\間までにＡボタンを押すことで\f801\アニメーション速度を変更できる機能です\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>戦闘中、Ｌボタンを押した際の\f801\オートバトル開始時に確認を行うように\f801\変更することができます\f801\\ffff\</origin>
+				<translate>戦闘中、Ｌボタンを押した際の\f801\オートバトル開始時に確認を行うように\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>戦闘中、全員分のコマンド入力終了時に\f801\確認を行うように変更することができます\f801\\ffff\</origin>
+				<translate>戦闘中、全員分のコマンド入力終了時に\f801\確認を行うように変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>ダンジョン内でカメラを操作する際\f801\スライドパッドの左右入力の挙動を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>ダンジョン内でカメラを操作する際\f801\スライドパッドの左右入力の挙動を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>ダンジョン内でカメラを操作する際\f801\スライドパッドの上下入力の挙動を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>ダンジョン内でカメラを操作する際\f801\スライドパッドの上下入力の挙動を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>踏破した床や周囲の壁が自動的に塗られる\f801\機能を変更することができます\f801\\f802\ＯＮにすると歩いた床のみが自動的に塗られ\f801\ＯＦＦにすると自動的には塗られなくなり\f801\\f802\ＦＵＬＬにすると歩いた床と\f801\その周囲の壁が自動的に塗られます\f801\\ffff\</origin>
+				<translate>踏破した床や周囲の壁が自動的に塗られる\f801\機能を変更することができます\f801\\f802\ＯＮにすると歩いた床のみが自動的に塗られ\f801\ＯＦＦにすると自動的には塗られなくなり\f801\\f802\ＦＵＬＬにすると歩いた床と\f801\その周囲の壁が自動的に塗られます\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>ダンジョン内での移動速度を\f801\変更することができます\f801\\f802\ＮＯＲＭＡＬにすると通常の速度で移動し\f801\Ｂボタンを押しながら移動すると\f801\高速に移動が行えます\f801\\f802\ＦＡＳＴにすると常に高速で移動し\f801\Ｂボタンを押しながら移動すると\f801\通常の速度で移動が行えます\f801\\ffff\</origin>
+				<translate>ダンジョン内での移動速度を\f801\変更することができます\f801\\f802\ＮＯＲＭＡＬにすると通常の速度で移動し\f801\Ｂボタンを押しながら移動すると\f801\高速に移動が行えます\f801\\f802\ＦＡＳＴにすると常に高速で移動し\f801\Ｂボタンを押しながら移動すると\f801\通常の速度で移動が行えます\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>宿屋で宿泊時に自動でセーブが\f801\行えるように変更することができます\f801\\f802\ＯＮにすると宿泊した際に\f801\セーブスロットが表示されて\f801\好きなスロットにセーブが行え\f801\\f802\ＯＦＦにすると宿泊しても\f801\セーブスロットが表示されず\f801\セーブもされません\f801\\ffff\</origin>
+				<translate>宿屋で宿泊時に自動でセーブが\f801\行えるように変更することができます\f801\\f802\ＯＮにすると宿泊した際に\f801\セーブスロットが表示されて\f801\好きなスロットにセーブが行え\f801\\f802\ＯＦＦにすると宿泊しても\f801\セーブスロットが表示されず\f801\セーブもされません\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>ＬボタンをＡボタンに\f801\変更することができます\f801\\f802\ＯＮにするとＡボタンとして扱われるため\f801\左へのスライド移動やオートバトルが\f801\行えなくなります\f801\\f802\ＤＯＵＢＬＥにすると\f801\短く押すとＡボタンとなり\f801\長く押すとＬボタンとして扱われます\f801\\ffff\</origin>
+				<translate>ＬボタンをＡボタンに\f801\変更することができます\f801\\f802\ＯＮにするとＡボタンとして扱われるため\f801\左へのスライド移動やオートバトルが\f801\行えなくなります\f801\\f802\ＤＯＵＢＬＥにすると\f801\短く押すとＡボタンとなり\f801\長く押すとＬボタンとして扱われます\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>難易度は「ＰＩＣＮＩＣ」と\f801\「ＢＡＳＩＣ」と「ＥＸＰＥＲＴ」と\f801\「ＨＥＲＯＩＣ」の四種類あります\f801\\f802\「ＰＩＣＮＩＣ」では戦闘の難易度は低く、\f801\パーティが全滅しても「ゲームオーバー」\f801\ではなくその場から再開できます\f801\\f802\また、一部のアイテムが使っても\f801\減らないなど、より、気軽に楽しめる\f801\設定となっています\f801\\f802\但し、一度「ＰＩＣＮＩＣ」にしてしまうと\f801\他の難易度には変更できなくなります\f801\\f802\「ＢＡＳＩＣ」は基本となるモードで\f801\ＲＰＧを楽しんで遊びたい方向けとなります\f801\\f802\またパーティが全滅しても\f801\「ゲームオーバー」ではなく\f801\一度だけ戦闘直前の状況から再開できます\f801\\f802\「ＥＸＰＥＲＴ」は高難易度のモードで\f801\過去の世界樹をやり込んだ方や歯応えある\f801\ＲＰＧが好きな方向けとなります\f801\\f802\「ＨＥＲＯＩＣ」は「ＥＸＰＥＲＴ」と\f801\同じ難易度ですが\f801\タイトル画面からしか選択できず\f801\\f802\周回したデータを引継ぐことができません\f801\また「ＨＥＲＯＩＣ」から別の難易度に\f801\変更すると元に戻せなくなります\f801\\f802\難易度の違いによる\f801\ストーリーの変化は一切ありませんが、\f801\勲章が一部獲得できない場合があります\f801\\f802\また難易度の変更は\f801\街の中でだけしか行えません\f801\\ffff\</origin>
+				<translate>難易度は「ＰＩＣＮＩＣ」と\f801\「ＢＡＳＩＣ」と「ＥＸＰＥＲＴ」と\f801\「ＨＥＲＯＩＣ」の四種類あります\f801\\f802\「ＰＩＣＮＩＣ」では戦闘の難易度は低く、\f801\パーティが全滅しても「ゲームオーバー」\f801\ではなくその場から再開できます\f801\\f802\また、一部のアイテムが使っても\f801\減らないなど、より、気軽に楽しめる\f801\設定となっています\f801\\f802\但し、一度「ＰＩＣＮＩＣ」にしてしまうと\f801\他の難易度には変更できなくなります\f801\\f802\「ＢＡＳＩＣ」は基本となるモードで\f801\ＲＰＧを楽しんで遊びたい方向けとなります\f801\\f802\またパーティが全滅しても\f801\「ゲームオーバー」ではなく\f801\一度だけ戦闘直前の状況から再開できます\f801\\f802\「ＥＸＰＥＲＴ」は高難易度のモードで\f801\過去の世界樹をやり込んだ方や歯応えある\f801\ＲＰＧが好きな方向けとなります\f801\\f802\「ＨＥＲＯＩＣ」は「ＥＸＰＥＲＴ」と\f801\同じ難易度ですが\f801\タイトル画面からしか選択できず\f801\\f802\周回したデータを引継ぐことができません\f801\また「ＨＥＲＯＩＣ」から別の難易度に\f801\変更すると元に戻せなくなります\f801\\f802\難易度の違いによる\f801\ストーリーの変化は一切ありませんが、\f801\勲章が一部獲得できない場合があります\f801\\f802\また難易度の変更は\f801\街の中でだけしか行えません\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>ＢＧＭの音源を変更できます\f801\\f802\ＦＭはＦＭ音源でＢＧＭ再生を行い\f801\ＯＲＩＧＩＮＡＬはＯＲＩＧＩＮＡＬ音源で\f801\ＢＧＭ再生を行います\f801\\ffff\</origin>
+				<translate>ＢＧＭの音源を変更できます\f801\\f802\ＦＭはＦＭ音源でＢＧＭ再生を行い\f801\ＯＲＩＧＩＮＡＬはＯＲＩＧＩＮＡＬ音源で\f801\ＢＧＭ再生を行います\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>ゲームカードのセーブデータの削除を行い\f801\セーブデータの初期化を行います\f801\\f802\一度削除してしまうと\f801\元には戻せなくなりますので\f801\使用時にはご注意ください\f801\\ffff\</origin>
+				<translate>ゲームカードのセーブデータの削除を行い\f801\セーブデータの初期化を行います\f801\\f802\一度削除してしまうと\f801\元には戻せなくなりますので\f801\使用時にはご注意ください\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>タイトル画面へ戻ることができます\f801\プレイした内容は保存されませんので\f801\ご注意ください\f801\\ffff\</origin>
+				<translate>タイトル画面へ戻ることができます\f801\プレイした内容は保存されませんので\f801\ご注意ください\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>設定した変更内容を保存し\f801\ゲームへ戻ります\f801\\ffff\</origin>
+				<translate>設定した変更内容を保存し\f801\ゲームへ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>体験版のセーブデータの削除を行い\f801\セーブデータの初期化を行います\f801\\f802\一度削除してしまうと\f801\元には戻せなくなりますので\f801\使用時にはご注意ください\f801\\ffff\</origin>
+				<translate>体験版のセーブデータの削除を行い\f801\セーブデータの初期化を行います\f801\\f802\一度削除してしまうと\f801\元には戻せなくなりますので\f801\使用時にはご注意ください\f801\\ffff\</translate>
+			</id>
+			<id id="52"/>
+			<id id="53"/>
+			<id id="54"/>
+			<id id="55"/>
+			<id id="56"/>
+			<id id="57"/>
+			<id id="58"/>
+			<id id="59"/>
+			<id id="60">
+				<origin>現在プレイ中のデータを破棄し\f801\タイトルへ戻りますがよろしいですか？\f801\\ffff\</origin>
+				<translate>現在プレイ中のデータを破棄し\f801\タイトルへ戻りますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>ゲームカード内の全データを消去し\f801\ゲームデータの初期化を行いますか？\f801\\ffff\</origin>
+				<translate>ゲームカード内の全データを消去し\f801\ゲームデータの初期化を行いますか？\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>消去したデータは復元できませんが、\f801\本当によろしいですか？\f801\\ffff\</origin>
+				<translate>消去したデータは復元できませんが、\f801\本当によろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>ゲームデータの初期化に成功しました\f801\\ffff\</origin>
+				<translate>ゲームデータの初期化に成功しました\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>ゲームデータの初期化に失敗しました\f801\\ffff\</origin>
+				<translate>ゲームデータの初期化に失敗しました\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>体験版のセーブデータを消去し\f801\ゲームデータの初期化を行いますか？\f801\\ffff\</origin>
+				<translate>体験版のセーブデータを消去し\f801\ゲームデータの初期化を行いますか？\f801\\ffff\</translate>
+			</id>
+			<id id="66"/>
+			<id id="67"/>
+			<id id="68"/>
+			<id id="69"/>
+			<id id="70">
+				<origin>ＢＧＭを無音にします\f801\\ffff\</origin>
+				<translate>ＢＧＭを無音にします\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>ＢＧＭの音量を小にします\f801\\ffff\</origin>
+				<translate>ＢＧＭの音量を小にします\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>ＢＧＭの音量を中にします\f801\\ffff\</origin>
+				<translate>ＢＧＭの音量を中にします\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>ＢＧＭの音量を大にします\f801\\ffff\</origin>
+				<translate>ＢＧＭの音量を大にします\f801\\ffff\</translate>
+			</id>
+			<id id="74"/>
+			<id id="75"/>
+			<id id="76"/>
+			<id id="77"/>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80">
+				<origin>ＳＥを無音にします\f801\\ffff\</origin>
+				<translate>ＳＥを無音にします\f801\\ffff\</translate>
+			</id>
+			<id id="81">
+				<origin>ＳＥの音量を小にします\f801\\ffff\</origin>
+				<translate>ＳＥの音量を小にします\f801\\ffff\</translate>
+			</id>
+			<id id="82">
+				<origin>ＳＥの音量を中にします\f801\\ffff\</origin>
+				<translate>ＳＥの音量を中にします\f801\\ffff\</translate>
+			</id>
+			<id id="83">
+				<origin>ＳＥの音量を大にします\f801\\ffff\</origin>
+				<translate>ＳＥの音量を大にします\f801\\ffff\</translate>
+			</id>
+			<id id="84"/>
+			<id id="85"/>
+			<id id="86"/>
+			<id id="87"/>
+			<id id="88"/>
+			<id id="89"/>
+			<id id="90">
+				<origin>ＶＯＩＣＥを無音にします\f801\\ffff\</origin>
+				<translate>ＶＯＩＣＥを無音にします\f801\\ffff\</translate>
+			</id>
+			<id id="91">
+				<origin>ＶＯＩＣＥの音量を小にします\f801\\ffff\</origin>
+				<translate>ＶＯＩＣＥの音量を小にします\f801\\ffff\</translate>
+			</id>
+			<id id="92">
+				<origin>ＶＯＩＣＥの音量を中にします\f801\\ffff\</origin>
+				<translate>ＶＯＩＣＥの音量を中にします\f801\\ffff\</translate>
+			</id>
+			<id id="93">
+				<origin>ＶＯＩＣＥの音量を大にします\f801\\ffff\</origin>
+				<translate>ＶＯＩＣＥの音量を大にします\f801\\ffff\</translate>
+			</id>
+			<id id="94"/>
+			<id id="95"/>
+			<id id="96"/>
+			<id id="97"/>
+			<id id="98"/>
+			<id id="99"/>
+			<id id="100">
+				<origin>イベント中のメッセージ速度を遅いにします\f801\\ffff\</origin>
+				<translate>イベント中のメッセージ速度を遅いにします\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>イベント中のメッセージ速度を標準にします\f801\\ffff\</origin>
+				<translate>イベント中のメッセージ速度を標準にします\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>イベント中のメッセージ速度を速いにします\f801\\ffff\</origin>
+				<translate>イベント中のメッセージ速度を速いにします\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>イベント中のメッセージ速度を高速にします\f801\\ffff\</origin>
+				<translate>イベント中のメッセージ速度を高速にします\f801\\ffff\</translate>
+			</id>
+			<id id="104"/>
+			<id id="105"/>
+			<id id="106"/>
+			<id id="107"/>
+			<id id="108"/>
+			<id id="109"/>
+			<id id="110">
+				<origin>戦闘中のメッセージウェイトを一時停止にします\f801\\ffff\</origin>
+				<translate>戦闘中のメッセージウェイトを一時停止にします\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>戦闘中のメッセージウェイトを遅いにします\f801\\ffff\</origin>
+				<translate>戦闘中のメッセージウェイトを遅いにします\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>戦闘中のメッセージウェイトを標準にします\f801\\ffff\</origin>
+				<translate>戦闘中のメッセージウェイトを標準にします\f801\\ffff\</translate>
+			</id>
+			<id id="113">
+				<origin>戦闘中のメッセージウェイトを速いにします\f801\\ffff\</origin>
+				<translate>戦闘中のメッセージウェイトを速いにします\f801\\ffff\</translate>
+			</id>
+			<id id="114"/>
+			<id id="115"/>
+			<id id="116"/>
+			<id id="117"/>
+			<id id="118"/>
+			<id id="119"/>
+			<id id="120">
+				<origin>戦闘中のアニメーション速度を標準にします\f801\\ffff\</origin>
+				<translate>戦闘中のアニメーション速度を標準にします\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>戦闘中のアニメーション速度を速いにします\f801\\ffff\</origin>
+				<translate>戦闘中のアニメーション速度を速いにします\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>戦闘中のアニメーション速度を高速にします\f801\\ffff\</origin>
+				<translate>戦闘中のアニメーション速度を高速にします\f801\\ffff\</translate>
+			</id>
+			<id id="123"/>
+			<id id="124"/>
+			<id id="125"/>
+			<id id="126"/>
+			<id id="127"/>
+			<id id="128"/>
+			<id id="129"/>
+			<id id="130">
+				<origin>戦闘中のオートバトル時の速度を標準にします\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル時の速度を標準にします\f801\\ffff\</translate>
+			</id>
+			<id id="131">
+				<origin>戦闘中のオートバトル時の速度を速いにします\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル時の速度を速いにします\f801\\ffff\</translate>
+			</id>
+			<id id="132">
+				<origin>戦闘中のオートバトル時の速度を高速にします\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル時の速度を高速にします\f801\\ffff\</translate>
+			</id>
+			<id id="133"/>
+			<id id="134"/>
+			<id id="135"/>
+			<id id="136"/>
+			<id id="137"/>
+			<id id="138"/>
+			<id id="139"/>
+			<id id="140">
+				<origin>戦闘中にＡボタンを押しても速度は変化しなくなります\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押しても速度は変化しなくなります\f801\\ffff\</translate>
+			</id>
+			<id id="141">
+				<origin>戦闘中にＡボタンを押した際の速度を標準にします\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押した際の速度を標準にします\f801\\ffff\</translate>
+			</id>
+			<id id="142">
+				<origin>戦闘中にＡボタンを押した際の速度を速いにします\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押した際の速度を速いにします\f801\\ffff\</translate>
+			</id>
+			<id id="143">
+				<origin>戦闘中にＡボタンを押した際の速度を高速にします\f801\\ffff\</origin>
+				<translate>戦闘中にＡボタンを押した際の速度を高速にします\f801\\ffff\</translate>
+			</id>
+			<id id="144"/>
+			<id id="145"/>
+			<id id="146"/>
+			<id id="147"/>
+			<id id="148"/>
+			<id id="149"/>
+			<id id="150">
+				<origin>戦闘中のオートバトル選択時に確認を行います\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル選択時に確認を行います\f801\\ffff\</translate>
+			</id>
+			<id id="151">
+				<origin>戦闘中のオートバトル選択時に確認を行いません\f801\\ffff\</origin>
+				<translate>戦闘中のオートバトル選択時に確認を行いません\f801\\ffff\</translate>
+			</id>
+			<id id="152"/>
+			<id id="153"/>
+			<id id="154"/>
+			<id id="155"/>
+			<id id="156"/>
+			<id id="157"/>
+			<id id="158"/>
+			<id id="159"/>
+			<id id="160">
+				<origin>戦闘中のコマンド入力終了時に確認を行います\f801\\ffff\</origin>
+				<translate>戦闘中のコマンド入力終了時に確認を行います\f801\\ffff\</translate>
+			</id>
+			<id id="161">
+				<origin>戦闘中のコマンド入力終了時に確認を行いません\f801\\ffff\</origin>
+				<translate>戦闘中のコマンド入力終了時に確認を行いません\f801\\ffff\</translate>
+			</id>
+			<id id="162"/>
+			<id id="163"/>
+			<id id="164"/>
+			<id id="165"/>
+			<id id="166"/>
+			<id id="167"/>
+			<id id="168"/>
+			<id id="169"/>
+			<id id="170">
+				<origin>操作と順方向にカメラを回転させます\f801\\ffff\</origin>
+				<translate>操作と順方向にカメラを回転させます\f801\\ffff\</translate>
+			</id>
+			<id id="171">
+				<origin>操作と逆方向にカメラを回転させます\f801\\ffff\</origin>
+				<translate>操作と逆方向にカメラを回転させます\f801\\ffff\</translate>
+			</id>
+			<id id="172"/>
+			<id id="173"/>
+			<id id="174"/>
+			<id id="175"/>
+			<id id="176"/>
+			<id id="177"/>
+			<id id="178"/>
+			<id id="179"/>
+			<id id="180">
+				<origin>操作と順方向にカメラを回転させます\f801\\ffff\</origin>
+				<translate>操作と順方向にカメラを回転させます\f801\\ffff\</translate>
+			</id>
+			<id id="181">
+				<origin>操作と逆方向にカメラを回転させます\f801\\ffff\</origin>
+				<translate>操作と逆方向にカメラを回転させます\f801\\ffff\</translate>
+			</id>
+			<id id="182"/>
+			<id id="183"/>
+			<id id="184"/>
+			<id id="185"/>
+			<id id="186"/>
+			<id id="187"/>
+			<id id="188"/>
+			<id id="189"/>
+			<id id="190">
+				<origin>踏破した床のみが自動的に塗られます\f801\\ffff\</origin>
+				<translate>踏破した床のみが自動的に塗られます\f801\\ffff\</translate>
+			</id>
+			<id id="191">
+				<origin>踏破しても自動的に塗られないようにします\f801\\ffff\</origin>
+				<translate>踏破しても自動的に塗られないようにします\f801\\ffff\</translate>
+			</id>
+			<id id="192">
+				<origin>踏破した床と周囲の壁が自動的に塗られます\f801\\ffff\</origin>
+				<translate>踏破した床と周囲の壁が自動的に塗られます\f801\\ffff\</translate>
+			</id>
+			<id id="193"/>
+			<id id="194"/>
+			<id id="195"/>
+			<id id="196"/>
+			<id id="197"/>
+			<id id="198"/>
+			<id id="199"/>
+			<id id="200">
+				<origin>ダンジョン内の移動速度を通常にします\f801\\ffff\</origin>
+				<translate>ダンジョン内の移動速度を通常にします\f801\\ffff\</translate>
+			</id>
+			<id id="201">
+				<origin>ダンジョン内の移動速度を高速にします\f801\\ffff\</origin>
+				<translate>ダンジョン内の移動速度を高速にします\f801\\ffff\</translate>
+			</id>
+			<id id="202"/>
+			<id id="203"/>
+			<id id="204"/>
+			<id id="205"/>
+			<id id="206"/>
+			<id id="207"/>
+			<id id="208"/>
+			<id id="209"/>
+			<id id="210">
+				<origin>宿屋宿泊時に自動で指定したスロットにセーブを行います\f801\\ffff\</origin>
+				<translate>宿屋宿泊時に自動で指定したスロットにセーブを行います\f801\\ffff\</translate>
+			</id>
+			<id id="211">
+				<origin>宿屋宿泊時にスロットを選択してセーブを行います\f801\\ffff\</origin>
+				<translate>宿屋宿泊時にスロットを選択してセーブを行います\f801\\ffff\</translate>
+			</id>
+			<id id="212">
+				<origin>宿屋宿泊時にセーブを行いません\f801\\ffff\</origin>
+				<translate>宿屋宿泊時にセーブを行いません\f801\\ffff\</translate>
+			</id>
+			<id id="213"/>
+			<id id="214"/>
+			<id id="215"/>
+			<id id="216"/>
+			<id id="217"/>
+			<id id="218"/>
+			<id id="219"/>
+			<id id="220">
+				<origin>ＬボタンをＡボタンに変更します\f801\\ffff\</origin>
+				<translate>ＬボタンをＡボタンに変更します\f801\\ffff\</translate>
+			</id>
+			<id id="221">
+				<origin>Ｌボタンの機能はそのままです\f801\\ffff\</origin>
+				<translate>Ｌボタンの機能はそのままです\f801\\ffff\</translate>
+			</id>
+			<id id="222">
+				<origin>短く押すとＡボタンとなり長く押すとＬボタンとして扱われます\f801\\ffff\</origin>
+				<translate>短く押すとＡボタンとなり長く押すとＬボタンとして扱われます\f801\\ffff\</translate>
+			</id>
+			<id id="223"/>
+			<id id="224"/>
+			<id id="225"/>
+			<id id="226"/>
+			<id id="227"/>
+			<id id="228"/>
+			<id id="229"/>
+			<id id="230">
+				<origin>難易度を「ＰＩＣＮＩＣ」にします\f801\\ffff\</origin>
+				<translate>難易度を「ＰＩＣＮＩＣ」にします\f801\\ffff\</translate>
+			</id>
+			<id id="231">
+				<origin>難易度を「ＢＡＳＩＣ」にします\f801\\ffff\</origin>
+				<translate>難易度を「ＢＡＳＩＣ」にします\f801\\ffff\</translate>
+			</id>
+			<id id="232">
+				<origin>難易度を「ＥＸＰＥＲＴ」にします\f801\\ffff\</origin>
+				<translate>難易度を「ＥＸＰＥＲＴ」にします\f801\\ffff\</translate>
+			</id>
+			<id id="233">
+				<origin>難易度を「ＨＥＲＯＩＣ」にします\f801\\ffff\</origin>
+				<translate>難易度を「ＨＥＲＯＩＣ」にします\f801\\ffff\</translate>
+			</id>
+			<id id="234"/>
+			<id id="235"/>
+			<id id="236"/>
+			<id id="237"/>
+			<id id="238"/>
+			<id id="239"/>
+			<id id="240">
+				<origin>ＦＭ音源でＢＧＭ再生を行います\f801\\ffff\</origin>
+				<translate>ＦＭ音源でＢＧＭ再生を行います\f801\\ffff\</translate>
+			</id>
+			<id id="241">
+				<origin>ＯＲＩＧＩＮＡＬ音源でＢＧＭ再生を行います\f801\\ffff\</origin>
+				<translate>ＯＲＩＧＩＮＡＬ音源でＢＧＭ再生を行います\f801\\ffff\</translate>
+			</id>
+			<id id="242">
+				<origin>新規音源でＢＧＭ再生を行います\f801\\ffff\</origin>
+				<translate>新規音源でＢＧＭ再生を行います\f801\\ffff\</translate>
+			</id>
+			<id id="243"/>
+			<id id="244"/>
+			<id id="245"/>
+			<id id="246"/>
+			<id id="247"/>
+			<id id="248"/>
+			<id id="249"/>
+			<id id="250">
+				<origin>体験版ではＢＧＭ音源を切り替える事は\f801\出来ません\f801\\ffff\</origin>
+				<translate>体験版ではＢＧＭ音源を切り替える事は\f801\出来ません\f801\\ffff\</translate>
+			</id>
+			<id id="251">
+				<origin>宿屋で宿泊時に自動でセーブが\f801\行えるように変更することができます\f801\\f802\ＯＮにすると宿泊した際に\f801\セーブスロットが表示されて\f801\好きなスロットにセーブが行え\f801\\f802\ＯＦＦにすると宿泊しても\f801\セーブスロットが表示されず\f801\セーブもされません\f801\\f802\体験版ではセーブが１つしかできませんが\f801\製品版ではＳＤカードに複数のセーブが\f801\行えるようになります\f801\\ffff\</origin>
+				<translate>宿屋で宿泊時に自動でセーブが\f801\行えるように変更することができます\f801\\f802\ＯＮにすると宿泊した際に\f801\セーブスロットが表示されて\f801\好きなスロットにセーブが行え\f801\\f802\ＯＦＦにすると宿泊しても\f801\セーブスロットが表示されず\f801\セーブもされません\f801\\f802\体験版ではセーブが１つしかできませんが\f801\製品版ではＳＤカードに複数のセーブが\f801\行えるようになります\f801\\ffff\</translate>
+			</id>
+			<id id="252">
+				<origin>宿屋宿泊時にセーブを行います\f801\\ffff\</origin>
+				<translate>宿屋宿泊時にセーブを行います\f801\\ffff\</translate>
+			</id>
+			<id id="253">
+				<origin>宿屋宿泊時にセーブを行いません\f801\\ffff\</origin>
+				<translate>宿屋宿泊時にセーブを行いません\f801\\ffff\</translate>
+			</id>
+			<id id="254"/>
+			<id id="255"/>
+			<id id="256"/>
+			<id id="257"/>
+			<id id="258"/>
+			<id id="259"/>
+			<id id="260">
+				<origin>オートセーブする場所を変更しますか？\f801\\ffff\</origin>
+				<translate>オートセーブする場所を変更しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="261"/>
+			<id id="262"/>
+			<id id="263"/>
+			<id id="264"/>
+			<id id="265"/>
+			<id id="266"/>
+			<id id="267"/>
+			<id id="268"/>
+			<id id="269"/>
+			<id id="270">
+				<origin>ＰＩＣＮＩＣに選択すると\f801\戻せなくなりますがよろしいですか？\f801\\ffff\</origin>
+				<translate>ＰＩＣＮＩＣに選択すると\f801\戻せなくなりますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="271">
+				<origin>ＰＩＣＮＩＣから他の難易度に\f801\変更することはできません\f801\\ffff\</origin>
+				<translate>ＰＩＣＮＩＣから他の難易度に\f801\変更することはできません\f801\\ffff\</translate>
+			</id>
+			<id id="272">
+				<origin>この難易度はタイトル画面でしか\f801\選択することができません\f801\\ffff\</origin>
+				<translate>この難易度はタイトル画面でしか\f801\選択することができません\f801\\ffff\</translate>
+			</id>
+			<id id="273">
+				<origin>別の難易度に変更すると\f801\戻せなくなりますがよろしいですか？\f801\\ffff\</origin>
+				<translate>別の難易度に変更すると\f801\戻せなくなりますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="274">
+				<origin>街でのみ難易度の変更を行うことが出来ます。\f801\\ffff\</origin>
+				<translate>街でのみ難易度の変更を行うことが出来ます。\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

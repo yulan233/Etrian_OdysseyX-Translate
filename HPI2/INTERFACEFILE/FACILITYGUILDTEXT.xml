@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>dc110000</size>
+		<number>49000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>\f840\に\f801\新しい冒険者を登録します\f801\\ffff\</origin>
+				<translate>\f840\に\f801\新しい冒険者を登録します\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>\f840\メンバーの\f801\転職や引退、休養、抹消、名前変更ができます\f801\\ffff\</origin>
+				<translate>\f840\メンバーの\f801\転職や引退、休養、抹消、名前変更ができます\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>\f840\のパーティ編成と\f801\登録順番の入れ替えをします\f801\\ffff\</origin>
+				<translate>\f840\のパーティ編成と\f801\登録順番の入れ替えをします\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>ギルド長と話します\f801\\ffff\</origin>
+				<translate>ギルド長と話します\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>誰を管理しますか？\f801\登録者数\f811\\0000\人：残り枠\f811\\0100\人\f801\\ffff\</origin>
+				<translate>誰を管理しますか？\f801\登録者数\f811\\0000\人：残り枠\f811\\0100\人\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>冒険者がギルドを去り、\f801\少し優秀な新人を連れて来ます\f801\\ffff\</origin>
+				<translate>冒険者がギルドを去り、\f801\少し優秀な新人を連れて来ます\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>スキルポイントを振り直します\f801\代償としてＬＶが２下がります\f801\\ffff\</origin>
+				<translate>スキルポイントを振り直します\f801\代償としてＬＶが２下がります\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>冒険者の情報を完全に消去します\f801\\ffff\</origin>
+				<translate>冒険者の情報を完全に消去します\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>冒険者の名前を、\f801\つけ直すことができます\f801\\ffff\</origin>
+				<translate>冒険者の名前を、\f801\つけ直すことができます\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>『\f811\\0000\』に休養させますか？\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』に休養させますか？\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>本当に休養させてもいいですか？\f801\\ffff\</origin>
+				<translate>本当に休養させてもいいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>『\f811\\0000\』を引退させますか？\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』を引退させますか？\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>本当に引退させてもいいですか？\f801\\ffff\</origin>
+				<translate>本当に引退させてもいいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>同時に現在の装備品も消去されます\f801\\ffff\</origin>
+				<translate>同時に現在の装備品も消去されます\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>『\f811\\0000\』を抹消しますか？\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』を抹消しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>本当に抹消してもいいですか？\f801\\ffff\</origin>
+				<translate>本当に抹消してもいいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>名前変更に１０００エン\f801\かかりますが、よろしいですか？\f801\\ffff\</origin>
+				<translate>名前変更に１０００エン\f801\かかりますが、よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>お金が足りません！\f801\\ffff\</origin>
+				<translate>お金が足りません！\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>\f840\のパーティの編成と、\f801\登録順番の入れ替えをします\f801\\ffff\</origin>
+				<translate>\f840\のパーティの編成と、\f801\登録順番の入れ替えをします\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>『\f811\\0000\』は引退し\f801\後継の新人がやってきました\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』は引退し\f801\後継の新人がやってきました\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>『\f811\\0000\』は\f801\休養しました\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』は\f801\休養しました\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>『\f811\\0000\』を\f801\抹消しました\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』を\f801\抹消しました\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>『\f811\\0000\』の育てた\f801\若き冒険者、その名は・・・\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』の育てた\f801\若き冒険者、その名は・・・\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>この編成に決定しますか？\f801\\ffff\</origin>
+				<translate>この編成に決定しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>登録者がいません！\f801\\ffff\</origin>
+				<translate>登録者がいません！\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>『\f811\\0000\』にこれ以上\f801\冒険者を登録できません！\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』にこれ以上\f801\冒険者を登録できません！\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>所持品が一杯で装備が外せません！\f801\所持品を整理してください\f801\\ffff\</origin>
+				<translate>所持品が一杯で装備が外せません！\f801\所持品を整理してください\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>全員が死亡になるため、\f801\引退／抹消することができません！\f801\\ffff\</origin>
+				<translate>全員が死亡になるため、\f801\引退／抹消することができません！\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>サブクラス\f804\\0500\\f811\\0000\\f804\\0000\を習得しまた\f801\\ffff\</origin>
+				<translate>サブクラス\f804\\0500\\f811\\0000\\f804\\0000\を習得しまた\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>\f840\のパーティを編成します\f801\\ffff\</origin>
+				<translate>\f840\のパーティを編成します\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>\f840\のメンバーを並べ替えます\f801\\ffff\</origin>
+				<translate>\f840\のメンバーを並べ替えます\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>\f840\のパーティを\f801\お気に入り登録します\f801\\ffff\</origin>
+				<translate>\f840\のパーティを\f801\お気に入り登録します\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>\f840\のお気に入りパーティを\f801\呼び出します\f801\\ffff\</origin>
+				<translate>\f840\のお気に入りパーティを\f801\呼び出します\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>この冒険者が去り、代わりにステータスと\f801\スキルポイントにボーナスの付いた\f801\レベル\f811\\0100\の冒険者が登録できます\f801\\ffff\</origin>
+				<translate>この冒険者が去り、代わりにステータスと\f801\スキルポイントにボーナスの付いた\f801\レベル\f811\\0100\の冒険者が登録できます\f801\\ffff\</translate>
+			</id>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40">
+				<origin>有効なパーティがありません！\f801\パーティの登録を確認してください\f801\\ffff\</origin>
+				<translate>有効なパーティがありません！\f801\パーティの登録を確認してください\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>このパーティを呼び出しますか？\f801\\ffff\</origin>
+				<translate>このパーティを呼び出しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>パーティにキャラクターを設定してください！\f801\\ffff\</origin>
+				<translate>パーティにキャラクターを設定してください！\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>このキャラクターは\f801\既にサブクラスを習得しています\f801\\ffff\</origin>
+				<translate>このキャラクターは\f801\既にサブクラスを習得しています\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>このキャラクターは\f840\の\f801\正式なメンバーではないため\f801\サブクラスを習得させることはできません\f801\\ffff\</origin>
+				<translate>このキャラクターは\f840\の\f801\正式なメンバーではないため\f801\サブクラスを習得させることはできません\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>現在のパーティをセット\f811\\0000\に登録します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>現在のパーティをセット\f811\\0000\に登録します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>パーティを登録しました\f801\\ffff\</origin>
+				<translate>パーティを登録しました\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>外見とパラメータは現在の職業のまま\f801\新たな職業のスキルが使用できます\f801\\ffff\</origin>
+				<translate>外見とパラメータは現在の職業のまま\f801\新たな職業のスキルが使用できます\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>『\f811\\0000\』のレベルが５下がる代わりに\f801\外見とパラメータをそのままで\f801\新たな職に就く事ができます\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』のレベルが５下がる代わりに\f801\外見とパラメータをそのままで\f801\新たな職に就く事ができます\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>『\f811\\0000\』を転職させますか？\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』を転職させますか？\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>本当に転職させてもいいですか？\f801\\ffff\</origin>
+				<translate>本当に転職させてもいいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>『\f811\\0000\』は転職し\f801\新たな道を歩み始めます\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』は転職し\f801\新たな道を歩み始めます\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>『\f811\\0000\』の新たなる道\f801\その職業名は・・・\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』の新たなる道\f801\その職業名は・・・\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>\f840\メンバーの\f801\修行・転職・休養ができます\f801\\ffff\</origin>
+				<translate>\f840\メンバーの\f801\修行・転職・休養ができます\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>修行を行うことで\f801\新たな力を得る事ができます\f801\\ffff\</origin>
+				<translate>修行を行うことで\f801\新たな力を得る事ができます\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>『\f811\\0000\』のレベルが２下がる代わりに\f801\スキルポイントを振り直す事ができます\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』のレベルが２下がる代わりに\f801\スキルポイントを振り直す事ができます\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>『\f811\\0000\』のレベルが\f811\\0100\になる\f801\代わりにステータスとスキルポイントに\f801\ボーナスが付いた状態となります\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』のレベルが\f811\\0100\になる\f801\代わりにステータスとスキルポイントに\f801\ボーナスが付いた状態となります\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>『\f811\\0000\』の修行を行いますか？\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』の修行を行いますか？\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>本当に修行を行いますか？\f801\\ffff\</origin>
+				<translate>本当に修行を行いますか？\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>『\f811\\0000\』は修行を行い\f801\新たな力を得た！\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』は修行を行い\f801\新たな力を得た！\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>この職業\f804\\0500\\f811\\0000\\f804\\0000\でよろしいですか？\f801\\ffff\</origin>
+				<translate>この職業\f804\\0500\\f811\\0000\\f804\\0000\でよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>この職業\f804\\0500\\f811\\0000\\f804\\0000\に転職しました\f801\\ffff\</origin>
+				<translate>この職業\f804\\0500\\f811\\0000\\f804\\0000\に転職しました\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>この二つ名を習得しますか？\f801\\ffff\</origin>
+				<translate>この二つ名を習得しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>『\f811\\0000\』は二つ名を習得し\f801\新たな力を得た！\f801\\ffff\</origin>
+				<translate>『\f811\\0000\』は二つ名を習得し\f801\新たな力を得た！\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>現在のパーティメンバーに\f801\フレンドキャラがいます\f801\\f802\パーティセットにはフレンドキャラは\f801\登録できません\f801\\f802\パーティメンバーを編成し直してください\f801\\ffff\</origin>
+				<translate>現在のパーティメンバーに\f801\フレンドキャラがいます\f801\\f802\パーティセットにはフレンドキャラは\f801\登録できません\f801\\f802\パーティメンバーを編成し直してください\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>二つ名を名付けてください\f801\\ffff\</origin>
+				<translate>二つ名を名付けてください\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\引退／休養／抹消が行えません\f801\\f802\所持品を整理してください\f801\\ffff\</origin>
+				<translate>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\引退／休養／抹消が行えません\f801\\f802\所持品を整理してください\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\編成が行えません\f801\\f802\所持品を整理してください\f801\\ffff\</origin>
+				<translate>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\編成が行えません\f801\\f802\所持品を整理してください\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\呼び出せません\f801\\f802\所持品を整理してください\f801\\ffff\</origin>
+				<translate>アイテム最大所持数が変化して\f801\最大所持数を超えてしまうため\f801\呼び出せません\f801\\f802\所持品を整理してください\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>\f804\\0500\\f811\\0000\\f804\\0000\に設定しました\f801\\ffff\</origin>
+				<translate>\f804\\0500\\f811\\0000\\f804\\0000\に設定しました\f801\\ffff\</translate>
+			</id>
+			<id id="70">
+				<origin>肩書きをどうしますか？\f801\クラス名を表示する\f801\自分で決め直す\f801\\ffff\</origin>
+				<translate>肩書きをどうしますか？\f801\クラス名を表示する\f801\自分で決め直す\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>新たな肩書きをつけてください\f801\\ffff\</origin>
+				<translate>新たな肩書きをつけてください\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>\f804\\0500\『\f811\\0000\』\f804\\0000\の\f801\職とパラメーターはそのままで\f801\外見を変更することができます\f801\\ffff\</origin>
+				<translate>\f804\\0500\『\f811\\0000\』\f804\\0000\の\f801\職とパラメーターはそのままで\f801\外見を変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>\f804\\0500\『\f811\\0000\』\f804\\0000\の外見を変更しますか？\f801\\ffff\</origin>
+				<translate>\f804\\0500\『\f811\\0000\』\f804\\0000\の外見を変更しますか？\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

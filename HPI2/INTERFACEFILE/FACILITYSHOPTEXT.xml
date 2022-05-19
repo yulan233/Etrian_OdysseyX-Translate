@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>de0b0000</size>
+		<number>4b000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>\f811\\0000\エンですがよろしいですか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンですがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>購入しました、装備しますか？\f801\\ffff\</origin>
+				<translate>購入しました、装備しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>装備しました\f801\\ffff\</origin>
+				<translate>装備しました\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>\f811\\0000\エンで\f801\売却しますがよろしいですか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンで\f801\売却しますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>\f811\\0000\を\f811\\0100\個売却しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\を\f811\\0100\個売却しました\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>下画面で装備品を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>下画面で装備品を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>さまざまな武具、アイテムの購入ができます\f801\\ffff\</origin>
+				<translate>さまざまな武具、アイテムの購入ができます\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>所持品を売却できます\f801\\ffff\</origin>
+				<translate>所持品を売却できます\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>店の娘と話します\f801\\ffff\</origin>
+				<translate>店の娘と話します\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>装備を変更することができます\f801\\ffff\</origin>
+				<translate>装備を変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="12"/>
+			<id id="13">
+				<origin>\f811\\0000\を購入しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\を購入しました\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>これ以上アイテムを持てません！\f801\\ffff\</origin>
+				<translate>これ以上アイテムを持てません！\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>下画面のスロットを\f801\選択してください\f801\\ffff\</origin>
+				<translate>下画面のスロットを\f801\選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>売るものがありません！\f801\\ffff\</origin>
+				<translate>売るものがありません！\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>選択したアイテムを\f811\\0100\個\f801\\f811\\0200\エンで売却しますか？\f801\\ffff\</origin>
+				<translate>選択したアイテムを\f811\\0100\個\f801\\f811\\0200\エンで売却しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>下画面で装備品を\f801\変更することができます\f801\\ffff\</origin>
+				<translate>下画面で装備品を\f801\変更することができます\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>新商品がリストに追加されました！\f801\\ffff\</origin>
+				<translate>新商品がリストに追加されました！\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>商品が購入可能になりました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</origin>
+				<translate>商品が購入可能になりました！\f801\\f815\\0000\\f804\\0600\\f811\\0000\\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>\f811\\0000\が\f811\\0100\個\f801\足りません\f801\\ffff\</origin>
+				<translate>\f811\\0000\が\f811\\0100\個\f801\足りません\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>\f811\\0000\が\f811\\0100\個\f801\\f811\\0200\が\f811\\0300\個\f801\足りません\f801\\ffff\</origin>
+				<translate>\f811\\0000\が\f811\\0100\個\f801\\f811\\0200\が\f811\\0300\個\f801\足りません\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>\f811\\0000\が\f811\\0100\個\f801\\f811\\0200\が\f811\\0300\個\f801\\f811\\0400\が\f811\\0500\個 足りません\f801\\ffff\</origin>
+				<translate>\f811\\0000\が\f811\\0100\個\f801\\f811\\0200\が\f811\\0300\個\f801\\f811\\0400\が\f811\\0500\個 足りません\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>\f811\\0000\エンかかりますが\f801\よろしいですか？\f804\\0b00\装備できません\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンかかりますが\f801\よろしいですか？\f804\\0b00\装備できません\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>鍛冶をしたアイテムは、\f801\まとめ売りできません！\f801\\ffff\</origin>
+				<translate>鍛冶をしたアイテムは、\f801\まとめ売りできません！\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>ドールは二刀流として装備できません\f801\他の武器が外れますが装備しますか？\f801\\ffff\</origin>
+				<translate>ドールは二刀流として装備できません\f801\他の武器が外れますが装備しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>装備を外せません！\f801\持ち物を捨ててください\f801\\ffff\</origin>
+				<translate>装備を外せません！\f801\持ち物を捨ててください\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>購入しました、装備しますか？\f801\\f804\\0b00\※ドールは二刀流が解除されます\f804\\0000\\f801\\ffff\</origin>
+				<translate>購入しました、装備しますか？\f801\\f804\\0b00\※ドールは二刀流が解除されます\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>アイテムがいっぱいなので\f801\購入のみになります\f801\\ffff\</origin>
+				<translate>アイテムがいっぱいなので\f801\購入のみになります\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>割引券を商品購入時に使用しますか？\f801\\ffff\</origin>
+				<translate>割引券を商品購入時に使用しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>\f804\\0300\サブウェポン\f804\\0000\を装備しました。\f801\戦闘時、サブウェポンのスキルも\f801\使用することができます！\f801\\ffff\</origin>
+				<translate>\f804\\0300\サブウェポン\f804\\0000\を装備しました。\f801\戦闘時、サブウェポンのスキルも\f801\使用することができます！\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>素材\f811\\0000\個を\f811\\0100\エンで売却しますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>素材\f811\\0000\個を\f811\\0100\エンで売却しますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>素材を全て売却しました\f801\\ffff\</origin>
+				<translate>素材を全て売却しました\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>素材を所持していません！\f801\\ffff\</origin>
+				<translate>素材を所持していません！\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>\f811\\0000\を\f811\\0100\個購入しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\を\f811\\0100\個購入しました\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>購入しました、装備しますか？\f801\\f804\\0b00\※使用できるスキルが変化します\f804\\0000\\f801\\ffff\</origin>
+				<translate>購入しました、装備しますか？\f801\\f804\\0b00\※使用できるスキルが変化します\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>装備を変更したことで\f801\使用できるスキルが変化しました\f801\\ffff\</origin>
+				<translate>装備を変更したことで\f801\使用できるスキルが変化しました\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>選択したアイテムを\f811\\0000\個売却しました\f801\\ffff\</origin>
+				<translate>選択したアイテムを\f811\\0000\個売却しました\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>このキャラクターの装備は\f801\変更できません！\f801\\ffff\</origin>
+				<translate>このキャラクターの装備は\f801\変更できません！\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\\ffff\</origin>
+				<translate>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\使用できるスキルが変化しました\f801\\ffff\</origin>
+				<translate>\f804\\0300\砲剣\f804\\0000\を装備しました\f801\砲剣装備中は他の武器を装備できません\f801\使用できるスキルが変化しました\f801\\ffff\</translate>
+			</id>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47"/>
+			<id id="48"/>
+			<id id="49"/>
+			<id id="50">
+				<origin>\f811\\0000\エンですが\f801\よろしいですか？ ※装備出来ません\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンですが\f801\よろしいですか？ ※装備出来ません\f801\\ffff\</translate>
+			</id>
+			<id id="51"/>
+			<id id="52"/>
+			<id id="53"/>
+			<id id="54"/>
+			<id id="55"/>
+			<id id="56"/>
+			<id id="57"/>
+			<id id="58"/>
+			<id id="59"/>
+			<id id="60">
+				<origin>\f811\\0000\を消費して\f801\\f811\\0100\を強化しますか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\を消費して\f801\\f811\\0100\を強化しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>強化しました！\f801\\f811\\0000\ →\f801\\f811\\0100\\f801\\ffff\</origin>
+				<translate>強化しました！\f801\\f811\\0000\ →\f801\\f811\\0100\\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>強化出来る武器がありません！\f801\\ffff\</origin>
+				<translate>強化出来る武器がありません！\f801\\ffff\</translate>
+			</id>
+			<id id="63"/>
+			<id id="64"/>
+			<id id="65"/>
+			<id id="66"/>
+			<id id="67"/>
+			<id id="68"/>
+			<id id="69"/>
+			<id id="70">
+				<origin>リサイクル出来る武器がありません！\f801\\ffff\</origin>
+				<translate>リサイクル出来る武器がありません！\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>現在\f811\\0000\が装備していますが\f801\リサイクルしますか？\f801\\ffff\</origin>
+				<translate>現在\f811\\0000\が装備していますが\f801\リサイクルしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>\f811\\0000\をリサイクルに出し\f801\\f811\\0100\×\f811\\0200\にしますか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\をリサイクルに出し\f801\\f811\\0100\×\f811\\0200\にしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>\f811\\0000\をリサイクルし\f801\\f811\\0100\×\f811\\0200\を入手しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\をリサイクルし\f801\\f811\\0100\×\f811\\0200\を入手しました\f801\\ffff\</translate>
+			</id>
+			<id id="74">
+				<origin>\f811\\0000\が１０個になりましたので\f801\\f811\\0100\に交換しました\f801\\ffff\</origin>
+				<translate>\f811\\0000\が１０個になりましたので\f801\\f811\\0100\に交換しました\f801\\ffff\</translate>
+			</id>
+			<id id="75">
+				<origin>\f811\\0000\の装備が外されました\f801\\ffff\</origin>
+				<translate>\f811\\0000\の装備が外されました\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

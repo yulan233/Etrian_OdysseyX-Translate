@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>b4020000</size>
+		<number>13000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>全磁軸が使用可能デス。\f801\ではよろしく頼ム。\f801\イザユケ！ ボウケンシャヨ！\f801\\ffff\</origin>
+				<translate>全磁軸が使用可能デス。\f801\ではよろしく頼ム。\f801\イザユケ！ ボウケンシャヨ！\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>…っと、オウオウ。\f801\イベントに必要なアイテムが\f801\欲しいデスカ？\f801\\ffff\</origin>
+				<translate>…っと、オウオウ。\f801\イベントに必要なアイテムが\f801\欲しいデスカ？\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>\f804\\0500\クエスト納品アイテムを貰いマスカ？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\クエスト納品アイテムを貰いマスカ？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>\f804\\0500\ハンマーを貰いマスカ？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\ハンマーを貰いマスカ？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>\f804\\0500\預り所ヲ拡張しますカ？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\預り所ヲ拡張しますカ？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="5"/>
+			<id id="6"/>
+			<id id="7"/>
+			<id id="8"/>
+			<id id="9"/>
+			<id id="10">
+				<origin>レベルアップがシタイデスカ？\f801\\ffff\</origin>
+				<translate>レベルアップがシタイデスカ？\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>\f804\\0500\リザルト画面にイキマス？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\リザルト画面にイキマス？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="12"/>
+			<id id="13"/>
+			<id id="14"/>
+			<id id="15">
+				<origin>ここカラ先は\f801\システムフラグを操作するヨ。\f801\\ffff\</origin>
+				<translate>ここカラ先は\f801\システムフラグを操作するヨ。\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>\f804\\0500\全ダンジョン入場済みにシマス？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\全ダンジョン入場済みにシマス？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="17"/>
+			<id id="18">
+				<origin>\f804\\0500\バーストスキル全部イル？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\バーストスキル全部イル？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>\f804\\0500\サブクラス解放シチャウ？\f804\\0000\\f801\\ffff\</origin>
+				<translate>\f804\\0500\サブクラス解放シチャウ？\f804\\0000\\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>44070000</size>
+		<number>70000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>攻撃力アップ\f801\\ffff\</origin>
+				<translate>攻撃力アップ\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>命中率アップ\f801\\ffff\</origin>
+				<translate>命中率アップ\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>クリティカル率アップ\f801\\ffff\</origin>
+				<translate>クリティカル率アップ\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>ＳＴＲアップ\f801\\ffff\</origin>
+				<translate>ＳＴＲアップ\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>ＴＥＣアップ\f801\\ffff\</origin>
+				<translate>ＴＥＣアップ\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>ＶＩＴアップ\f801\\ffff\</origin>
+				<translate>ＶＩＴアップ\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>ＡＧＩアップ\f801\\ffff\</origin>
+				<translate>ＡＧＩアップ\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>ＬＵＣアップ\f801\\ffff\</origin>
+				<translate>ＬＵＣアップ\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>炎属性効果付与\f801\\ffff\</origin>
+				<translate>炎属性効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>氷属性効果付与\f801\\ffff\</origin>
+				<translate>氷属性効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>雷属性効果付与\f801\\ffff\</origin>
+				<translate>雷属性効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>頭封じ効果付与\f801\\ffff\</origin>
+				<translate>頭封じ効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>腕封じ効果付与\f801\\ffff\</origin>
+				<translate>腕封じ効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>脚封じ効果付与\f801\\ffff\</origin>
+				<translate>脚封じ効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>スタン効果付与\f801\\ffff\</origin>
+				<translate>スタン効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>盲目効果付与\f801\\ffff\</origin>
+				<translate>盲目効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>催眠効果付与\f801\\ffff\</origin>
+				<translate>催眠効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>毒効果付与\f801\\ffff\</origin>
+				<translate>毒効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>疫病効果付与\f801\\ffff\</origin>
+				<translate>疫病効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>混乱効果付与\f801\\ffff\</origin>
+				<translate>混乱効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>麻痺効果付与\f801\\ffff\</origin>
+				<translate>麻痺効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>呪い効果付与\f801\\ffff\</origin>
+				<translate>呪い効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>石化効果付与\f801\\ffff\</origin>
+				<translate>石化効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>即死効果付与\f801\\ffff\</origin>
+				<translate>即死効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>属性攻撃力アップ\f801\\ffff\</origin>
+				<translate>属性攻撃力アップ\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>貫通効果付与\f801\\ffff\</origin>
+				<translate>貫通効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>拡散効果付与\f801\\ffff\</origin>
+				<translate>拡散効果付与\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>最大ＨＰアップ\f801\\ffff\</origin>
+				<translate>最大ＨＰアップ\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>最大ＴＰアップ\f801\\ffff\</origin>
+				<translate>最大ＴＰアップ\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>斬耐性アップ\f801\\ffff\</origin>
+				<translate>斬耐性アップ\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>壊耐性アップ\f801\\ffff\</origin>
+				<translate>壊耐性アップ\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>突耐性アップ\f801\\ffff\</origin>
+				<translate>突耐性アップ\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>スピードアップ\f801\\ffff\</origin>
+				<translate>スピードアップ\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>バーストゲージ上昇量アップ\f801\\ffff\</origin>
+				<translate>バーストゲージ上昇量アップ\f801\\ffff\</translate>
+			</id>
+			<id id="35"/>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40"/>
+			<id id="41"/>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47"/>
+			<id id="48"/>
+			<id id="49"/>
+			<id id="50"/>
+			<id id="51"/>
+			<id id="52"/>
+			<id id="53"/>
+			<id id="54"/>
+			<id id="55"/>
+			<id id="56"/>
+			<id id="57"/>
+			<id id="58"/>
+			<id id="59"/>
+			<id id="60"/>
+			<id id="61"/>
+			<id id="62"/>
+			<id id="63"/>
+			<id id="64"/>
+			<id id="65"/>
+			<id id="66"/>
+			<id id="67"/>
+			<id id="68"/>
+			<id id="69"/>
+			<id id="70"/>
+			<id id="71"/>
+			<id id="72"/>
+			<id id="73"/>
+			<id id="74"/>
+			<id id="75"/>
+			<id id="76"/>
+			<id id="77"/>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80"/>
+			<id id="81"/>
+			<id id="82"/>
+			<id id="83"/>
+			<id id="84"/>
+			<id id="85"/>
+			<id id="86"/>
+			<id id="87"/>
+			<id id="88"/>
+			<id id="89"/>
+			<id id="90"/>
+			<id id="91"/>
+			<id id="92"/>
+			<id id="93"/>
+			<id id="94"/>
+			<id id="95"/>
+			<id id="96"/>
+			<id id="97"/>
+			<id id="98"/>
+			<id id="99"/>
+			<id id="100">
+				<origin>新しい効果を付与できます\f801\\ffff\</origin>
+				<translate>新しい効果を付与できます\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>\f811\\0000\が装備中です\f801\\ffff\</origin>
+				<translate>\f811\\0000\が装備中です\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>スロットに効果を付与しますか？\f801\\ffff\</origin>
+				<translate>スロットに効果を付与しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>異なる属性は上書きされます\f801\スロットに効果を付与しますか？\f801\\ffff\</origin>
+				<translate>異なる属性は上書きされます\f801\スロットに効果を付与しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>\f811\\0000\\f801\を強化しました！\f801\\ffff\</origin>
+				<translate>\f811\\0000\\f801\を強化しました！\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>武器を所持していません！\f801\\ffff\</origin>
+				<translate>武器を所持していません！\f801\\ffff\</translate>
+			</id>
+			<id id="106">
+				<origin>ＴＰが足りません！\f801\\ffff\</origin>
+				<translate>ＴＰが足りません！\f801\\ffff\</translate>
+			</id>
+			<id id="107">
+				<origin>鍛冶不可\f801\\ffff\</origin>
+				<translate>鍛冶不可\f801\\ffff\</translate>
+			</id>
+			<id id="108">
+				<origin>下画面で強化する武器を選択してください\f801\\ffff\</origin>
+				<translate>下画面で強化する武器を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="109">
+				<origin>下画面で付与する効果を選択してください\f801\\ffff\</origin>
+				<translate>下画面で付与する効果を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="110">
+				<origin>下画面で効果を付与するスロットを\f801\選択してください\f801\\ffff\</origin>
+				<translate>下画面で効果を付与するスロットを\f801\選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>異なる範囲攻撃は上書きされます\f801\スロットに効果を付与しますか？\f801\\ffff\</origin>
+				<translate>異なる範囲攻撃は上書きされます\f801\スロットに効果を付与しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>このスロットには\f801\既に同じ効果が付与されています\f801\\ffff\</origin>
+				<translate>このスロットには\f801\既に同じ効果が付与されています\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

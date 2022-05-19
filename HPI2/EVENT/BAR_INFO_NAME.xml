@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>d6050000</size>
+		<number>7d000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>やせ気味の男\f801\\ffff\</origin>
+				<translate>やせ気味の男\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>きっちりした服を着た男性\f801\\ffff\</origin>
+				<translate>きっちりした服を着た男性\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>大工のバンジョー\f801\\ffff\</origin>
+				<translate>大工のバンジョー\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>白衣を着た女性\f801\\ffff\</origin>
+				<translate>白衣を着た女性\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>落ち込んでいる少女\f801\\ffff\</origin>
+				<translate>落ち込んでいる少女\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>レンジャーのナジュム\f801\\ffff\</origin>
+				<translate>レンジャーのナジュム\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>若い女性冒険者\f801\\ffff\</origin>
+				<translate>若い女性冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>赤髪の冒険者\f801\\ffff\</origin>
+				<translate>赤髪の冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>不安そうな女冒険者\f801\\ffff\</origin>
+				<translate>不安そうな女冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>服飾デザイナーの男\f801\\ffff\</origin>
+				<translate>服飾デザイナーの男\f801\\ffff\</translate>
+			</id>
+			<id id="17"/>
+			<id id="18"/>
+			<id id="19"/>
+			<id id="20"/>
+			<id id="21"/>
+			<id id="22"/>
+			<id id="23"/>
+			<id id="24"/>
+			<id id="25"/>
+			<id id="26"/>
+			<id id="27"/>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30"/>
+			<id id="31"/>
+			<id id="32"/>
+			<id id="33"/>
+			<id id="34"/>
+			<id id="35"/>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40"/>
+			<id id="41"/>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47"/>
+			<id id="48"/>
+			<id id="49"/>
+			<id id="50"/>
+			<id id="51"/>
+			<id id="52"/>
+			<id id="53"/>
+			<id id="54"/>
+			<id id="55"/>
+			<id id="56"/>
+			<id id="57"/>
+			<id id="58"/>
+			<id id="59"/>
+			<id id="60"/>
+			<id id="61"/>
+			<id id="62"/>
+			<id id="63"/>
+			<id id="64"/>
+			<id id="65"/>
+			<id id="66"/>
+			<id id="67"/>
+			<id id="68"/>
+			<id id="69"/>
+			<id id="70"/>
+			<id id="71"/>
+			<id id="72"/>
+			<id id="73"/>
+			<id id="74"/>
+			<id id="75"/>
+			<id id="76"/>
+			<id id="77"/>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80"/>
+			<id id="81"/>
+			<id id="82"/>
+			<id id="83"/>
+			<id id="84"/>
+			<id id="85"/>
+			<id id="86"/>
+			<id id="87"/>
+			<id id="88"/>
+			<id id="89"/>
+			<id id="90"/>
+			<id id="91"/>
+			<id id="92"/>
+			<id id="93"/>
+			<id id="94"/>
+			<id id="95"/>
+			<id id="96"/>
+			<id id="97"/>
+			<id id="98"/>
+			<id id="99"/>
+			<id id="100">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="101"/>
+			<id id="102">
+				<origin>猛々しい男\f801\\ffff\</origin>
+				<translate>猛々しい男\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>元冒険者ラッセル\f801\\ffff\</origin>
+				<translate>元冒険者ラッセル\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>心が折れた冒険者\f801\\ffff\</origin>
+				<translate>心が折れた冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>お金を数えている男\f801\\ffff\</origin>
+				<translate>お金を数えている男\f801\\ffff\</translate>
+			</id>
+			<id id="106">
+				<origin>足を震わせるメディック\f801\\ffff\</origin>
+				<translate>足を震わせるメディック\f801\\ffff\</translate>
+			</id>
+			<id id="107">
+				<origin>両腕がギプスの男\f801\\ffff\</origin>
+				<translate>両腕がギプスの男\f801\\ffff\</translate>
+			</id>
+			<id id="108">
+				<origin>憔悴気味のインペリアル\f801\\ffff\</origin>
+				<translate>憔悴気味のインペリアル\f801\\ffff\</translate>
+			</id>
+			<id id="109"/>
+			<id id="110">
+				<origin>巻き髪のプリンセス\f801\\ffff\</origin>
+				<translate>巻き髪のプリンセス\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>右手を押さえているセスタス\f801\\ffff\</origin>
+				<translate>右手を押さえているセスタス\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>短髪の女冒険者\f801\\ffff\</origin>
+				<translate>短髪の女冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="113">
+				<origin>女冒険者ブリトニー\f801\\ffff\</origin>
+				<translate>女冒険者ブリトニー\f801\\ffff\</translate>
+			</id>
+			<id id="114">
+				<origin>包帯をした冒険者\f801\\ffff\</origin>
+				<translate>包帯をした冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="115">
+				<origin>傷だらけのインジェリ\f801\\ffff\</origin>
+				<translate>傷だらけのインジェリ\f801\\ffff\</translate>
+			</id>
+			<id id="116">
+				<origin>細身の冒険者\f801\\ffff\</origin>
+				<translate>細身の冒険者\f801\\ffff\</translate>
+			</id>
+			<id id="117">
+				<origin>逃げ足のダットン\f801\\ffff\</origin>
+				<translate>逃げ足のダットン\f801\\ffff\</translate>
+			</id>
+			<id id="118">
+				<origin>魔物学者の師弟\f801\\ffff\</origin>
+				<translate>魔物学者の師弟\f801\\ffff\</translate>
+			</id>
+			<id id="119">
+				<origin>魔物学者の助手ファートン\f801\\ffff\</origin>
+				<translate>魔物学者の助手ファートン\f801\\ffff\</translate>
+			</id>
+			<id id="120">
+				<origin>魔物学者シーブル教授\f801\\ffff\</origin>
+				<translate>魔物学者シーブル教授\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>ふくよかな女好事家\f801\\ffff\</origin>
+				<translate>ふくよかな女好事家\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>女好事家コレック\f801\\ffff\</origin>
+				<translate>女好事家コレック\f801\\ffff\</translate>
+			</id>
+			<id id="123">
+				<origin>薬局の店主\f801\\ffff\</origin>
+				<translate>薬局の店主\f801\\ffff\</translate>
+			</id>
+			<id id="124">
+				<origin>シリカ\f801\\ffff\</origin>
+				<translate>シリカ\f801\\ffff\</translate>
+			</id>
+			<id id="125">
+				<origin>不老不死の噂を話す青年\f801\\ffff\</origin>
+				<translate>不老不死の噂を話す青年\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

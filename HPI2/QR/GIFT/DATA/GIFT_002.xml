@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>b0000000</size>
+		<number>02000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>アトラスからのクリスマスプレゼント\f801\\ffff\</origin>
+				<translate>アトラスからのクリスマスプレゼント\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>いつも生傷の絶えない冒険者のみなさんに\f801\アトラスからお薬が届きました。\f801\\ffff\</origin>
+				<translate>いつも生傷の絶えない冒険者のみなさんに\f801\アトラスからお薬が届きました。\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

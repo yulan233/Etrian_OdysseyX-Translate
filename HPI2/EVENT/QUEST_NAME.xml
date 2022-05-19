@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>ba110000</size>
+		<number>7f000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>デバッククエスト\f801\\ffff\</origin>
+				<translate>デバッククエスト\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>冒険者の必需品\f801\\ffff\</origin>
+				<translate>冒険者の必需品\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>清らかな水を探して\f801\\ffff\</origin>
+				<translate>清らかな水を探して\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>滋養溢れる薬草\f801\\ffff\</origin>
+				<translate>滋養溢れる薬草\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>とってもかわいいマリモちゃん\f801\\ffff\</origin>
+				<translate>とってもかわいいマリモちゃん\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>荒くれ狒狒を倒して！\f801\\ffff\</origin>
+				<translate>荒くれ狒狒を倒して！\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>熊の爪を集めてくりゃれ\f801\\ffff\</origin>
+				<translate>熊の爪を集めてくりゃれ\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>剛腕がもたらした恵み\f801\\ffff\</origin>
+				<translate>剛腕がもたらした恵み\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>新たな森の木材\f801\\ffff\</origin>
+				<translate>新たな森の木材\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>眠れない夜の為に\f801\\ffff\</origin>
+				<translate>眠れない夜の為に\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>風呂上がりのミント草\f801\\ffff\</origin>
+				<translate>風呂上がりのミント草\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>幸運のコイン\f801\\ffff\</origin>
+				<translate>幸運のコイン\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>樹海にうごめく闇\f801\\ffff\</origin>
+				<translate>樹海にうごめく闇\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>やっぱり眠れない夜の為に\f801\\ffff\</origin>
+				<translate>やっぱり眠れない夜の為に\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>懐かしのあの品を今一度\f801\\ffff\</origin>
+				<translate>懐かしのあの品を今一度\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>明けない夜を明かす為に\f801\\ffff\</origin>
+				<translate>明けない夜を明かす為に\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>天井板修理の素材集め\f801\\ffff\</origin>
+				<translate>天井板修理の素材集め\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>樹海の水、血に染めて\f801\\ffff\</origin>
+				<translate>樹海の水、血に染めて\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>南の国に咲く花\f801\\ffff\</origin>
+				<translate>南の国に咲く花\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>最高のドレス作り\f801\\ffff\</origin>
+				<translate>最高のドレス作り\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>おいしそうな葡萄石\f801\\ffff\</origin>
+				<translate>おいしそうな葡萄石\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>桜の森を舞う鳥たち\f801\\ffff\</origin>
+				<translate>桜の森を舞う鳥たち\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>七色模様の装備作り\f801\\ffff\</origin>
+				<translate>七色模様の装備作り\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>血に飢える風\f801\\ffff\</origin>
+				<translate>血に飢える風\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>桜ノ立橋の伐採ポイントはどこ！？\f801\\ffff\</origin>
+				<translate>桜ノ立橋の伐採ポイントはどこ！？\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>芋虫の行軍\f801\\ffff\</origin>
+				<translate>芋虫の行軍\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>フカフカなマフラー\f801\\ffff\</origin>
+				<translate>フカフカなマフラー\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>弾けろパーティーナイト\f801\\ffff\</origin>
+				<translate>弾けろパーティーナイト\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>小さくとも重い石\f801\\ffff\</origin>
+				<translate>小さくとも重い石\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>可愛い顔した憎いやつ\f801\\ffff\</origin>
+				<translate>可愛い顔した憎いやつ\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>危険な花畑\f801\\ffff\</origin>
+				<translate>危険な花畑\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>鉄刀木を木刀に！\f801\\ffff\</origin>
+				<translate>鉄刀木を木刀に！\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>ぶよぶよしたのにご用心\f801\\ffff\</origin>
+				<translate>ぶよぶよしたのにご用心\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>盗っ人を捕まえてくりゃれ\f801\\ffff\</origin>
+				<translate>盗っ人を捕まえてくりゃれ\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>宿れ、冷酷な力、我がこの手に\f801\\ffff\</origin>
+				<translate>宿れ、冷酷な力、我がこの手に\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>第五迷宮リザーブ\f801\\ffff\</origin>
+				<translate>第五迷宮リザーブ\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>オデ、頭骨、かぶせたい…\f801\\ffff\</origin>
+				<translate>オデ、頭骨、かぶせたい…\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>樹海の大きなエスカルゴ\f801\\ffff\</origin>
+				<translate>樹海の大きなエスカルゴ\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>履物にも気配りを\f801\\ffff\</origin>
+				<translate>履物にも気配りを\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>真っ赤に燃える帽子のために\f801\\ffff\</origin>
+				<translate>真っ赤に燃える帽子のために\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>採集には危険がつきもの\f801\\ffff\</origin>
+				<translate>採集には危険がつきもの\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>第六迷宮リザーブ\f801\\ffff\</origin>
+				<translate>第六迷宮リザーブ\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>迷宮の河豚刺し\f801\\ffff\</origin>
+				<translate>迷宮の河豚刺し\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>深き底に沈んだ水\f801\\ffff\</origin>
+				<translate>深き底に沈んだ水\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>うごめく珊瑚の美しさ\f801\\ffff\</origin>
+				<translate>うごめく珊瑚の美しさ\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>怪しき力を持つ石\f801\\ffff\</origin>
+				<translate>怪しき力を持つ石\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>太古から今に続くモノ\f801\\ffff\</origin>
+				<translate>太古から今に続くモノ\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>旅商人の矜持\f801\\ffff\</origin>
+				<translate>旅商人の矜持\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>海底の暴れん坊\f801\\ffff\</origin>
+				<translate>海底の暴れん坊\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>きらきら光る星の光\f801\\ffff\</origin>
+				<translate>きらきら光る星の光\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>光り輝くスズ食器\f801\\ffff\</origin>
+				<translate>光り輝くスズ食器\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>雨露しのぐキノコ傘\f801\\ffff\</origin>
+				<translate>雨露しのぐキノコ傘\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>しびれるあの子の落とすもの\f801\\ffff\</origin>
+				<translate>しびれるあの子の落とすもの\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>樽の木納品依頼\f801\\ffff\</origin>
+				<translate>樽の木納品依頼\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>紅の彫刻\f801\\ffff\</origin>
+				<translate>紅の彫刻\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>爆ぜるジュースはどんな味？\f801\\ffff\</origin>
+				<translate>爆ぜるジュースはどんな味？\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>魅惑のまどろみ布団\f801\\ffff\</origin>
+				<translate>魅惑のまどろみ布団\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>第九迷宮リザーブ\f801\\ffff\</origin>
+				<translate>第九迷宮リザーブ\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>寒がり猫のために\f801\\ffff\</origin>
+				<translate>寒がり猫のために\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>生け垣の補修\f801\\ffff\</origin>
+				<translate>生け垣の補修\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>珍しい花\f801\\ffff\</origin>
+				<translate>珍しい花\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>舞踏会のドレス\f801\\ffff\</origin>
+				<translate>舞踏会のドレス\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>続・舞踏会のドレス\f801\\ffff\</origin>
+				<translate>続・舞踏会のドレス\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>新しい包丁\f801\\ffff\</origin>
+				<translate>新しい包丁\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>続々・舞踏会のドレス\f801\\ffff\</origin>
+				<translate>続々・舞踏会のドレス\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>丈夫な食器\f801\\ffff\</origin>
+				<translate>丈夫な食器\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>価値と硬度\f801\\ffff\</origin>
+				<translate>価値と硬度\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>本当の虫除け\f801\\ffff\</origin>
+				<translate>本当の虫除け\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>強靭なバッグ\f801\\ffff\</origin>
+				<translate>強靭なバッグ\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>朽ちない花\f801\\ffff\</origin>
+				<translate>朽ちない花\f801\\ffff\</translate>
+			</id>
+			<id id="70">
+				<origin>香りの置物\f801\\ffff\</origin>
+				<translate>香りの置物\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>凧をつくろう\f801\\ffff\</origin>
+				<translate>凧をつくろう\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>仲間を助けて！\f801\\ffff\</origin>
+				<translate>仲間を助けて！\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>新・舞踏会のドレス\f801\\ffff\</origin>
+				<translate>新・舞踏会のドレス\f801\\ffff\</translate>
+			</id>
+			<id id="74">
+				<origin>ハーブ茶の花\f801\\ffff\</origin>
+				<translate>ハーブ茶の花\f801\\ffff\</translate>
+			</id>
+			<id id="75">
+				<origin>鍛冶屋の修行\f801\\ffff\</origin>
+				<translate>鍛冶屋の修行\f801\\ffff\</translate>
+			</id>
+			<id id="76">
+				<origin>至高の釣り針\f801\\ffff\</origin>
+				<translate>至高の釣り針\f801\\ffff\</translate>
+			</id>
+			<id id="77">
+				<origin>動力の整備\f801\\ffff\</origin>
+				<translate>動力の整備\f801\\ffff\</translate>
+			</id>
+			<id id="78">
+				<origin>天然石アーティスト\f801\\ffff\</origin>
+				<translate>天然石アーティスト\f801\\ffff\</translate>
+			</id>
+			<id id="79">
+				<origin>勇気のお守り\f801\\ffff\</origin>
+				<translate>勇気のお守り\f801\\ffff\</translate>
+			</id>
+			<id id="80">
+				<origin>尻尾のマフラーを作りたい\f801\\ffff\</origin>
+				<translate>尻尾のマフラーを作りたい\f801\\ffff\</translate>
+			</id>
+			<id id="81">
+				<origin>珍味亀の足\f801\\ffff\</origin>
+				<translate>珍味亀の足\f801\\ffff\</translate>
+			</id>
+			<id id="82">
+				<origin>粘りのある鉄製品\f801\\ffff\</origin>
+				<translate>粘りのある鉄製品\f801\\ffff\</translate>
+			</id>
+			<id id="83">
+				<origin>野犬の集団\f801\\ffff\</origin>
+				<translate>野犬の集団\f801\\ffff\</translate>
+			</id>
+			<id id="84">
+				<origin>マギニアの補修材\f801\\ffff\</origin>
+				<translate>マギニアの補修材\f801\\ffff\</translate>
+			</id>
+			<id id="85">
+				<origin>続・鍛冶屋の修行\f801\\ffff\</origin>
+				<translate>続・鍛冶屋の修行\f801\\ffff\</translate>
+			</id>
+			<id id="86">
+				<origin>快適な睡眠を\f801\\ffff\</origin>
+				<translate>快適な睡眠を\f801\\ffff\</translate>
+			</id>
+			<id id="87">
+				<origin>遺跡の植物の採取\f801\\ffff\</origin>
+				<translate>遺跡の植物の採取\f801\\ffff\</translate>
+			</id>
+			<id id="88">
+				<origin>炎の芸術品\f801\\ffff\</origin>
+				<translate>炎の芸術品\f801\\ffff\</translate>
+			</id>
+			<id id="89">
+				<origin>商店街に街路灯を！\f801\\ffff\</origin>
+				<translate>商店街に街路灯を！\f801\\ffff\</translate>
+			</id>
+			<id id="90">
+				<origin>タヌキに復讐を！\f801\\ffff\</origin>
+				<translate>タヌキに復讐を！\f801\\ffff\</translate>
+			</id>
+			<id id="91">
+				<origin>特殊な鉱物\f801\\ffff\</origin>
+				<translate>特殊な鉱物\f801\\ffff\</translate>
+			</id>
+			<id id="92">
+				<origin>野性的料理\f801\\ffff\</origin>
+				<translate>野性的料理\f801\\ffff\</translate>
+			</id>
+			<id id="93">
+				<origin>強力殺虫剤\f801\\ffff\</origin>
+				<translate>強力殺虫剤\f801\\ffff\</translate>
+			</id>
+			<id id="94">
+				<origin>新たな武器の研究\f801\\ffff\</origin>
+				<translate>新たな武器の研究\f801\\ffff\</translate>
+			</id>
+			<id id="95">
+				<origin>鎧の装飾のために\f801\\ffff\</origin>
+				<translate>鎧の装飾のために\f801\\ffff\</translate>
+			</id>
+			<id id="96">
+				<origin>狂気の芸術\f801\\ffff\</origin>
+				<translate>狂気の芸術\f801\\ffff\</translate>
+			</id>
+			<id id="97">
+				<origin>強者の味\f801\\ffff\</origin>
+				<translate>強者の味\f801\\ffff\</translate>
+			</id>
+			<id id="98">
+				<origin>船体の補強材\f801\\ffff\</origin>
+				<translate>船体の補強材\f801\\ffff\</translate>
+			</id>
+			<id id="99">
+				<origin>派手なドレスを\f801\\ffff\</origin>
+				<translate>派手なドレスを\f801\\ffff\</translate>
+			</id>
+			<id id="100">
+				<origin>毛糸の帽子\f801\\ffff\</origin>
+				<translate>毛糸の帽子\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>派手なドレスを２\f801\\ffff\</origin>
+				<translate>派手なドレスを２\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>エコロジーな食器\f801\\ffff\</origin>
+				<translate>エコロジーな食器\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>派手なドレスを３\f801\\ffff\</origin>
+				<translate>派手なドレスを３\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>ヤギ飼いのお願い\f801\\ffff\</origin>
+				<translate>ヤギ飼いのお願い\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>池のヌシに会いに行く\f801\\ffff\</origin>
+				<translate>池のヌシに会いに行く\f801\\ffff\</translate>
+			</id>
+			<id id="106">
+				<origin>薬師をさがして\f801\\ffff\</origin>
+				<translate>薬師をさがして\f801\\ffff\</translate>
+			</id>
+			<id id="107">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="108">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="109">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="110">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="113">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="114">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="115">
+				<origin>帰らぬ仲間\f801\\ffff\</origin>
+				<translate>帰らぬ仲間\f801\\ffff\</translate>
+			</id>
+			<id id="116">
+				<origin>狼の巣\f801\\ffff\</origin>
+				<translate>狼の巣\f801\\ffff\</translate>
+			</id>
+			<id id="117">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="118">
+				<origin>飛竜たちの呼び声\f801\\ffff\</origin>
+				<translate>飛竜たちの呼び声\f801\\ffff\</translate>
+			</id>
+			<id id="119">
+				<origin>其の紅き者に触れるな\f801\\ffff\</origin>
+				<translate>其の紅き者に触れるな\f801\\ffff\</translate>
+			</id>
+			<id id="120">
+				<origin>続・寒がり猫のために\f801\\ffff\</origin>
+				<translate>続・寒がり猫のために\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>永遠の蒼は其処に在りし\f801\\ffff\</origin>
+				<translate>永遠の蒼は其処に在りし\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>旧時代の遺産\f801\\ffff\</origin>
+				<translate>旧時代の遺産\f801\\ffff\</translate>
+			</id>
+			<id id="123">
+				<origin>石版に眠る、金色の蛇\f801\\ffff\</origin>
+				<translate>石版に眠る、金色の蛇\f801\\ffff\</translate>
+			</id>
+			<id id="124">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="125">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="126">
+				<origin>冒険者育成計画\f801\\ffff\</origin>
+				<translate>冒険者育成計画\f801\\ffff\</translate>
+			</id>
+			<id id="127">
+				<origin>冒険者開運計画\f801\\ffff\</origin>
+				<translate>冒険者開運計画\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>be050000</size>
+		<number>1e000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>宿屋に泊ることで\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</origin>
+				<translate>宿屋に泊ることで\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>傷付いたパーティメンバーの治療や\f801\状態異常の回復ができます\f801\\ffff\</origin>
+				<translate>傷付いたパーティメンバーの治療や\f801\状態異常の回復ができます\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>宿屋の店員と話をします\f801\\ffff\</origin>
+				<translate>宿屋の店員と話をします\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>これまでの冒険を記録します\f801\\ffff\</origin>
+				<translate>これまでの冒険を記録します\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>ＡＭ７時まで宿泊し、\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</origin>
+				<translate>ＡＭ７時まで宿泊し、\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>ＰＭ７時まで宿泊し、\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</origin>
+				<translate>ＰＭ７時まで宿泊し、\f801\ＨＰ・ＴＰが全回復します\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>荷物を預けたり\f801\受け取ることができます\f801\\ffff\</origin>
+				<translate>荷物を預けたり\f801\受け取ることができます\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>受け取るアイテムがありません！\f801\\ffff\</origin>
+				<translate>受け取るアイテムがありません！\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>預けるアイテムがありません！\f801\\ffff\</origin>
+				<translate>預けるアイテムがありません！\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>アイテムを\f811\\0000\個預けました\f801\\ffff\</origin>
+				<translate>アイテムを\f811\\0000\個預けました\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>アイテムを\f811\\0000\個引き出しました\f801\\ffff\</origin>
+				<translate>アイテムを\f811\\0000\個引き出しました\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>アイテムを\f811\\0000\個\f801\預けますがよろしいですか？\f801\\ffff\</origin>
+				<translate>アイテムを\f811\\0000\個\f801\預けますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>アイテムを\f811\\0000\個引き出します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>アイテムを\f811\\0000\個引き出します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>預かり所が一杯です！\f801\\ffff\</origin>
+				<translate>預かり所が一杯です！\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>\f811\\0000\はこれ以上預けられません！\f801\\ffff\</origin>
+				<translate>\f811\\0000\はこれ以上預けられません！\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>預ける荷物を選択してください\f801\\ffff\</origin>
+				<translate>預ける荷物を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>受け取る荷物を選択してください\f801\\ffff\</origin>
+				<translate>受け取る荷物を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>\f811\\0000\エンかかりますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>\f811\\0000\エンかかりますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>所持金がたりません！！\f801\\ffff\</origin>
+				<translate>所持金がたりません！！\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>誰を治療しますか？\f801\\ffff\</origin>
+				<translate>誰を治療しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>治療の必要がありません\f801\\ffff\</origin>
+				<translate>治療の必要がありません\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>治療が終わりました\f801\\ffff\</origin>
+				<translate>治療が終わりました\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>セーブしますか？\f801\\ffff\</origin>
+				<translate>セーブしますか？\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>アイテムを倉庫に預けますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>アイテムを倉庫に預けますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>受け取りますがよろしいですか？\f801\\ffff\</origin>
+				<translate>受け取りますがよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>所持アイテムが一杯です！\f801\\ffff\</origin>
+				<translate>所持アイテムが一杯です！\f801\\ffff\</translate>
+			</id>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30">
+				<origin>倉庫が一杯です！\f801\\ffff\</origin>
+				<translate>倉庫が一杯です！\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>300b0000</size>
+		<number>35000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>ギルドメンバーを引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>ギルドメンバーを引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>グリモアを引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>グリモアを引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>所持金を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>所持金を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>所持品と預かり所の在庫を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>所持品と預かり所の在庫を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>食材を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>食材を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>商店の在庫を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>商店の在庫を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>図鑑を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>図鑑を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>地図の床情報を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図の床情報を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>地図の壁情報を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図の壁情報を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>地図のアイコン情報を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のアイコン情報を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>地図のメモ情報を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のメモ情報を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>地図のオートパイロット情報を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のオートパイロット情報を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>設定した状態でゲームを開始します\f801\\ffff\</origin>
+				<translate>設定した状態でゲームを開始します\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>冒険者ギルドのキャラクターを\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>冒険者ギルドのキャラクターを\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>生成したグリモアを\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>生成したグリモアを\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>所持金を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>所持金を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>所持アイテムを引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>所持アイテムを引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>食材を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>食材を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>商店の在庫を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>商店の在庫を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>図鑑の状態を引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>図鑑の状態を引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>地図の床情報を\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図の床情報を\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>地図の壁情報を\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図の壁情報を\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>地図のアイコン情報を\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のアイコン情報を\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>地図のメモ情報を\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のメモ情報を\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>地図のオートパイロット情報を\f801\引き継ぐか選択できます\f801\\ffff\</origin>
+				<translate>地図のオートパイロット情報を\f801\引き継ぐか選択できます\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>設定された状態でゲームを開始します\f801\\ffff\</origin>
+				<translate>設定された状態でゲームを開始します\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>ギルドメンバーを引き継ぎます\f801\\ffff\</origin>
+				<translate>ギルドメンバーを引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>ギルドメンバーを引き継ぎません\f801\\ffff\</origin>
+				<translate>ギルドメンバーを引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>グリモアを引き継ぎます\f801\\ffff\</origin>
+				<translate>グリモアを引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>グリモアを引き継ぎません\f801\\ffff\</origin>
+				<translate>グリモアを引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>所持金を引き継ぎます\f801\\ffff\</origin>
+				<translate>所持金を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>所持金を引き継ぎません\f801\\ffff\</origin>
+				<translate>所持金を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>アイテムを引き継ぎます\f801\\ffff\</origin>
+				<translate>アイテムを引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>アイテムを引き継ぎません\f801\\ffff\</origin>
+				<translate>アイテムを引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>食材を引き継ぎます\f801\\ffff\</origin>
+				<translate>食材を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>食材を引き継ぎません\f801\\ffff\</origin>
+				<translate>食材を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>商店の在庫を引き継ぎます\f801\\ffff\</origin>
+				<translate>商店の在庫を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>商店の在庫を引き継ぎません\f801\\ffff\</origin>
+				<translate>商店の在庫を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>図鑑を引き継ぎます\f801\\ffff\</origin>
+				<translate>図鑑を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>図鑑を引き継ぎません\f801\\ffff\</origin>
+				<translate>図鑑を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>地図の床情報を引き継ぎます\f801\\ffff\</origin>
+				<translate>地図の床情報を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>地図の床情報を引き継ぎません\f801\\ffff\</origin>
+				<translate>地図の床情報を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>地図の壁情報を引き継ぎます\f801\\ffff\</origin>
+				<translate>地図の壁情報を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>地図の壁情報を引き継ぎません\f801\\ffff\</origin>
+				<translate>地図の壁情報を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>地図のアイコン情報を引き継ぎます\f801\\ffff\</origin>
+				<translate>地図のアイコン情報を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>地図のアイコン情報を引き継ぎません\f801\\ffff\</origin>
+				<translate>地図のアイコン情報を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>地図のメモ情報を引き継ぎます\f801\\ffff\</origin>
+				<translate>地図のメモ情報を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>地図のメモ情報を引き継ぎません\f801\\ffff\</origin>
+				<translate>地図のメモ情報を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>地図のオートパイロット情報を引き継ぎます\f801\\ffff\</origin>
+				<translate>地図のオートパイロット情報を引き継ぎます\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>地図のオートパイロット情報を引き継ぎません\f801\\ffff\</origin>
+				<translate>地図のオートパイロット情報を引き継ぎません\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>初期設定に戻しますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>初期設定に戻しますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>設定した状態で開始します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>設定した状態で開始します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>設定をキャンセルしてタイトル画面に\f801\戻ります、よろしいですか？\f801\\ffff\</origin>
+				<translate>設定をキャンセルしてタイトル画面に\f801\戻ります、よろしいですか？\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

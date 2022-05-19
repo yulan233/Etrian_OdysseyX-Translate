@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>8e1a0000</size>
+		<number>2d010000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>デフォルト\f801\\ffff\</origin>
+				<translate>デフォルト\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>マギニア\f801\\ffff\</origin>
+				<translate>マギニア\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>ベースキャンプ\f801\\ffff\</origin>
+				<translate>ベースキャンプ\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>モリビトの村\f801\\ffff\</origin>
+				<translate>モリビトの村\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>大地の大穴\f801\\ffff\</origin>
+				<translate>大地の大穴\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>幽寂ノ孤島磁軸ポイント\f801\\ffff\</origin>
+				<translate>幽寂ノ孤島磁軸ポイント\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>飛泉ノ水島磁軸ポイント\f801\\ffff\</origin>
+				<translate>飛泉ノ水島磁軸ポイント\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>絶崖ノ岩島磁軸ポイント\f801\\ffff\</origin>
+				<translate>絶崖ノ岩島磁軸ポイント\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>世界樹磁軸ポイント\f801\\ffff\</origin>
+				<translate>世界樹磁軸ポイント\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>海の一族の駐屯地\f801\\ffff\</origin>
+				<translate>海の一族の駐屯地\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>マギニア演習場\f801\\ffff\</origin>
+				<translate>マギニア演習場\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>東土ノ霊堂\f801\\ffff\</origin>
+				<translate>東土ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>碧照ノ樹海\f801\\ffff\</origin>
+				<translate>碧照ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>原始ノ大密林\f801\\ffff\</origin>
+				<translate>原始ノ大密林\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>垂水ノ樹海\f801\\ffff\</origin>
+				<translate>垂水ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>真南ノ霊堂\f801\\ffff\</origin>
+				<translate>真南ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>桜ノ立橋\f801\\ffff\</origin>
+				<translate>桜ノ立橋\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>古跡ノ樹海\f801\\ffff\</origin>
+				<translate>古跡ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>海嶺ノ水林\f801\\ffff\</origin>
+				<translate>海嶺ノ水林\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>西方ノ霊堂\f801\\ffff\</origin>
+				<translate>西方ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>金剛獣ノ岩窟\f801\\ffff\</origin>
+				<translate>金剛獣ノ岩窟\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>枯レ森\f801\\ffff\</origin>
+				<translate>枯レ森\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>極北ノ霊堂\f801\\ffff\</origin>
+				<translate>極北ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>世界樹ノ迷宮\f801\\ffff\</origin>
+				<translate>世界樹ノ迷宮\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>奈落ノ霊堂\f801\\ffff\</origin>
+				<translate>奈落ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>小さな果樹林\f801\\ffff\</origin>
+				<translate>小さな果樹林\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>巨人の遺跡\f801\\ffff\</origin>
+				<translate>巨人の遺跡\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>未踏の水源地\f801\\ffff\</origin>
+				<translate>未踏の水源地\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>桜花天空楼\f801\\ffff\</origin>
+				<translate>桜花天空楼\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>埋もれた城跡\f801\\ffff\</origin>
+				<translate>埋もれた城跡\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>極寒の地底湖\f801\\ffff\</origin>
+				<translate>極寒の地底湖\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>終わりの森\f801\\ffff\</origin>
+				<translate>終わりの森\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>幻惑の森\f801\\ffff\</origin>
+				<translate>幻惑の森\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>真新しい蟻塚\f801\\ffff\</origin>
+				<translate>真新しい蟻塚\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>御神ガ原\f801\\ffff\</origin>
+				<translate>御神ガ原\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>水源へ続く平原\f801\\ffff\</origin>
+				<translate>水源へ続く平原\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>日当たりのいい平原\f801\\ffff\</origin>
+				<translate>日当たりのいい平原\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>緑深い森\f801\\ffff\</origin>
+				<translate>緑深い森\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>？？？？？\f801\\ffff\</origin>
+				<translate>？？？？？\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>ベースキャンプ跡地\f801\\ffff\</origin>
+				<translate>ベースキャンプ跡地\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="70">
+				<origin>碧照ノ樹海採集エリア\f801\\ffff\</origin>
+				<translate>碧照ノ樹海採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="71">
+				<origin>原始ノ大密林採集エリア\f801\\ffff\</origin>
+				<translate>原始ノ大密林採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="72">
+				<origin>垂水ノ樹海採集エリア\f801\\ffff\</origin>
+				<translate>垂水ノ樹海採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="73">
+				<origin>真南ノ霊堂採集エリア\f801\\ffff\</origin>
+				<translate>真南ノ霊堂採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="74">
+				<origin>桜ノ立橋採集エリア\f801\\ffff\</origin>
+				<translate>桜ノ立橋採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="75">
+				<origin>古跡ノ樹海採集エリア\f801\\ffff\</origin>
+				<translate>古跡ノ樹海採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="76">
+				<origin>海嶺ノ水林採集エリア\f801\\ffff\</origin>
+				<translate>海嶺ノ水林採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="77">
+				<origin>西方ノ霊堂採集エリア\f801\\ffff\</origin>
+				<translate>西方ノ霊堂採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="78">
+				<origin>金剛獣ノ岩窟採集エリア\f801\\ffff\</origin>
+				<translate>金剛獣ノ岩窟採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="79">
+				<origin>枯レ森採集エリア\f801\\ffff\</origin>
+				<translate>枯レ森採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="80">
+				<origin>極北ノ霊堂採集エリア\f801\\ffff\</origin>
+				<translate>極北ノ霊堂採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="81">
+				<origin>世界樹ノ迷宮採集エリア\f801\\ffff\</origin>
+				<translate>世界樹ノ迷宮採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="82">
+				<origin>奈落ノ霊堂採集エリア\f801\\ffff\</origin>
+				<translate>奈落ノ霊堂採集エリア\f801\\ffff\</translate>
+			</id>
+			<id id="83">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="84">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="85">
+				<origin>赤き竜の草原\f801\\ffff\</origin>
+				<translate>赤き竜の草原\f801\\ffff\</translate>
+			</id>
+			<id id="86">
+				<origin>僻地の草原\f801\\ffff\</origin>
+				<translate>僻地の草原\f801\\ffff\</translate>
+			</id>
+			<id id="87">
+				<origin>離島の草原\f801\\ffff\</origin>
+				<translate>離島の草原\f801\\ffff\</translate>
+			</id>
+			<id id="88">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="89">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="90">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="91">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="92">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="93">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="94">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="95">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="96">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="97">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="98">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="99">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="100">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="106">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="107">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="108">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="109">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="110">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="113">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="114">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="115">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="116">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="117">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="118">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="119">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="120">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="123">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="124">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="125">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="126">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="127">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="128">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="129">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="130">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="131">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="132">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="133">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="134">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="135">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="136">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="137">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="138">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="139">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="140">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="141">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="142">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="143">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="144">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="145">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="146">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="147">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="148">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="149">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="150">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="151">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="152">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="153">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="154">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="155">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="156">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="157">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="158">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="159">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="160">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="161">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="162">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="163">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="164">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="165">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="166">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="167">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="168">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="169">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="170">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="171">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="172">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="173">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="174">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="175">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="176">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="177">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="178">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="179">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="180">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="181">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="182">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="183">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="184">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="185">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="186">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="187">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="188">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="189">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="190">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="191">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="192">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="193">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="194">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="195">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="196">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="197">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="198">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="199">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="200">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="201">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="202">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="203">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="204">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="205">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="206">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="207">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="208">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="209">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="210">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="211">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="212">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="213">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="214">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="215">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="216">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="217">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="218">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="219">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="220">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="221">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="222">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="223">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="224">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="225">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="226">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="227">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="228">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="229">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="230">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="231">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="232">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="233">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="234">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="235">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="236">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="237">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="238">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="239">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="240">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="241">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="242">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="243">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="244">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="245">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="246">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="247">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="248">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="249">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="250">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="251">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="252">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="253">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="254">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="255">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="256">
+				<origin>未定\f801\\ffff\</origin>
+				<translate>未定\f801\\ffff\</translate>
+			</id>
+			<id id="257"/>
+			<id id="258"/>
+			<id id="259"/>
+			<id id="260"/>
+			<id id="261"/>
+			<id id="262"/>
+			<id id="263"/>
+			<id id="264"/>
+			<id id="265"/>
+			<id id="266"/>
+			<id id="267"/>
+			<id id="268"/>
+			<id id="269"/>
+			<id id="270"/>
+			<id id="271"/>
+			<id id="272"/>
+			<id id="273"/>
+			<id id="274"/>
+			<id id="275"/>
+			<id id="276"/>
+			<id id="277"/>
+			<id id="278"/>
+			<id id="279"/>
+			<id id="280"/>
+			<id id="281"/>
+			<id id="282"/>
+			<id id="283"/>
+			<id id="284"/>
+			<id id="285"/>
+			<id id="286"/>
+			<id id="287"/>
+			<id id="288"/>
+			<id id="289"/>
+			<id id="290"/>
+			<id id="291"/>
+			<id id="292"/>
+			<id id="293"/>
+			<id id="294"/>
+			<id id="295"/>
+			<id id="296"/>
+			<id id="297"/>
+			<id id="298"/>
+			<id id="299"/>
+			<id id="300">
+				<origin>磁軸\f801\\ffff\</origin>
+				<translate>磁軸\f801\\ffff\</translate>
+			</id>
+			<id id="301">
+				<origin>出口\f801\\ffff\</origin>
+				<translate>出口\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

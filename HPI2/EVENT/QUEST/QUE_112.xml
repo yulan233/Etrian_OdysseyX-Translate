@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>7c000000</size>
+		<number>0a000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>\f859\\0300\仮ですー。\f801\開始です。\f801\\ffff\</origin>
+				<translate>\f859\\0300\仮ですー。\f801\開始です。\f801\\ffff\</translate>
+			</id>
+			<id id="1"/>
+			<id id="2"/>
+			<id id="3"/>
+			<id id="4"/>
+			<id id="5"/>
+			<id id="6"/>
+			<id id="7"/>
+			<id id="8"/>
+			<id id="9"/>
+			<id id="10">
+				<origin>\f859\\0300\仮ですー。\f801\終了です。\f801\\ffff\</origin>
+				<translate>\f859\\0300\仮ですー。\f801\終了です。\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

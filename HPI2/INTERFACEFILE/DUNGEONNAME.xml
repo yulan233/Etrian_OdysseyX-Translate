@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>f6020000</size>
+		<number>18000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>東土ノ霊堂\f801\\ffff\</origin>
+				<translate>東土ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>碧照ノ樹海\f801\\ffff\</origin>
+				<translate>碧照ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>原始ノ大密林\f801\\ffff\</origin>
+				<translate>原始ノ大密林\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>垂水ノ樹海\f801\\ffff\</origin>
+				<translate>垂水ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>真南ノ霊堂\f801\\ffff\</origin>
+				<translate>真南ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>桜ノ立橋\f801\\ffff\</origin>
+				<translate>桜ノ立橋\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>古跡ノ樹海\f801\\ffff\</origin>
+				<translate>古跡ノ樹海\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>海嶺ノ水林\f801\\ffff\</origin>
+				<translate>海嶺ノ水林\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>西方ノ霊堂\f801\\ffff\</origin>
+				<translate>西方ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>金剛獣ノ岩窟\f801\\ffff\</origin>
+				<translate>金剛獣ノ岩窟\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>枯レ森\f801\\ffff\</origin>
+				<translate>枯レ森\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>極北ノ霊堂\f801\\ffff\</origin>
+				<translate>極北ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>世界樹ノ迷宮\f801\\ffff\</origin>
+				<translate>世界樹ノ迷宮\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>奈落ノ霊堂\f801\\ffff\</origin>
+				<translate>奈落ノ霊堂\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>小さな果樹林\f801\\ffff\</origin>
+				<translate>小さな果樹林\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>巨人の遺跡\f801\\ffff\</origin>
+				<translate>巨人の遺跡\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>未踏の水源地\f801\\ffff\</origin>
+				<translate>未踏の水源地\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>桜花天空楼\f801\\ffff\</origin>
+				<translate>桜花天空楼\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>埋もれた城跡\f801\\ffff\</origin>
+				<translate>埋もれた城跡\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>極寒の地底湖\f801\\ffff\</origin>
+				<translate>極寒の地底湖\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>終わりの森\f801\\ffff\</origin>
+				<translate>終わりの森\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>幻惑の森\f801\\ffff\</origin>
+				<translate>幻惑の森\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>真新しい蟻塚\f801\\ffff\</origin>
+				<translate>真新しい蟻塚\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>御神ガ原\f801\\ffff\</origin>
+				<translate>御神ガ原\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

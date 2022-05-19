@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>dc0c0000</size>
+		<number>26000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>パーティ０（デフォルト）\f801\デフォルトパーティー\f801\全スキル、最大Ｌｖの１０％習得、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ０（デフォルト）\f801\デフォルトパーティー\f801\全スキル、最大Ｌｖの１０％習得、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>パーティ１\f801\最強パーティー１、最強装備\f801\全スキル、最大Ｌｖの１００％習得\f801\\ffff\</origin>
+				<translate>パーティ１\f801\最強パーティー１、最強装備\f801\全スキル、最大Ｌｖの１００％習得\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>パーティ２\f801\最強パーティー２、サブクラス確認用\f801\全スキル、最大Ｌｖの１００％習得\f801\\ffff\</origin>
+				<translate>パーティ２\f801\最強パーティー２、サブクラス確認用\f801\全スキル、最大Ｌｖの１００％習得\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>パーティ３\f801\待機スキル表示確認用\f801\スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３\f801\待機スキル表示確認用\f801\スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>パーティ４\f801\ゲームスタート時\f801\スキルＬｖ０\f801\\ffff\</origin>
+				<translate>パーティ４\f801\ゲームスタート時\f801\スキルＬｖ０\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>パーティ５\f801\１Ｆ（迷宮１－１）クリア時想定\f801\ノービスのみ最大Ｌｖ１０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ５\f801\１Ｆ（迷宮１－１）クリア時想定\f801\ノービスのみ最大Ｌｖ１０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>パーティ６\f801\５Ｆ（迷宮２－３）クリア時想定\f801\ノービスのみ最大Ｌｖ１５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ６\f801\５Ｆ（迷宮２－３）クリア時想定\f801\ノービスのみ最大Ｌｖ１５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>パーティ８\f801\８Ｆ（迷宮３－３）クリア時想定\f801\ベテランまで最大Ｌｖ２０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ８\f801\８Ｆ（迷宮３－３）クリア時想定\f801\ベテランまで最大Ｌｖ２０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>パーティ９\f801\１１Ｆ（迷宮４－３）クリア時想定\f801\ベテランまで最大Ｌｖ２５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ９\f801\１１Ｆ（迷宮４－３）クリア時想定\f801\ベテランまで最大Ｌｖ２５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>パーティ１０\f801\１６Ｆ（迷宮５－５）クリア時想定\f801\ベテランまで最大Ｌｖ３５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１０\f801\１６Ｆ（迷宮５－５）クリア時想定\f801\ベテランまで最大Ｌｖ３５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>パーティ１２\f801\１９Ｆ（迷宮６－３）クリア時想定\f801\全スキル最大Ｌｖ４０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１２\f801\１９Ｆ（迷宮６－３）クリア時想定\f801\全スキル最大Ｌｖ４０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>パーティ１３\f801\２２Ｆ（迷宮７－３）クリア時想定\f801\全スキル最大Ｌｖ４５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１３\f801\２２Ｆ（迷宮７－３）クリア時想定\f801\全スキル最大Ｌｖ４５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>パーティ１５\f801\２５Ｆ（迷宮８－３）クリア時想定\f801\全スキル最大Ｌｖ５０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１５\f801\２５Ｆ（迷宮８－３）クリア時想定\f801\全スキル最大Ｌｖ５０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>パーティ１６\f801\３０Ｆ（迷宮９－５）クリア時想定\f801\全スキル最大Ｌｖ６０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１６\f801\３０Ｆ（迷宮９－５）クリア時想定\f801\全スキル最大Ｌｖ６０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>パーティ１７\f801\３４Ｆ（迷宮１０－４）クリア時想定\f801\全スキル最大Ｌｖ６５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１７\f801\３４Ｆ（迷宮１０－４）クリア時想定\f801\全スキル最大Ｌｖ６５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>パーティ１９\f801\３８Ｆ（迷宮１１－４）クリア時想定\f801\全スキル最大Ｌｖ７０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ１９\f801\３８Ｆ（迷宮１１－４）クリア時想定\f801\全スキル最大Ｌｖ７０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>パーティ２１\f801\４３Ｆ（迷宮１２－５）クリア想定\f801\全スキル最大Ｌｖ７５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ２１\f801\４３Ｆ（迷宮１２－５）クリア想定\f801\全スキル最大Ｌｖ７５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>パーティ２３\f801\４８Ｆ（迷宮１３－５）クリア時想定\f801\全スキル最大Ｌｖ７５％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ２３\f801\４８Ｆ（迷宮１３－５）クリア時想定\f801\全スキル最大Ｌｖ７５％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>パーティ２４\f801\４９Ｆ（迷宮１４ー１）クリア時\f801\全スキル最大Ｌｖ８０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ２４\f801\４９Ｆ（迷宮１４ー１）クリア時\f801\全スキル最大Ｌｖ８０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>パーティ２５\f801\５１Ｆ（迷宮１４ー３）クリア時\f801\全スキル最大Ｌｖ８０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ２５\f801\５１Ｆ（迷宮１４ー３）クリア時\f801\全スキル最大Ｌｖ８０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>パーティ２６\f801\５３Ｆ（迷宮１４ー５）クリア時\f801\全スキル最大Ｌｖ９０％、鍛冶Ｌｖ５\f801\\ffff\</origin>
+				<translate>パーティ２６\f801\５３Ｆ（迷宮１４ー５）クリア時\f801\全スキル最大Ｌｖ９０％、鍛冶Ｌｖ５\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>パーティ２７\f801\スキル確認用１ デフォルトコピー\f801\全スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ２７\f801\スキル確認用１ デフォルトコピー\f801\全スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>パーティ２８\f801\スキル確認用２\f801\全スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ２８\f801\スキル確認用２\f801\全スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>パーティ２９\f801\スキル確認用３\f801\全スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ２９\f801\スキル確認用３\f801\全スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>パーティ３０\f801\スキル確認用４ 主に追加職業\f801\全スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３０\f801\スキル確認用４ 主に追加職業\f801\全スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>パーティ３１\f801\リンクスキルチェック用\f801\スキルＬｖ１、サブクラス未設定\f801\\ffff\</origin>
+				<translate>パーティ３１\f801\リンクスキルチェック用\f801\スキルＬｖ１、サブクラス未設定\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>パーティ３２\f801\ヒーロー３人サブクラス設定\f801\メインスキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３２\f801\ヒーロー３人サブクラス設定\f801\メインスキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>パーティ３３\f801\ヒーロー２人サブクラス未設定\f801\メインスキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３３\f801\ヒーロー２人サブクラス未設定\f801\メインスキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>パーティ３４\f801\メイン：ヒーロー＋サブ：シノビが２人\f801\スキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３４\f801\メイン：ヒーロー＋サブ：シノビが２人\f801\スキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>パーティ３５\f801\ミスティック４人パーティ\f801\スキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３５\f801\ミスティック４人パーティ\f801\スキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>パーティ３６\f801\ミスティック、ヒーロー、シノビ混合\f801\スキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</origin>
+				<translate>パーティ３６\f801\ミスティック、ヒーロー、シノビ混合\f801\スキルＬｖ１、サブスキルＬｖ１\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>メインサブウェポンチェック用\f801\\ffff\</origin>
+				<translate>メインサブウェポンチェック用\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>サジ矢とディレイチャージ確認用\f801\\ffff\</origin>
+				<translate>サジ矢とディレイチャージ確認用\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>７２２確認用\f801\\ffff\</origin>
+				<translate>７２２確認用\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>報復射撃陣確認用\f801\\ffff\</origin>
+				<translate>報復射撃陣確認用\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>巫剣マスタリー確認用１\f801\剣と杖装備\f801\\ffff\</origin>
+				<translate>巫剣マスタリー確認用１\f801\剣と杖装備\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>巫剣マスタリー確認用２\f801\杖２本装備\f801\\ffff\</origin>
+				<translate>巫剣マスタリー確認用２\f801\杖２本装備\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>陽炎分身残影のＭＡＸＨＰ確認用\f801\\ffff\</origin>
+				<translate>陽炎分身残影のＭＡＸＨＰ確認用\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>属性盾スキル確認用\f801\\ffff\</origin>
+				<translate>属性盾スキル確認用\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

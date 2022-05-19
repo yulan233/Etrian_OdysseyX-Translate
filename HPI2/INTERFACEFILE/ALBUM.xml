@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>6a050000</size>
+		<number>dc000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1"/>
+			<id id="2"/>
+			<id id="3"/>
+			<id id="4"/>
+			<id id="5"/>
+			<id id="6"/>
+			<id id="7"/>
+			<id id="8"/>
+			<id id="9"/>
+			<id id="10">
+				<origin>見たい項目を選択してください\f801\\ffff\</origin>
+				<translate>見たい項目を選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>見たいムービーを選択してください\f801\\ffff\</origin>
+				<translate>見たいムービーを選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="12"/>
+			<id id="13"/>
+			<id id="14"/>
+			<id id="15"/>
+			<id id="16"/>
+			<id id="17"/>
+			<id id="18"/>
+			<id id="19"/>
+			<id id="20">
+				<origin>見たいムービーを選択してください\f801\\ffff\</origin>
+				<translate>見たいムービーを選択してください\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>？？？\f801\\ffff\</origin>
+				<translate>？？？\f801\\ffff\</translate>
+			</id>
+			<id id="22"/>
+			<id id="23"/>
+			<id id="24"/>
+			<id id="25"/>
+			<id id="26"/>
+			<id id="27"/>
+			<id id="28"/>
+			<id id="29"/>
+			<id id="30">
+				<origin>Ｌ・Ｒでキャラクターの切り替えができます\f801\\ffff\</origin>
+				<translate>Ｌ・Ｒでキャラクターの切り替えができます\f801\\ffff\</translate>
+			</id>
+			<id id="31"/>
+			<id id="32"/>
+			<id id="33"/>
+			<id id="34"/>
+			<id id="35"/>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40"/>
+			<id id="41"/>
+			<id id="42"/>
+			<id id="43"/>
+			<id id="44"/>
+			<id id="45"/>
+			<id id="46"/>
+			<id id="47"/>
+			<id id="48"/>
+			<id id="49"/>
+			<id id="50">
+				<origin>欠番\f801\\ffff\</origin>
+				<translate>欠番\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>オープニング\f801\\ffff\</origin>
+				<translate>オープニング\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>冒険者の街へ\f801\\ffff\</origin>
+				<translate>冒険者の街へ\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>すべての始まり\f801\\ffff\</origin>
+				<translate>すべての始まり\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>世界樹の迷宮へ\f801\\ffff\</origin>
+				<translate>世界樹の迷宮へ\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>欠番\f801\\ffff\</origin>
+				<translate>欠番\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>欠番\f801\\ffff\</origin>
+				<translate>欠番\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>グングニルの真実\f801\\ffff\</origin>
+				<translate>グングニルの真実\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>過去との邂逅\f801\\ffff\</origin>
+				<translate>過去との邂逅\f801\\ffff\</translate>
+			</id>
+			<id id="59">
+				<origin>異変の兆候\f801\\ffff\</origin>
+				<translate>異変の兆候\f801\\ffff\</translate>
+			</id>
+			<id id="60">
+				<origin>少女の意思\f801\\ffff\</origin>
+				<translate>少女の意思\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>仲間たちの絆\f801\\ffff\</origin>
+				<translate>仲間たちの絆\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>エンディング\f801\\ffff\</origin>
+				<translate>エンディング\f801\\ffff\</translate>
+			</id>
+			<id id="63"/>
+			<id id="64"/>
+			<id id="65"/>
+			<id id="66"/>
+			<id id="67"/>
+			<id id="68"/>
+			<id id="69"/>
+			<id id="70"/>
+			<id id="71"/>
+			<id id="72"/>
+			<id id="73"/>
+			<id id="74"/>
+			<id id="75"/>
+			<id id="76"/>
+			<id id="77"/>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80"/>
+			<id id="81"/>
+			<id id="82"/>
+			<id id="83"/>
+			<id id="84"/>
+			<id id="85"/>
+			<id id="86"/>
+			<id id="87"/>
+			<id id="88"/>
+			<id id="89"/>
+			<id id="90"/>
+			<id id="91"/>
+			<id id="92"/>
+			<id id="93"/>
+			<id id="94"/>
+			<id id="95"/>
+			<id id="96"/>
+			<id id="97"/>
+			<id id="98"/>
+			<id id="99"/>
+			<id id="100">
+				<origin>ＢＧＭ００\f801\\ffff\</origin>
+				<translate>ＢＧＭ００\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>ＢＧＭ０１\f801\\ffff\</origin>
+				<translate>ＢＧＭ０１\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>ＢＧＭ０２\f801\\ffff\</origin>
+				<translate>ＢＧＭ０２\f801\\ffff\</translate>
+			</id>
+			<id id="103"/>
+			<id id="104"/>
+			<id id="105"/>
+			<id id="106"/>
+			<id id="107"/>
+			<id id="108"/>
+			<id id="109"/>
+			<id id="110"/>
+			<id id="111"/>
+			<id id="112"/>
+			<id id="113"/>
+			<id id="114"/>
+			<id id="115"/>
+			<id id="116"/>
+			<id id="117"/>
+			<id id="118"/>
+			<id id="119"/>
+			<id id="120"/>
+			<id id="121"/>
+			<id id="122"/>
+			<id id="123"/>
+			<id id="124"/>
+			<id id="125"/>
+			<id id="126"/>
+			<id id="127"/>
+			<id id="128"/>
+			<id id="129"/>
+			<id id="130"/>
+			<id id="131"/>
+			<id id="132"/>
+			<id id="133"/>
+			<id id="134"/>
+			<id id="135"/>
+			<id id="136"/>
+			<id id="137"/>
+			<id id="138"/>
+			<id id="139"/>
+			<id id="140"/>
+			<id id="141"/>
+			<id id="142"/>
+			<id id="143"/>
+			<id id="144"/>
+			<id id="145"/>
+			<id id="146"/>
+			<id id="147"/>
+			<id id="148"/>
+			<id id="149"/>
+			<id id="150"/>
+			<id id="151"/>
+			<id id="152"/>
+			<id id="153"/>
+			<id id="154"/>
+			<id id="155"/>
+			<id id="156"/>
+			<id id="157"/>
+			<id id="158"/>
+			<id id="159"/>
+			<id id="160"/>
+			<id id="161"/>
+			<id id="162"/>
+			<id id="163"/>
+			<id id="164"/>
+			<id id="165"/>
+			<id id="166"/>
+			<id id="167"/>
+			<id id="168"/>
+			<id id="169"/>
+			<id id="170"/>
+			<id id="171"/>
+			<id id="172"/>
+			<id id="173"/>
+			<id id="174"/>
+			<id id="175"/>
+			<id id="176"/>
+			<id id="177"/>
+			<id id="178"/>
+			<id id="179"/>
+			<id id="180"/>
+			<id id="181"/>
+			<id id="182"/>
+			<id id="183"/>
+			<id id="184"/>
+			<id id="185"/>
+			<id id="186"/>
+			<id id="187"/>
+			<id id="188"/>
+			<id id="189"/>
+			<id id="190"/>
+			<id id="191"/>
+			<id id="192"/>
+			<id id="193"/>
+			<id id="194"/>
+			<id id="195"/>
+			<id id="196"/>
+			<id id="197"/>
+			<id id="198"/>
+			<id id="199"/>
+			<id id="200">
+				<origin>主人公\f801\\ffff\</origin>
+				<translate>主人公\f801\\ffff\</translate>
+			</id>
+			<id id="201">
+				<origin>アリアンナ\f801\\ffff\</origin>
+				<translate>アリアンナ\f801\\ffff\</translate>
+			</id>
+			<id id="202">
+				<origin>フラヴィオ\f801\\ffff\</origin>
+				<translate>フラヴィオ\f801\\ffff\</translate>
+			</id>
+			<id id="203">
+				<origin>ベルトラン\f801\\ffff\</origin>
+				<translate>ベルトラン\f801\\ffff\</translate>
+			</id>
+			<id id="204">
+				<origin>クロエ\f801\\ffff\</origin>
+				<translate>クロエ\f801\\ffff\</translate>
+			</id>
+			<id id="205">
+				<origin>フロースガル\f801\\ffff\</origin>
+				<translate>フロースガル\f801\\ffff\</translate>
+			</id>
+			<id id="206">
+				<origin>マリオン\f801\\ffff\</origin>
+				<translate>マリオン\f801\\ffff\</translate>
+			</id>
+			<id id="207">
+				<origin>ハンナ\f801\\ffff\</origin>
+				<translate>ハンナ\f801\\ffff\</translate>
+			</id>
+			<id id="208">
+				<origin>ダンフォード\f801\\ffff\</origin>
+				<translate>ダンフォード\f801\\ffff\</translate>
+			</id>
+			<id id="209">
+				<origin>エクレア\f801\\ffff\</origin>
+				<translate>エクレア\f801\\ffff\</translate>
+			</id>
+			<id id="210">
+				<origin>アントニオ\f801\\ffff\</origin>
+				<translate>アントニオ\f801\\ffff\</translate>
+			</id>
+			<id id="211">
+				<origin>レジィナ\f801\\ffff\</origin>
+				<translate>レジィナ\f801\\ffff\</translate>
+			</id>
+			<id id="212">
+				<origin>公女\f801\\ffff\</origin>
+				<translate>公女\f801\\ffff\</translate>
+			</id>
+			<id id="213">
+				<origin>クオナ\f801\\ffff\</origin>
+				<translate>クオナ\f801\\ffff\</translate>
+			</id>
+			<id id="214">
+				<origin>アーテリンデ\f801\\ffff\</origin>
+				<translate>アーテリンデ\f801\\ffff\</translate>
+			</id>
+			<id id="215">
+				<origin>ライシュッツ\f801\\ffff\</origin>
+				<translate>ライシュッツ\f801\\ffff\</translate>
+			</id>
+			<id id="216">
+				<origin>カナーン\f801\\ffff\</origin>
+				<translate>カナーン\f801\\ffff\</translate>
+			</id>
+			<id id="217">
+				<origin>オーバーロード\f801\\ffff\</origin>
+				<translate>オーバーロード\f801\\ffff\</translate>
+			</id>
+			<id id="218">
+				<origin>黒の護り手\f801\\ffff\</origin>
+				<translate>黒の護り手\f801\\ffff\</translate>
+			</id>
+			<id id="219">
+				<origin>教授\f801\\ffff\</origin>
+				<translate>教授\f801\\ffff\</translate>
+			</id>
+			<id id="220">
+				<origin>掛け合い\f801\\ffff\</origin>
+				<translate>掛け合い\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

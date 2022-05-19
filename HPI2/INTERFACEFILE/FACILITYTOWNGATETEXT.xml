@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>ee090000</size>
+		<number>2f000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>選択した迷宮内から冒険をスタートできます。\f801\移動しますか？\f801\\ffff\</origin>
+				<translate>選択した迷宮内から冒険をスタートできます。\f801\移動しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>選択したイベントをスタートできます。\f801\移動しますか？\f801\\ffff\</origin>
+				<translate>選択したイベントをスタートできます。\f801\移動しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="3"/>
+			<id id="4"/>
+			<id id="5"/>
+			<id id="6"/>
+			<id id="7"/>
+			<id id="8"/>
+			<id id="9"/>
+			<id id="10"/>
+			<id id="11">
+				<origin>\f804\\0500\東土ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\東土ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>\f804\\0500\碧照ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\碧照ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>\f804\\0500\原始ノ大密林\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\原始ノ大密林\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>\f804\\0500\垂水ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\垂水ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>\f804\\0500\真南ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\真南ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>\f804\\0500\桜ノ立橋\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\桜ノ立橋\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="17">
+				<origin>\f804\\0500\古跡ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\古跡ノ樹海\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="18">
+				<origin>\f804\\0500\海嶺ノ水林\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\海嶺ノ水林\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="19">
+				<origin>\f804\\0500\西方ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\西方ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>\f804\\0500\金剛獣ノ岩窟\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\金剛獣ノ岩窟\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>\f804\\0500\枯レ森\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\枯レ森\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>\f804\\0500\極北ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\極北ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>\f804\\0500\世界樹ノ迷宮\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\世界樹ノ迷宮\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>\f804\\0500\奈落ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\奈落ノ霊堂\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>\f804\\0500\小さな果樹林\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\小さな果樹林\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>\f804\\0500\巨人の遺跡\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\巨人の遺跡\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>\f804\\0500\未踏の水源地\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\未踏の水源地\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>\f804\\0500\桜花天空楼\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\桜花天空楼\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>\f804\\0500\埋もれた城跡\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\埋もれた城跡\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>\f804\\0500\極寒の地底湖\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\極寒の地底湖\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>\f804\\0500\終わりの森\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\終わりの森\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="32">
+				<origin>\f804\\0500\幻惑の森\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\幻惑の森\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="33">
+				<origin>\f804\\0500\真新しい蟻塚\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\真新しい蟻塚\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="34">
+				<origin>\f804\\0500\御神ガ原\f804\\0000\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>\f804\\0500\御神ガ原\f804\\0000\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="35">
+				<origin>※迷宮\f801\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>※迷宮\f801\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="36">
+				<origin>※迷宮\f801\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>※迷宮\f801\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="37">
+				<origin>※迷宮\f801\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>※迷宮\f801\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="38">
+				<origin>※迷宮\f801\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>※迷宮\f801\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="39">
+				<origin>※迷宮\f801\に行けるようになりました。\f801\\ffff\</origin>
+				<translate>※迷宮\f801\に行けるようになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="40">
+				<origin>・・・\f801\\ffff\</origin>
+				<translate>・・・\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個発見した！\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個発見した！\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個\f801\\f815\\0100\\f819\\0100\\f811\\0300\\f804\\0000\を\f811\\0400\個発見した！\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個\f801\\f815\\0100\\f819\\0100\\f811\\0300\\f804\\0000\を\f811\\0400\個発見した！\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個\f801\\f815\\0100\\f819\\0100\\f811\\0300\\f804\\0000\を\f811\\0400\個\f801\\f815\\0200\\f819\\0200\\f811\\0500\\f804\\0000\を\f811\\0600\個発見した！\f801\\ffff\</origin>
+				<translate>\f815\\0000\\f819\\0000\\f811\\0100\\f804\\0000\を\f811\\0200\個\f801\\f815\\0100\\f819\\0100\\f811\\0300\\f804\\0000\を\f811\\0400\個\f801\\f815\\0200\\f819\\0200\\f811\\0500\\f804\\0000\を\f811\\0600\個発見した！\f801\\ffff\</translate>
+			</id>
+			<id id="44">
+				<origin>手持ちがいっぱいで、\f801\これ以上、アイテムを持てないようだ。\f801\\ffff\</origin>
+				<translate>手持ちがいっぱいで、\f801\これ以上、アイテムを持てないようだ。\f801\\ffff\</translate>
+			</id>
+			<id id="45">
+				<origin>手持ちがいっぱいになった。\f801\これ以上、アイテムを持てないようだ。\f801\\ffff\</origin>
+				<translate>手持ちがいっぱいになった。\f801\これ以上、アイテムを持てないようだ。\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>今は何もない\f801\\ffff\</origin>
+				<translate>今は何もない\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>\f811\\0100\の姿が確認できる…\f801\挑みかかりますか？\f801\\ffff\</origin>
+				<translate>\f811\\0100\の姿が確認できる…\f801\挑みかかりますか？\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

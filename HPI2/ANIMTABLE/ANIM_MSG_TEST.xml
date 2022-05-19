@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>e0010000</size>
+		<number>09000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>この樹海の美しい木々の向こうには\f801\\ffff\</origin>
+				<translate>この樹海の美しい木々の向こうには\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>魔法の石像があると言う\f801\\ffff\</origin>
+				<translate>魔法の石像があると言う\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>その石像は人々を惑わせ\f801\\ffff\</origin>
+				<translate>その石像は人々を惑わせ\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>行く手を遮ると言われている\f801\\ffff\</origin>
+				<translate>行く手を遮ると言われている\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>今日もまた樹海へ挑む冒険者たちの前に\f801\\ffff\</origin>
+				<translate>今日もまた樹海へ挑む冒険者たちの前に\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>物言わぬ小さな石像たちが 立ち塞がる\f801\\ffff\</origin>
+				<translate>物言わぬ小さな石像たちが 立ち塞がる\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>でも 私は思うのだ\f801\\ffff\</origin>
+				<translate>でも 私は思うのだ\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>石像はいつもジッとその場に立っているだけ\f801\\ffff\</origin>
+				<translate>石像はいつもジッとその場に立っているだけ\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>惑いは人にあり 石像にはないのではと\f801\\ffff\</origin>
+				<translate>惑いは人にあり 石像にはないのではと\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

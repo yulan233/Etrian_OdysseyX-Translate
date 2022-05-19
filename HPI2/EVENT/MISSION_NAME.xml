@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>ae020000</size>
+		<number>10000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>遺跡を調査し詳細な地図を描け！\f801\\ffff\</origin>
+				<translate>遺跡を調査し詳細な地図を描け！\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>猛獣を討伐せよ！\f801\\ffff\</origin>
+				<translate>猛獣を討伐せよ！\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>行方不明の協力者を捜せ！\f801\\ffff\</origin>
+				<translate>行方不明の協力者を捜せ！\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>恐るべき飛竜を討て！\f801\\ffff\</origin>
+				<translate>恐るべき飛竜を討て！\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>カリスを助け共に魔魚を倒せ！\f801\\ffff\</origin>
+				<translate>カリスを助け共に魔魚を倒せ！\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>第三の島への道を拓け！\f801\\ffff\</origin>
+				<translate>第三の島への道を拓け！\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>海の一族の拠点を発見しろ！\f801\\ffff\</origin>
+				<translate>海の一族の拠点を発見しろ！\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>海の一族の資料を回収せよ！\f801\\ffff\</origin>
+				<translate>海の一族の資料を回収せよ！\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>姫を捜して第四の遺跡へ向かえ！\f801\\ffff\</origin>
+				<translate>姫を捜して第四の遺跡へ向かえ！\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>ヨルムンガンドを討伐せよ！\f801\\ffff\</origin>
+				<translate>ヨルムンガンドを討伐せよ！\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>未実装\f801\\ffff\</origin>
+				<translate>未実装\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>遺跡を調査し詳細な地図を描け！\f801\\ffff\</origin>
+				<translate>遺跡を調査し詳細な地図を描け！\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>82150000</size>
+		<number>91000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="1">
+				<origin>個人情報や受け取った人が、\f801\不快に思う事は書かないでください。\f801\\ffff\</origin>
+				<translate>個人情報や受け取った人が、\f801\不快に思う事は書かないでください。\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>すでに入手済みの情報です。\f801\\ffff\</origin>
+				<translate>すでに入手済みの情報です。\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>秘宝・\f811\\0000\の情報を手に入れました！\f801\\ffff\</origin>
+				<translate>秘宝・\f811\\0000\の情報を手に入れました！\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>条件を満たしていません。\f801\\ffff\</origin>
+				<translate>条件を満たしていません。\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>このギルドカードを削除します\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>このギルドカードを削除します\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>ギルドカードを削除しました。\f801\\ffff\</origin>
+				<translate>ギルドカードを削除しました。\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>スカウトレベルが足りません。\f801\\ffff\</origin>
+				<translate>スカウトレベルが足りません。\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>ギルドが一杯です。\f801\\ffff\</origin>
+				<translate>ギルドが一杯です。\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>ゲームコインが足りません。\f801\\ffff\</origin>
+				<translate>ゲームコインが足りません。\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>ギルドに登録しますか？\f801\\ffff\</origin>
+				<translate>ギルドに登録しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>ゲームコイン２０枚を使って\f801\このキャラクターをギルドに登録しますか。\f801\\ffff\</origin>
+				<translate>ゲームコイン２０枚を使って\f801\このキャラクターをギルドに登録しますか。\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>ギルドに登録しました。\f801\\ffff\</origin>
+				<translate>ギルドに登録しました。\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>不適切な内容です。\f801\もう一度、入力してください。\f801\\ffff\</origin>
+				<translate>不適切な内容です。\f801\もう一度、入力してください。\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>数字は５文字までしか入力できません。\f801\もう一度、入力してください。\f801\\ffff\</origin>
+				<translate>数字は５文字までしか入力できません。\f801\もう一度、入力してください。\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>この者は闇の眷属となっている。\f801\今のままではその実像は映らない。\f801\直接接触すれば、真の姿が見えるだろう。\f801\\f802\このキャラクターは\f801\スカウトすることができません！\f801\\ffff\</origin>
+				<translate>この者は闇の眷属となっている。\f801\今のままではその実像は映らない。\f801\直接接触すれば、真の姿が見えるだろう。\f801\\f802\このキャラクターは\f801\スカウトすることができません！\f801\\ffff\</translate>
+			</id>
+			<id id="16">
+				<origin>この者は闇の眷属となっている。\f801\近いうちに君たちにも\f801\闇との出会いがあるだろう。\f801\\ffff\</origin>
+				<translate>この者は闇の眷属となっている。\f801\近いうちに君たちにも\f801\闇との出会いがあるだろう。\f801\\ffff\</translate>
+			</id>
+			<id id="17"/>
+			<id id="18"/>
+			<id id="19">
+				<origin>\f804\\0500\他者を不快にしたり、その権利を侵害する\f801\文章\f804\\0000\や\f804\\0500\自身や他人のプライベートな情報\f804\\0000\は\f801\他人に渡したり公開しないでください\f801\\ffff\</origin>
+				<translate>\f804\\0500\他者を不快にしたり、その権利を侵害する\f801\文章\f804\\0000\や\f804\\0500\自身や他人のプライベートな情報\f804\\0000\は\f801\他人に渡したり公開しないでください\f801\\ffff\</translate>
+			</id>
+			<id id="20">
+				<origin>自分のギルドカードのＱＲコードと\f801\画像データをＳＤカードに出力します。\f801\\f804\\0300\既にデータが存在する場合は上書きします。\f804\\0000\\f801\\ffff\</origin>
+				<translate>自分のギルドカードのＱＲコードと\f801\画像データをＳＤカードに出力します。\f801\\f804\\0300\既にデータが存在する場合は上書きします。\f804\\0000\\f801\\ffff\</translate>
+			</id>
+			<id id="21">
+				<origin>ＳＤカードに出力してよろしいですか？\f801\\ffff\</origin>
+				<translate>ＳＤカードに出力してよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="22">
+				<origin>ＳＤカードにアクセスできません。\f801\\ffff\</origin>
+				<translate>ＳＤカードにアクセスできません。\f801\\ffff\</translate>
+			</id>
+			<id id="23">
+				<origin>ＳＤカードへの出力に失敗しました。\f801\\ffff\</origin>
+				<translate>ＳＤカードへの出力に失敗しました。\f801\\ffff\</translate>
+			</id>
+			<id id="24">
+				<origin>ＱＲコードのエンコードに失敗しました。\f801\\ffff\</origin>
+				<translate>ＱＲコードのエンコードに失敗しました。\f801\\ffff\</translate>
+			</id>
+			<id id="25">
+				<origin>ＱＲコードと画像データを\f801\ＳＤカードに出力しました。\f801\\ffff\</origin>
+				<translate>ＱＲコードと画像データを\f801\ＳＤカードに出力しました。\f801\\ffff\</translate>
+			</id>
+			<id id="26">
+				<origin>ギルドカードのデータを画像データとして\f801\ＳＤカードに出力してよろしいですか？\f801\\ffff\</origin>
+				<translate>ギルドカードのデータを画像データとして\f801\ＳＤカードに出力してよろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="27">
+				<origin>画像データの出力に失敗しました。\f801\\ffff\</origin>
+				<translate>画像データの出力に失敗しました。\f801\\ffff\</translate>
+			</id>
+			<id id="28">
+				<origin>ギルドカードの画像を\f801\ＳＤカードに出力しました。\f801\\ffff\</origin>
+				<translate>ギルドカードの画像を\f801\ＳＤカードに出力しました。\f801\\ffff\</translate>
+			</id>
+			<id id="29">
+				<origin>グリモアを生成しますか？\f801\\ffff\</origin>
+				<translate>グリモアを生成しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="30">
+				<origin>グリモアの生成は行えないようだ\f801\\ffff\</origin>
+				<translate>グリモアの生成は行えないようだ\f801\\ffff\</translate>
+			</id>
+			<id id="31">
+				<origin>アイテム欄が一杯で\f801\グリモアを生成する事ができません\f801\\ffff\</origin>
+				<translate>アイテム欄が一杯で\f801\グリモアを生成する事ができません\f801\\ffff\</translate>
+			</id>
+			<id id="32"/>
+			<id id="33"/>
+			<id id="34"/>
+			<id id="35"/>
+			<id id="36"/>
+			<id id="37"/>
+			<id id="38"/>
+			<id id="39"/>
+			<id id="40">
+				<origin>\f804\\0000\添付したキャラがセットしているグリモアは\f801\内包されたスキルのみ送られます\f801\\f819\\0100\※付加効果は相手に送ることはできません\f801\\ffff\</origin>
+				<translate>\f804\\0000\添付したキャラがセットしているグリモアは\f801\内包されたスキルのみ送られます\f801\\f819\\0100\※付加効果は相手に送ることはできません\f801\\ffff\</translate>
+			</id>
+			<id id="41">
+				<origin>お気に入りのカードは削除できません\f801\\ffff\</origin>
+				<translate>お気に入りのカードは削除できません\f801\\ffff\</translate>
+			</id>
+			<id id="42">
+				<origin>トレード交渉しますか？\f801\\ffff\</origin>
+				<translate>トレード交渉しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="43">
+				<origin>追加コンテンツのためトレードが行えません\f801\\ffff\</origin>
+				<translate>追加コンテンツのためトレードが行えません\f801\\ffff\</translate>
+			</id>
+			<id id="44"/>
+			<id id="45">
+				<origin>自分のカードとは\f801\トレードすることができません\f801\\ffff\</origin>
+				<translate>自分のカードとは\f801\トレードすることができません\f801\\ffff\</translate>
+			</id>
+			<id id="46">
+				<origin>ギルドカードの所持限界数を超えています\f801\ギルドカードを削除してください\f801\ギルドカードは２５６枚まで所持できます\f801\\ffff\</origin>
+				<translate>ギルドカードの所持限界数を超えています\f801\ギルドカードを削除してください\f801\ギルドカードは２５６枚まで所持できます\f801\\ffff\</translate>
+			</id>
+			<id id="47">
+				<origin>新たに添付可能なキャラクターが\f801\ギルドに登録されていません\f801\\ffff\</origin>
+				<translate>新たに添付可能なキャラクターが\f801\ギルドに登録されていません\f801\\ffff\</translate>
+			</id>
+			<id id="48">
+				<origin>自分のギルドカードのキャラクターは\f801\スカウトできません\f801\\ffff\</origin>
+				<translate>自分のギルドカードのキャラクターは\f801\スカウトできません\f801\\ffff\</translate>
+			</id>
+			<id id="49">
+				<origin>お気に入りのため削除できません。\f801\お気に入りを解除しますか？\f801\\ffff\</origin>
+				<translate>お気に入りのため削除できません。\f801\お気に入りを解除しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="50">
+				<origin>ギルドカードの所持限界を超えたので\f801\ギルドカードを削除してください\f801\ギルドカードは２５６枚まで所持できます\f801\\ffff\</origin>
+				<translate>ギルドカードの所持限界を超えたので\f801\ギルドカードを削除してください\f801\ギルドカードは２５６枚まで所持できます\f801\\ffff\</translate>
+			</id>
+			<id id="51">
+				<origin>添付したキャラクターの装備から\f801\追加コンテンツ専用アイテムがはずれました\f801\\ffff\</origin>
+				<translate>添付したキャラクターの装備から\f801\追加コンテンツ専用アイテムがはずれました\f801\\ffff\</translate>
+			</id>
+			<id id="52">
+				<origin>自動ソート時に\f801\お気に入りを優先して表示させますか？\f801\\ffff\</origin>
+				<translate>自動ソート時に\f801\お気に入りを優先して表示させますか？\f801\\ffff\</translate>
+			</id>
+			<id id="53">
+				<origin>お気に入りを優先がＯＮになりました。\f801\\ffff\</origin>
+				<translate>お気に入りを優先がＯＮになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="54">
+				<origin>お気に入りを優先がＯＦＦになりました。\f801\\ffff\</origin>
+				<translate>お気に入りを優先がＯＦＦになりました。\f801\\ffff\</translate>
+			</id>
+			<id id="55">
+				<origin>並び替えをすると設定中の\f801\ソートが解除されますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>並び替えをすると設定中の\f801\ソートが解除されますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="56">
+				<origin>並び替えをすると設定中の\f801\ソートとお気に入り優先が解除されますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>並び替えをすると設定中の\f801\ソートとお気に入り優先が解除されますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="57">
+				<origin>現在の並び順には戻せなくなりますが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>現在の並び順には戻せなくなりますが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="58">
+				<origin>ソート順が選択されていない場合\f801\お気に入り優先は機能しませんが\f801\よろしいですか？\f801\\ffff\</origin>
+				<translate>ソート順が選択されていない場合\f801\お気に入り優先は機能しませんが\f801\よろしいですか？\f801\\ffff\</translate>
+			</id>
+			<id id="59"/>
+			<id id="60">
+				<origin>編集する内容を選んで下さい\f801\\ffff\</origin>
+				<translate>編集する内容を選んで下さい\f801\\ffff\</translate>
+			</id>
+			<id id="61">
+				<origin>お気に入りにする\f801\\ffff\</origin>
+				<translate>お気に入りにする\f801\\ffff\</translate>
+			</id>
+			<id id="62">
+				<origin>ソート\f801\\ffff\</origin>
+				<translate>ソート\f801\\ffff\</translate>
+			</id>
+			<id id="63">
+				<origin>並べ替え\f801\\ffff\</origin>
+				<translate>並べ替え\f801\\ffff\</translate>
+			</id>
+			<id id="64">
+				<origin>削除する\f801\\ffff\</origin>
+				<translate>削除する\f801\\ffff\</translate>
+			</id>
+			<id id="65">
+				<origin>お気に入り優先［ＯＮ］\f801\\ffff\</origin>
+				<translate>お気に入り優先［ＯＮ］\f801\\ffff\</translate>
+			</id>
+			<id id="66">
+				<origin>お気に入り優先［ＯＦＦ］\f801\\ffff\</origin>
+				<translate>お気に入り優先［ＯＦＦ］\f801\\ffff\</translate>
+			</id>
+			<id id="67">
+				<origin>ソートの設定を変更します。\f801\\ffff\</origin>
+				<translate>ソートの設定を変更します。\f801\\ffff\</translate>
+			</id>
+			<id id="68">
+				<origin>決定\f801\\ffff\</origin>
+				<translate>決定\f801\\ffff\</translate>
+			</id>
+			<id id="69">
+				<origin>キャンセル\f801\\ffff\</origin>
+				<translate>キャンセル\f801\\ffff\</translate>
+			</id>
+			<id id="70"/>
+			<id id="71"/>
+			<id id="72"/>
+			<id id="73">
+				<origin>お気に入りレベルを選んで下さい\f801\\ffff\</origin>
+				<translate>お気に入りレベルを選んで下さい\f801\\ffff\</translate>
+			</id>
+			<id id="74">
+				<origin>☆☆☆\f801\\ffff\</origin>
+				<translate>☆☆☆\f801\\ffff\</translate>
+			</id>
+			<id id="75">
+				<origin>☆☆\f801\\ffff\</origin>
+				<translate>☆☆\f801\\ffff\</translate>
+			</id>
+			<id id="76">
+				<origin>☆\f801\\ffff\</origin>
+				<translate>☆\f801\\ffff\</translate>
+			</id>
+			<id id="77">
+				<origin>設定しない\f801\\ffff\</origin>
+				<translate>設定しない\f801\\ffff\</translate>
+			</id>
+			<id id="78"/>
+			<id id="79"/>
+			<id id="80">
+				<origin>背景１\f801\\ffff\</origin>
+				<translate>背景１\f801\\ffff\</translate>
+			</id>
+			<id id="81">
+				<origin>背景２\f801\\ffff\</origin>
+				<translate>背景２\f801\\ffff\</translate>
+			</id>
+			<id id="82">
+				<origin>背景３\f801\\ffff\</origin>
+				<translate>背景３\f801\\ffff\</translate>
+			</id>
+			<id id="83">
+				<origin>背景４\f801\\ffff\</origin>
+				<translate>背景４\f801\\ffff\</translate>
+			</id>
+			<id id="84">
+				<origin>背景５\f801\\ffff\</origin>
+				<translate>背景５\f801\\ffff\</translate>
+			</id>
+			<id id="85">
+				<origin>背景６\f801\\ffff\</origin>
+				<translate>背景６\f801\\ffff\</translate>
+			</id>
+			<id id="86">
+				<origin>背景７\f801\\ffff\</origin>
+				<translate>背景７\f801\\ffff\</translate>
+			</id>
+			<id id="87">
+				<origin>背景８\f801\\ffff\</origin>
+				<translate>背景８\f801\\ffff\</translate>
+			</id>
+			<id id="88">
+				<origin>背景９\f801\\ffff\</origin>
+				<translate>背景９\f801\\ffff\</translate>
+			</id>
+			<id id="89">
+				<origin>背景１０\f801\\ffff\</origin>
+				<translate>背景１０\f801\\ffff\</translate>
+			</id>
+			<id id="90">
+				<origin>背景１１\f801\\ffff\</origin>
+				<translate>背景１１\f801\\ffff\</translate>
+			</id>
+			<id id="91">
+				<origin>背景１２\f801\\ffff\</origin>
+				<translate>背景１２\f801\\ffff\</translate>
+			</id>
+			<id id="92">
+				<origin>背景１３\f801\\ffff\</origin>
+				<translate>背景１３\f801\\ffff\</translate>
+			</id>
+			<id id="93">
+				<origin>背景１４\f801\\ffff\</origin>
+				<translate>背景１４\f801\\ffff\</translate>
+			</id>
+			<id id="94">
+				<origin>背景１５\f801\\ffff\</origin>
+				<translate>背景１５\f801\\ffff\</translate>
+			</id>
+			<id id="95">
+				<origin>背景１６\f801\\ffff\</origin>
+				<translate>背景１６\f801\\ffff\</translate>
+			</id>
+			<id id="96">
+				<origin>背景１７\f801\\ffff\</origin>
+				<translate>背景１７\f801\\ffff\</translate>
+			</id>
+			<id id="97">
+				<origin>背景１８\f801\\ffff\</origin>
+				<translate>背景１８\f801\\ffff\</translate>
+			</id>
+			<id id="98">
+				<origin>背景１９\f801\\ffff\</origin>
+				<translate>背景１９\f801\\ffff\</translate>
+			</id>
+			<id id="99">
+				<origin>背景２０\f801\\ffff\</origin>
+				<translate>背景２０\f801\\ffff\</translate>
+			</id>
+			<id id="100">
+				<origin>背景２１\f801\\ffff\</origin>
+				<translate>背景２１\f801\\ffff\</translate>
+			</id>
+			<id id="101">
+				<origin>背景２２\f801\\ffff\</origin>
+				<translate>背景２２\f801\\ffff\</translate>
+			</id>
+			<id id="102">
+				<origin>背景２３\f801\\ffff\</origin>
+				<translate>背景２３\f801\\ffff\</translate>
+			</id>
+			<id id="103">
+				<origin>背景２４\f801\\ffff\</origin>
+				<translate>背景２４\f801\\ffff\</translate>
+			</id>
+			<id id="104">
+				<origin>背景２５\f801\\ffff\</origin>
+				<translate>背景２５\f801\\ffff\</translate>
+			</id>
+			<id id="105">
+				<origin>背景２６\f801\\ffff\</origin>
+				<translate>背景２６\f801\\ffff\</translate>
+			</id>
+			<id id="106">
+				<origin>背景２７\f801\\ffff\</origin>
+				<translate>背景２７\f801\\ffff\</translate>
+			</id>
+			<id id="107">
+				<origin>背景２８\f801\\ffff\</origin>
+				<translate>背景２８\f801\\ffff\</translate>
+			</id>
+			<id id="108">
+				<origin>背景２９\f801\\ffff\</origin>
+				<translate>背景２９\f801\\ffff\</translate>
+			</id>
+			<id id="109">
+				<origin>背景３０\f801\\ffff\</origin>
+				<translate>背景３０\f801\\ffff\</translate>
+			</id>
+			<id id="110">
+				<origin>背景３１\f801\\ffff\</origin>
+				<translate>背景３１\f801\\ffff\</translate>
+			</id>
+			<id id="111">
+				<origin>背景３２\f801\\ffff\</origin>
+				<translate>背景３２\f801\\ffff\</translate>
+			</id>
+			<id id="112">
+				<origin>背景３３\f801\\ffff\</origin>
+				<translate>背景３３\f801\\ffff\</translate>
+			</id>
+			<id id="113">
+				<origin>背景３４\f801\\ffff\</origin>
+				<translate>背景３４\f801\\ffff\</translate>
+			</id>
+			<id id="114"/>
+			<id id="115"/>
+			<id id="116"/>
+			<id id="117"/>
+			<id id="118"/>
+			<id id="119"/>
+			<id id="120">
+				<origin>カラー１\f801\\ffff\</origin>
+				<translate>カラー１\f801\\ffff\</translate>
+			</id>
+			<id id="121">
+				<origin>カラー２\f801\\ffff\</origin>
+				<translate>カラー２\f801\\ffff\</translate>
+			</id>
+			<id id="122">
+				<origin>カラー３\f801\\ffff\</origin>
+				<translate>カラー３\f801\\ffff\</translate>
+			</id>
+			<id id="123">
+				<origin>カラー４\f801\\ffff\</origin>
+				<translate>カラー４\f801\\ffff\</translate>
+			</id>
+			<id id="124">
+				<origin>カラー５\f801\\ffff\</origin>
+				<translate>カラー５\f801\\ffff\</translate>
+			</id>
+			<id id="125">
+				<origin>カラー６\f801\\ffff\</origin>
+				<translate>カラー６\f801\\ffff\</translate>
+			</id>
+			<id id="126">
+				<origin>カラー７\f801\\ffff\</origin>
+				<translate>カラー７\f801\\ffff\</translate>
+			</id>
+			<id id="127"/>
+			<id id="128"/>
+			<id id="129"/>
+			<id id="130">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="131">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="132">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="133">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="134">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="135">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="136">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="137">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="138">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="139">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="140">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="141">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="142">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="143">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="144">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+			<id id="145">
+				<origin>\ffff\</origin>
+				<translate>\ffff\</translate>
+			</id>
+		</body>
+	</mbm>

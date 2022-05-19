@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<mbm>
+		<head>000000004d53473200000100</head>
+		<size>d8020000</size>
+		<number>0f000000</number>
+		<j>200000000000000000000000</j>
+		<body>
+			<id id="0"/>
+			<id id="1">
+				<origin>この街のさまざまな人の依頼を見て\f801\引き受けることができます\f801\\ffff\</origin>
+				<translate>この街のさまざまな人の依頼を見て\f801\引き受けることができます\f801\\ffff\</translate>
+			</id>
+			<id id="2">
+				<origin>クエストの結果を報告したり\f801\依頼を破棄することができます\f801\\ffff\</origin>
+				<translate>クエストの結果を報告したり\f801\依頼を破棄することができます\f801\\ffff\</translate>
+			</id>
+			<id id="3">
+				<origin>酒場にやってくる冒険者と話し\f801\さまざまな情報を得られます\f801\\ffff\</origin>
+				<translate>酒場にやってくる冒険者と話し\f801\さまざまな情報を得られます\f801\\ffff\</translate>
+			</id>
+			<id id="4">
+				<origin>店の店主と話します\f801\\ffff\</origin>
+				<translate>店の店主と話します\f801\\ffff\</translate>
+			</id>
+			<id id="5">
+				<origin>広場へ戻ります\f801\\ffff\</origin>
+				<translate>広場へ戻ります\f801\\ffff\</translate>
+			</id>
+			<id id="6">
+				<origin>誰と会話しますか？\f801\\ffff\</origin>
+				<translate>誰と会話しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="7">
+				<origin>依頼はありません\f801\\ffff\</origin>
+				<translate>依頼はありません\f801\\ffff\</translate>
+			</id>
+			<id id="8">
+				<origin>この依頼を引き受けますか？\f801\\ffff\</origin>
+				<translate>この依頼を引き受けますか？\f801\\ffff\</translate>
+			</id>
+			<id id="9">
+				<origin>依頼を引き受けました\f801\\ffff\</origin>
+				<translate>依頼を引き受けました\f801\\ffff\</translate>
+			</id>
+			<id id="10">
+				<origin>引き受けている依頼がありません\f801\\ffff\</origin>
+				<translate>引き受けている依頼がありません\f801\\ffff\</translate>
+			</id>
+			<id id="11">
+				<origin>ダミー\f801\\ffff\</origin>
+				<translate>ダミー\f801\\ffff\</translate>
+			</id>
+			<id id="12">
+				<origin>この依頼を破棄しますか？\f801\\ffff\</origin>
+				<translate>この依頼を破棄しますか？\f801\\ffff\</translate>
+			</id>
+			<id id="13">
+				<origin>依頼を破棄しました\f801\\ffff\</origin>
+				<translate>依頼を破棄しました\f801\\ffff\</translate>
+			</id>
+			<id id="14">
+				<origin>誰もいません\f801\\ffff\</origin>
+				<translate>誰もいません\f801\\ffff\</translate>
+			</id>
+			<id id="15">
+				<origin>これ以上受けられません！\f801\\ffff\</origin>
+				<translate>これ以上受けられません！\f801\\ffff\</translate>
+			</id>
+		</body>
+	</mbm>
