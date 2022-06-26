@@ -7,6 +7,14 @@ import aliyun
 import deeplapi
 
 shift_jis = {"8140": ' '}
+shift_jis_fan = {" ": "8140"}
+
+
+def switchSome(x):
+    if x.isupper():
+        return ord(x) + 33311
+    else:
+        return ord(x) + 33312
 
 
 # 初始化一个码表
@@ -16,6 +24,11 @@ def init_shift_jis():
             # print(line)
             line1 = line.split("　")
             shift_jis[line1[0]] = line1[2].strip()[0]
+    with open('./shift_jis-unicode-符号.txt', 'r', encoding='UTF-8') as lines:
+        for line in lines.readlines():
+            # print(line)
+            line1 = line.split("　")
+            shift_jis_fan[line1[2].strip()[0]] = line1[0]
 
 
 # 返回读取到的mbm文件的十六进制数据
@@ -135,9 +148,9 @@ def write_xml_to_mbm(filepath, out_filepath):
             new_size += i
         # 写入总大小
         new_file.write(struct.pack('B', int(new_size % (16 * 16))))
-        new_file.write(struct.pack('B', int(new_size / (16 * 16))))
-        new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16))))
-        new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16))))
+        new_file.write(struct.pack('B', int(new_size / (16 * 16)) % (16 * 16)))
+        new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16)) % (16 * 16)))
+        new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
         # 写入数据数量和一个定量
         new_file.write(struct.pack('B', int(number % (16 * 16))))
         new_file.write(struct.pack('B', int(number / (16 * 16))))
@@ -168,23 +181,24 @@ def write_xml_to_mbm(filepath, out_filepath):
             # 写入序号
             xu_hao = int(id.getAttribute("id"))
             new_file.write(struct.pack('B', int(xu_hao % (16 * 16))))
-            new_file.write(struct.pack('B', int(xu_hao / (16 * 16))))
-            new_file.write(struct.pack('B', int(xu_hao / (16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(xu_hao / (16 * 16 * 16 * 16 * 16 * 16))))
+            new_file.write(struct.pack('B', int(xu_hao / (16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(xu_hao / (16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(xu_hao / (16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
             # 写入长度
             new_file.write(struct.pack('B', int(i % (16 * 16))))
-            new_file.write(struct.pack('B', int(i / (16 * 16))))
-            new_file.write(struct.pack('B', int(i / (16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(i / (16 * 16 * 16 * 16 * 16 * 16))))
+            new_file.write(struct.pack('B', int(i / (16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(i / (16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(i / (16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
             # 写入起始位置
             new_file.write(struct.pack('B', int(new_size % (16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16))))
-            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16))))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
+            new_file.write(
+                struct.pack('B', int(new_size / (16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16 * 16)) % (16 * 16)))
 
             # 添加上新大小
             # 写入translate中的内容
@@ -206,7 +220,12 @@ def write_xml_to_mbm(filepath, out_filepath):
                     continue
                 if tag:
                     # 转成unicode码
-                    x = ord(text)
+                    if text.encode("utf-8").isalpha():
+                        x = switchSome(text)
+                    else:
+                        x = ord(text)
+                    if shift_jis_fan.get(text) is not None:
+                        x = int(shift_jis_fan.get(text), 16)
                     # 写入到文件
                     new_file.write(struct.pack('B', int(x / (16 * 16))))
                     new_file.write(struct.pack('B', int(x % (16 * 16))))
@@ -334,13 +353,22 @@ def write_new_code1(filepath, code):
                     for code1 in codetext1[1]:
                         if a == len(codetext1[0]):
                             break
-                        code1 = ord(code1)
-                        if int(code1 / (16 * 16)) == 0 or int(code1 % (16 * 16)) == 0:
+                        if code1.encode("utf-8").isalpha():
+                            print(code1)
+                            code2 = switchSome(code1)
+                            print(code1)
+                        else:
+                            code2 = ord(code1)
+                        if int(code2 / (16 * 16)) == 0 or int(code2 % (16 * 16)) == 0:
                             new_file.write(struct.pack('B', 81))
                             new_file.write(struct.pack('B', 48))
                         else:
-                            new_file.write(struct.pack('B', int(code1 / (16 * 16))))
-                            new_file.write(struct.pack('B', int(code1 % (16 * 16))))
+                            if shift_jis_fan.get(code1) is not None:
+                                print(code1)
+                                x = int(shift_jis_fan.get(code1), 16)
+                                code2 = x
+                            new_file.write(struct.pack('B', int(code2 / (16 * 16))))
+                            new_file.write(struct.pack('B', int(code2 % (16 * 16))))
                         a += 1
                     while a < len(codetext1[0]):
                         new_file.write(struct.pack('B', 81))
@@ -448,11 +476,29 @@ def write_new_code(filepath, code):
 
 if __name__ == '__main__':
     init_shift_jis()
+    # write_xml_to_mbm('HPI2/ANIMTABLE/ANIM_A01.xml', 'D.MBM')
+    # with open("./TBL1.txt", encoding="utf-8") as f:
+    #     with open("./TBL2.txt", encoding="utf-8") as ff:
+    #         f_lines = f.readlines()
+    #         ff_lines = ff.readlines()
+    #         i = 0
+    #         while i < len(f_lines):
+    #
+    #             fileoutput = ff_lines[i][:len(ff_lines[i]) - 1] + ".xml"
+    #             filepat =ff_lines[i][:len(ff_lines[i]) - 1]+".TBL"
+    #             write_xml_to_tbl(fileoutput,filepat)
+    #             i = i + 1
+    # switchSome("A")
+    # text = "均"
+    # if text.encode("utf-8").isalpha():
+    #     print("ok")
+    # else:
+    #     print("no")
     code = read_code('./.code')
-    # with open('./new.code', 'wb') as new_file:
-    #     for i in code:
-    #         s = struct.pack('B', int(i, 16))
-    #         new_file.write(s)
+    with open('./new.code', 'wb') as new_file:
+        for i in code:
+            s = struct.pack('B', int(i, 16))
+            new_file.write(s)
     write_new_code1('./new.code', code)
     # c = 0
     # cc = {23, 24, 25, 27, 28, 33, 56, 57, 58, 60, 61, 62, 63, 70, 71, 72, 92, 95, 102, 125, 126, 132, 133, 134, 183,

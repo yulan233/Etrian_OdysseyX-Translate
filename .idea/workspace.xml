@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bbdd1a-f40b-41b0-803b-294e010ffe30" name="变更" comment="初始化">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shift_jis-unicode-符号.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANIM_A01.MBM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANIM_A011.MBM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANIM_A011.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANIM_A02.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENEMYNAMETABLE.TBL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENEMYNAMETABLE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HPI2/ANIMTABLE/ANIM_A01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HPI2/ANIMTABLE/ANIM_A01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MBM1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MBM1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MBM2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MBM2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE.TBL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE2.TBL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TBL1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TBL1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TBL2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TBL2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.code" beforeDir="false" afterPath="$PROJECT_DIR$/new.code" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +78,7 @@
       <recent name="F:\SomethingWritten\Pythone\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.base (1)">
+  <component name="RunManager" selected="Python.gui">
     <configuration name="aliyun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,28 +93,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aliyun.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="代理api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/代理api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,6 +233,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gui" />
         <item itemvalue="Python.base (1)" />
         <item itemvalue="Python.base" />
         <item itemvalue="Python.aliyun" />
         <item itemvalue="Python.deeplapi" />
-        <item itemvalue="Python.代理api" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +308,16 @@
       <workItem from="1650114875865" duration="12102000" />
       <workItem from="1650154611410" duration="2283000" />
       <workItem from="1652945767645" duration="1412000" />
+      <workItem from="1652947250443" duration="625000" />
+      <workItem from="1653317567629" duration="4094000" />
+      <workItem from="1653372367001" duration="686000" />
+      <workItem from="1653470713435" duration="26000" />
+      <workItem from="1653474618189" duration="3855000" />
+      <workItem from="1653479270157" duration="844000" />
+      <workItem from="1655296817723" duration="3011000" />
+      <workItem from="1655300132510" duration="5999000" />
+      <workItem from="1655347530316" duration="46000" />
+      <workItem from="1655796957244" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1652946367446</created>
@@ -297,11 +326,29 @@
       <option name="project" value="LOCAL" />
       <updated>1652946367446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化">
+      <created>1652947274255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652947274255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
@@ -319,10 +366,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$gui.coverage" NAME="gui 覆盖结果" MODIFIED="1655797140434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$api.coverage" NAME="网易有道api 覆盖结果" MODIFIED="1648915572013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$base__1_.coverage" NAME="base (1) 覆盖结果" MODIFIED="1650156311675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$base__1_.coverage" NAME="base (1) 覆盖结果" MODIFIED="1655797127144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$MBMtoXML.coverage" NAME="MBMtoXML 覆盖结果" MODIFIED="1649247154947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$aliyun.coverage" NAME="aliyun 覆盖结果" MODIFIED="1648913462135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$deeplapi.coverage" NAME="deeplapi 覆盖结果" MODIFIED="1648794996851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$base.coverage" NAME="base 覆盖结果" MODIFIED="1653321410108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
