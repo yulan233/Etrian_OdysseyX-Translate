@@ -2,7 +2,7 @@ import struct
 import time
 import xml.dom.minidom
 
-import aliyun
+from feiqi import aliyun
 
 shift_jis = {"8140": ' '}
 shift_jis_fan = {" ": "8140"}

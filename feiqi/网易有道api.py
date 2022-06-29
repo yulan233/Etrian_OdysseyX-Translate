@@ -145,7 +145,7 @@ def xmlGetAndUpdate2(name):
                         'source_text': chuli1,
                         'scene': 'general'
         }
-        tran=aliyun.Sample.main(args)
+        tran= aliyun.Sample.main(args)
         print(tran)
         print("等待0.1s")
         time.sleep(0.1)

@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bbdd1a-f40b-41b0-803b-294e010ffe30" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/MBM3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.code" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/.code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aliyun.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/aliyun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/code.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deeplapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/deeplapi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.code" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/new.code" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tblxml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/tblxml.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/xml.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/代理api.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/代理api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文本.zip" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/文本.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网易有道api.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/网易有道api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feiqi/网易有道api.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/网易有道api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aliyun.py" />
+      <option name="SCRIPT_NAME" value="F:\SomethingWritten\Pythone\pythonProject\feiqi\aliyun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +305,7 @@
       <workItem from="1655347530316" duration="46000" />
       <workItem from="1655796957244" duration="405000" />
       <workItem from="1656208201152" duration="219000" />
-      <workItem from="1656504607366" duration="849000" />
+      <workItem from="1656504607366" duration="1023000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1652946367446</created>
@@ -344,7 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656504802062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="提交">
+      <created>1656505511151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656505511151</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交">
+      <created>1656505538934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656505538934</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
