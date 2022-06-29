@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bbdd1a-f40b-41b0-803b-294e010ffe30" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/EVENT/NPC_NAME_TABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/EVENT/NPC_NAME_TABLE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/EQUIPITEMNAMETABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/EQUIPITEMNAMETABLE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/USEITEMNAMETABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/USEITEMNAMETABLE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/MONSTER/TABLE/ENEMYNAMETABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/MONSTER/TABLE/ENEMYNAMETABLE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/ENEMYSKILLNAMETABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/ENEMYSKILLNAMETABLE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/PLAYERSKILLNAMETABLE.TBL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/PLAYERSKILLNAMETABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MBM3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.code" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/.code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/deeplapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.code" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/new.code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tblxml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/tblxml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/xml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代理api.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/代理api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文本.zip" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/文本.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易有道api.py" beforeDir="false" afterPath="$PROJECT_DIR$/feiqi/网易有道api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
       <recent name="F:\peoject\翻译的工具\pythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SomethingWritten\Pythone\pythonProject\feiqi" />
       <recent name="F:\SomethingWritten\Pythone\pythonProject" />
     </key>
   </component>
@@ -106,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网易有道api.py" />
+      <option name="SCRIPT_NAME" value="F:\SomethingWritten\Pythone\pythonProject\feiqi\网易有道api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplapi.py" />
+      <option name="SCRIPT_NAME" value="F:\SomethingWritten\Pythone\pythonProject\feiqi\deeplapi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="SCRIPT_NAME" value="F:\SomethingWritten\Pythone\pythonProject\feiqi\gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +263,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="F:\SomethingWritten\Pythone\pythonProject\feiqi\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,6 +314,7 @@
       <workItem from="1655347530316" duration="46000" />
       <workItem from="1655796957244" duration="405000" />
       <workItem from="1656208201152" duration="219000" />
+      <workItem from="1656504607366" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1652946367446</created>
@@ -333,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656208221257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交">
+      <created>1656504802062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656504802062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +355,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -359,7 +382,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/feiqi/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

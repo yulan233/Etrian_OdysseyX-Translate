@@ -1,10 +1,8 @@
 import struct
 import time
-import xml.etree.ElementTree as ET
 import xml.dom.minidom
 
 import aliyun
-import deeplapi
 
 shift_jis = {"8140": ' '}
 shift_jis_fan = {" ": "8140"}
@@ -341,7 +339,7 @@ def read_code(filepath):
 
 
 def write_new_code1(filepath, code):
-    with open('./code.txt', 'r', encoding='UTF-8') as codetext:
+    with open('feiqi/code.txt', 'r', encoding='UTF-8') as codetext:
         with open(filepath, 'wb') as new_file:
             i = 0
             codetext1 = codetext.readline()
@@ -494,12 +492,12 @@ if __name__ == '__main__':
     #     print("ok")
     # else:
     #     print("no")
-    code = read_code('./.code')
-    with open('./new.code', 'wb') as new_file:
+    code = read_code('feiqi/.code')
+    with open('feiqi/new.code', 'wb') as new_file:
         for i in code:
             s = struct.pack('B', int(i, 16))
             new_file.write(s)
-    write_new_code1('./new.code', code)
+    write_new_code1('feiqi/new.code', code)
     # c = 0
     # cc = {23, 24, 25, 27, 28, 33, 56, 57, 58, 60, 61, 62, 63, 70, 71, 72, 92, 95, 102, 125, 126, 132, 133, 134, 183,
     #       251}

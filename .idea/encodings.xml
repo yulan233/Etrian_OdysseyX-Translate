@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/tblxml.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/xml.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feiqi/tblxml.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feiqi/tblxml.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feiqi/xml.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feiqi/xml.txt" charset="GBK" />
   </component>
 </project>

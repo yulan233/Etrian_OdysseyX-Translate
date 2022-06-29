@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
-import random
-import sys
-import uuid
 
-import requests
 import hashlib
-import json
 import time
 from xml.dom.minidom import parse
 
 import aliyun
-import deeplapi
 import 代理api
 
 

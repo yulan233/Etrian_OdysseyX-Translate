@@ -24,8 +24,8 @@ event, values = window.read()  # Part 4 - Event loop or Window.read call
 #                 i += 1
 if event == "生成文件":
     base.init_shift_jis()
-    with open('./MBM1.txt', 'r') as items1:
-        with open('./MBM3.txt', 'r') as items:
+    with open('MBM1.txt', 'r') as items1:
+        with open('MBM3.txt', 'r') as items:
             i = 0
             while i < 412:
                 file_path = items1.readline()
@@ -35,7 +35,7 @@ if event == "生成文件":
                 i += 1
 if event == '生成物品技能怪物名字':
     base.init_shift_jis()
-    with open("./TBL2.txt", encoding="utf-8") as ff:
+    with open("TBL2.txt", encoding="utf-8") as ff:
         ff_lines = ff.readlines()
         i = 0
         while i < len(ff_lines):
