@@ -1,0 +1,3402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<tbl>
+		<numbers>5103</numbers>
+		<body>
+			<id id="0">
+				<origin>ダミー１</origin>
+				<translate>ダミー１</translate>
+			</id>
+			<id id="2">
+				<origin>小さな前歯</origin>
+				<translate>小さな前歯</translate>
+			</id>
+			<id id="3">
+				<origin>飛蝗の大顎</origin>
+				<translate>飛蝗の大顎</translate>
+			</id>
+			<id id="4">
+				<origin>飛蝗の脚</origin>
+				<translate>飛蝗の脚</translate>
+			</id>
+			<id id="5">
+				<origin>極薄の翅</origin>
+				<translate>極薄の翅</translate>
+			</id>
+			<id id="6">
+				<origin>感電した複眼</origin>
+				<translate>感電した複眼</translate>
+			</id>
+			<id id="7">
+				<origin>狒狒の大骨</origin>
+				<translate>狒狒の大骨</translate>
+			</id>
+			<id id="8">
+				<origin>伸縮する皮</origin>
+				<translate>伸縮する皮</translate>
+			</id>
+			<id id="9">
+				<origin>棘つきのツル</origin>
+				<translate>棘つきのツル</translate>
+			</id>
+			<id id="10">
+				<origin>大鳥の尾羽</origin>
+				<translate>大鳥の尾羽</translate>
+			</id>
+			<id id="11">
+				<origin>封じられた嘴</origin>
+				<translate>封じられた嘴</translate>
+			</id>
+			<id id="12">
+				<origin>大きな甲板</origin>
+				<translate>大きな甲板</translate>
+			</id>
+			<id id="13">
+				<origin>硬質の巨尾</origin>
+				<translate>硬質の巨尾</translate>
+			</id>
+			<id id="14">
+				<origin>鹿の毛皮</origin>
+				<translate>鹿の毛皮</translate>
+			</id>
+			<id id="15">
+				<origin>斬り飛んだ熊牙</origin>
+				<translate>斬り飛んだ熊牙</translate>
+			</id>
+			<id id="16">
+				<origin>熊の爪</origin>
+				<translate>熊の爪</translate>
+			</id>
+			<id id="17">
+				<origin>ねばつく液体</origin>
+				<translate>ねばつく液体</translate>
+			</id>
+			<id id="18">
+				<origin>菫鉱の小塊</origin>
+				<translate>菫鉱の小塊</translate>
+			</id>
+			<id id="19">
+				<origin>鋭い尾針</origin>
+				<translate>鋭い尾針</translate>
+			</id>
+			<id id="20">
+				<origin>折れた翼骨</origin>
+				<translate>折れた翼骨</translate>
+			</id>
+			<id id="21">
+				<origin>締め付けるツル</origin>
+				<translate>締め付けるツル</translate>
+			</id>
+			<id id="22">
+				<origin>ヤシ木材</origin>
+				<translate>ヤシ木材</translate>
+			</id>
+			<id id="23">
+				<origin>動かぬ根っこ</origin>
+				<translate>動かぬ根っこ</translate>
+			</id>
+			<id id="24">
+				<origin>虎の鉄牙</origin>
+				<translate>虎の鉄牙</translate>
+			</id>
+			<id id="25">
+				<origin>虹色ゼラチン</origin>
+				<translate>虹色ゼラチン</translate>
+			</id>
+			<id id="26">
+				<origin>鋭い鱗尾</origin>
+				<translate>鋭い鱗尾</translate>
+			</id>
+			<id id="27">
+				<origin>凍てつく背羽</origin>
+				<translate>凍てつく背羽</translate>
+			</id>
+			<id id="28">
+				<origin>巨駝鳥のしなる足</origin>
+				<translate>巨駝鳥のしなる足</translate>
+			</id>
+			<id id="29">
+				<origin>痺れた風切羽</origin>
+				<translate>痺れた風切羽</translate>
+			</id>
+			<id id="30">
+				<origin>濃紫の尾針</origin>
+				<translate>濃紫の尾針</translate>
+			</id>
+			<id id="31">
+				<origin>とがった歯</origin>
+				<translate>とがった歯</translate>
+			</id>
+			<id id="32">
+				<origin>蛙のホホ皮</origin>
+				<translate>蛙のホホ皮</translate>
+			</id>
+			<id id="33">
+				<origin>緑の冠棘</origin>
+				<translate>緑の冠棘</translate>
+			</id>
+			<id id="34">
+				<origin>山猫の黒爪</origin>
+				<translate>山猫の黒爪</translate>
+			</id>
+			<id id="35">
+				<origin>星空の蓑</origin>
+				<translate>星空の蓑</translate>
+			</id>
+			<id id="36">
+				<origin>毒色の夜空</origin>
+				<translate>毒色の夜空</translate>
+			</id>
+			<id id="37">
+				<origin>鋼鉄の甲殻</origin>
+				<translate>鋼鉄の甲殻</translate>
+			</id>
+			<id id="38">
+				<origin>群青のトサカ</origin>
+				<translate>群青のトサカ</translate>
+			</id>
+			<id id="39">
+				<origin>毒性の硬尾</origin>
+				<translate>毒性の硬尾</translate>
+			</id>
+			<id id="40">
+				<origin>巨鳥の緑羽</origin>
+				<translate>巨鳥の緑羽</translate>
+			</id>
+			<id id="41">
+				<origin>温存されし剛翼</origin>
+				<translate>温存されし剛翼</translate>
+			</id>
+			<id id="42">
+				<origin>河馬の歯牙</origin>
+				<translate>河馬の歯牙</translate>
+			</id>
+			<id id="43">
+				<origin>大トカゲの背鰭</origin>
+				<translate>大トカゲの背鰭</translate>
+			</id>
+			<id id="44">
+				<origin>燃え尽きた鼻先</origin>
+				<translate>燃え尽きた鼻先</translate>
+			</id>
+			<id id="45">
+				<origin>金色の鶏冠</origin>
+				<translate>金色の鶏冠</translate>
+			</id>
+			<id id="46">
+				<origin>ぺたんこな腹羽</origin>
+				<translate>ぺたんこな腹羽</translate>
+			</id>
+			<id id="47">
+				<origin>輝白鋼の嘴</origin>
+				<translate>輝白鋼の嘴</translate>
+			</id>
+			<id id="48">
+				<origin>蒼鳥の脚</origin>
+				<translate>蒼鳥の脚</translate>
+			</id>
+			<id id="49">
+				<origin>石鶏の尾羽</origin>
+				<translate>石鶏の尾羽</translate>
+			</id>
+			<id id="50">
+				<origin>黄金色の小爪</origin>
+				<translate>黄金色の小爪</translate>
+			</id>
+			<id id="51">
+				<origin>虹色の薄殻</origin>
+				<translate>虹色の薄殻</translate>
+			</id>
+			<id id="52">
+				<origin>鋭利な風刃</origin>
+				<translate>鋭利な風刃</translate>
+			</id>
+			<id id="53">
+				<origin>芋虫の黒牙</origin>
+				<translate>芋虫の黒牙</translate>
+			</id>
+			<id id="54">
+				<origin>無明の短爪</origin>
+				<translate>無明の短爪</translate>
+			</id>
+			<id id="55">
+				<origin>雷王の頭角</origin>
+				<translate>雷王の頭角</translate>
+			</id>
+			<id id="56">
+				<origin>猛禽の漆黒羽</origin>
+				<translate>猛禽の漆黒羽</translate>
+			</id>
+			<id id="57">
+				<origin>大空の石脚</origin>
+				<translate>大空の石脚</translate>
+			</id>
+			<id id="58">
+				<origin>赤角の欠片</origin>
+				<translate>赤角の欠片</translate>
+			</id>
+			<id id="59">
+				<origin>鋼の口吻</origin>
+				<translate>鋼の口吻</translate>
+			</id>
+			<id id="60">
+				<origin>まだらの羽毛</origin>
+				<translate>まだらの羽毛</translate>
+			</id>
+			<id id="61">
+				<origin>弾けた臭袋</origin>
+				<translate>弾けた臭袋</translate>
+			</id>
+			<id id="62">
+				<origin>子守熊の腕爪</origin>
+				<translate>子守熊の腕爪</translate>
+			</id>
+			<id id="63">
+				<origin>桃色の毛皮</origin>
+				<translate>桃色の毛皮</translate>
+			</id>
+			<id id="64">
+				<origin>紫獣の鋭牙</origin>
+				<translate>紫獣の鋭牙</translate>
+			</id>
+			<id id="65">
+				<origin>獣の果皮</origin>
+				<translate>獣の果皮</translate>
+			</id>
+			<id id="66">
+				<origin>爪棘のツタ</origin>
+				<translate>爪棘のツタ</translate>
+			</id>
+			<id id="67">
+				<origin>ふかふかな襟巻</origin>
+				<translate>ふかふかな襟巻</translate>
+			</id>
+			<id id="68">
+				<origin>鋼の鋭嘴</origin>
+				<translate>鋼の鋭嘴</translate>
+			</id>
+			<id id="69">
+				<origin>警戒鳥の尾羽</origin>
+				<translate>警戒鳥の尾羽</translate>
+			</id>
+			<id id="70">
+				<origin>真紅の牙</origin>
+				<translate>真紅の牙</translate>
+			</id>
+			<id id="71">
+				<origin>冷たい鮮血</origin>
+				<translate>冷たい鮮血</translate>
+			</id>
+			<id id="72">
+				<origin>しなやかなツル</origin>
+				<translate>しなやかなツル</translate>
+			</id>
+			<id id="73">
+				<origin>長球の尻尾</origin>
+				<translate>長球の尻尾</translate>
+			</id>
+			<id id="74">
+				<origin>寝入り狸の腰綿</origin>
+				<translate>寝入り狸の腰綿</translate>
+			</id>
+			<id id="75">
+				<origin>金属質の突角</origin>
+				<translate>金属質の突角</translate>
+			</id>
+			<id id="76">
+				<origin>深紅の羽皮</origin>
+				<translate>深紅の羽皮</translate>
+			</id>
+			<id id="77">
+				<origin>トカゲの焔尾</origin>
+				<translate>トカゲの焔尾</translate>
+			</id>
+			<id id="78">
+				<origin>ねとつく触角</origin>
+				<translate>ねとつく触角</translate>
+			</id>
+			<id id="79">
+				<origin>貫かれた渦</origin>
+				<translate>貫かれた渦</translate>
+			</id>
+			<id id="80">
+				<origin>薄藍の花蔦</origin>
+				<translate>薄藍の花蔦</translate>
+			</id>
+			<id id="81">
+				<origin>覇獣の棘</origin>
+				<translate>覇獣の棘</translate>
+			</id>
+			<id id="82">
+				<origin>錯乱の鶏冠</origin>
+				<translate>錯乱の鶏冠</translate>
+			</id>
+			<id id="83">
+				<origin>黄鳳梨の葉っぱ</origin>
+				<translate>黄鳳梨の葉っぱ</translate>
+			</id>
+			<id id="84">
+				<origin>赤鳥の羽毛</origin>
+				<translate>赤鳥の羽毛</translate>
+			</id>
+			<id id="85">
+				<origin>球形の骨</origin>
+				<translate>球形の骨</translate>
+			</id>
+			<id id="86">
+				<origin>痺れた薄皮</origin>
+				<translate>痺れた薄皮</translate>
+			</id>
+			<id id="87">
+				<origin>死臭の珊瑚</origin>
+				<translate>死臭の珊瑚</translate>
+			</id>
+			<id id="88">
+				<origin>宿貝のカケラ</origin>
+				<translate>宿貝のカケラ</translate>
+			</id>
+			<id id="89">
+				<origin>発達した上腕</origin>
+				<translate>発達した上腕</translate>
+			</id>
+			<id id="90">
+				<origin>山椒魚の大口</origin>
+				<translate>山椒魚の大口</translate>
+			</id>
+			<id id="91">
+				<origin>珊瑚の腕</origin>
+				<translate>珊瑚の腕</translate>
+			</id>
+			<id id="92">
+				<origin>毒抜きの紅糖</origin>
+				<translate>毒抜きの紅糖</translate>
+			</id>
+			<id id="93">
+				<origin>海獣の毛皮</origin>
+				<translate>海獣の毛皮</translate>
+			</id>
+			<id id="94">
+				<origin>氷湾牙</origin>
+				<translate>氷湾牙</translate>
+			</id>
+			<id id="95">
+				<origin>百年甲羅</origin>
+				<translate>百年甲羅</translate>
+			</id>
+			<id id="96">
+				<origin>深海魚のウロコ</origin>
+				<translate>深海魚のウロコ</translate>
+			</id>
+			<id id="97">
+				<origin>水竜の背骨</origin>
+				<translate>水竜の背骨</translate>
+			</id>
+			<id id="98">
+				<origin>封じられた鱗尾</origin>
+				<translate>封じられた鱗尾</translate>
+			</id>
+			<id id="99">
+				<origin>殻のカケラ</origin>
+				<translate>殻のカケラ</translate>
+			</id>
+			<id id="100">
+				<origin>柔らかい皮</origin>
+				<translate>柔らかい皮</translate>
+			</id>
+			<id id="101">
+				<origin>封印されし土竜爪</origin>
+				<translate>封印されし土竜爪</translate>
+			</id>
+			<id id="102">
+				<origin>ネズミの針</origin>
+				<translate>ネズミの針</translate>
+			</id>
+			<id id="103">
+				<origin>翼竜の頭骨</origin>
+				<translate>翼竜の頭骨</translate>
+			</id>
+			<id id="104">
+				<origin>毒蝶の翅</origin>
+				<translate>毒蝶の翅</translate>
+			</id>
+			<id id="105">
+				<origin>ゼラチン質の核</origin>
+				<translate>ゼラチン質の核</translate>
+			</id>
+			<id id="106">
+				<origin>寝かせた蜜天</origin>
+				<translate>寝かせた蜜天</translate>
+			</id>
+			<id id="107">
+				<origin>柔靭な舌状花</origin>
+				<translate>柔靭な舌状花</translate>
+			</id>
+			<id id="108">
+				<origin>金属質の殻</origin>
+				<translate>金属質の殻</translate>
+			</id>
+			<id id="109">
+				<origin>電気を帯びた殻</origin>
+				<translate>電気を帯びた殻</translate>
+			</id>
+			<id id="110">
+				<origin>小さな鉄爪</origin>
+				<translate>小さな鉄爪</translate>
+			</id>
+			<id id="111">
+				<origin>コウモリの赤膜</origin>
+				<translate>コウモリの赤膜</translate>
+			</id>
+			<id id="112">
+				<origin>鋼鉄の牙</origin>
+				<translate>鋼鉄の牙</translate>
+			</id>
+			<id id="113">
+				<origin>千切れた爪</origin>
+				<translate>千切れた爪</translate>
+			</id>
+			<id id="114">
+				<origin>鋼鉄の薄翅</origin>
+				<translate>鋼鉄の薄翅</translate>
+			</id>
+			<id id="115">
+				<origin>円錐形の傘</origin>
+				<translate>円錐形の傘</translate>
+			</id>
+			<id id="116">
+				<origin>赤鉄の前脚</origin>
+				<translate>赤鉄の前脚</translate>
+			</id>
+			<id id="117">
+				<origin>猛獣の腕膜</origin>
+				<translate>猛獣の腕膜</translate>
+			</id>
+			<id id="118">
+				<origin>柔らかい黄毛</origin>
+				<translate>柔らかい黄毛</translate>
+			</id>
+			<id id="119">
+				<origin>赤いタテガミ</origin>
+				<translate>赤いタテガミ</translate>
+			</id>
+			<id id="120">
+				<origin>焦げた蹄</origin>
+				<translate>焦げた蹄</translate>
+			</id>
+			<id id="121">
+				<origin>爆実の芯</origin>
+				<translate>爆実の芯</translate>
+			</id>
+			<id id="122">
+				<origin>欠けた山羊角</origin>
+				<translate>欠けた山羊角</translate>
+			</id>
+			<id id="123">
+				<origin>紅鉄のカケラ</origin>
+				<translate>紅鉄のカケラ</translate>
+			</id>
+			<id id="124">
+				<origin>ちくちくの尻尾</origin>
+				<translate>ちくちくの尻尾</translate>
+			</id>
+			<id id="125">
+				<origin>闇猫の鋭爪</origin>
+				<translate>闇猫の鋭爪</translate>
+			</id>
+			<id id="126">
+				<origin>混沌の猫牙</origin>
+				<translate>混沌の猫牙</translate>
+			</id>
+			<id id="127">
+				<origin>ぶちつきの桃皮</origin>
+				<translate>ぶちつきの桃皮</translate>
+			</id>
+			<id id="128">
+				<origin>青跳獣の碇尾</origin>
+				<translate>青跳獣の碇尾</translate>
+			</id>
+			<id id="129">
+				<origin>貫かれた鉄拳</origin>
+				<translate>貫かれた鉄拳</translate>
+			</id>
+			<id id="130">
+				<origin>箱蟲の惨爪</origin>
+				<translate>箱蟲の惨爪</translate>
+			</id>
+			<id id="131">
+				<origin>不全の頭蓋</origin>
+				<translate>不全の頭蓋</translate>
+			</id>
+			<id id="132">
+				<origin>ふかふかの羊毛</origin>
+				<translate>ふかふかの羊毛</translate>
+			</id>
+			<id id="133">
+				<origin>鋭利な大鋏</origin>
+				<translate>鋭利な大鋏</translate>
+			</id>
+			<id id="134">
+				<origin>魔蝗の内翅</origin>
+				<translate>魔蝗の内翅</translate>
+			</id>
+			<id id="135">
+				<origin>強靭な脚殻</origin>
+				<translate>強靭な脚殻</translate>
+			</id>
+			<id id="136">
+				<origin>毒茸の石突き</origin>
+				<translate>毒茸の石突き</translate>
+			</id>
+			<id id="137">
+				<origin>熾火石</origin>
+				<translate>熾火石</translate>
+			</id>
+			<id id="138">
+				<origin>凝固した溶岩</origin>
+				<translate>凝固した溶岩</translate>
+			</id>
+			<id id="139">
+				<origin>凍氷岩</origin>
+				<translate>凍氷岩</translate>
+			</id>
+			<id id="140">
+				<origin>溶けた氷核</origin>
+				<translate>溶けた氷核</translate>
+			</id>
+			<id id="141">
+				<origin>輝くガラス眼</origin>
+				<translate>輝くガラス眼</translate>
+			</id>
+			<id id="142">
+				<origin>穴飛蛙の腹皮</origin>
+				<translate>穴飛蛙の腹皮</translate>
+			</id>
+			<id id="143">
+				<origin>硬質の殻</origin>
+				<translate>硬質の殻</translate>
+			</id>
+			<id id="144">
+				<origin>淀みの大鎌</origin>
+				<translate>淀みの大鎌</translate>
+			</id>
+			<id id="145">
+				<origin>発光する尾羽</origin>
+				<translate>発光する尾羽</translate>
+			</id>
+			<id id="146">
+				<origin>凍土竜の氷爪</origin>
+				<translate>凍土竜の氷爪</translate>
+			</id>
+			<id id="147">
+				<origin>狒狒の極太骨</origin>
+				<translate>狒狒の極太骨</translate>
+			</id>
+			<id id="148">
+				<origin>狒狒の石頭</origin>
+				<translate>狒狒の石頭</translate>
+			</id>
+			<id id="149">
+				<origin>電気蛙の脚皮</origin>
+				<translate>電気蛙の脚皮</translate>
+			</id>
+			<id id="150">
+				<origin>電気蛙の舌</origin>
+				<translate>電気蛙の舌</translate>
+			</id>
+			<id id="151">
+				<origin>鎧甲の破片</origin>
+				<translate>鎧甲の破片</translate>
+			</id>
+			<id id="152">
+				<origin>特大の水晶体</origin>
+				<translate>特大の水晶体</translate>
+			</id>
+			<id id="153">
+				<origin>拘束された魔翼</origin>
+				<translate>拘束された魔翼</translate>
+			</id>
+			<id id="154">
+				<origin>樹液の滴るツル</origin>
+				<translate>樹液の滴るツル</translate>
+			</id>
+			<id id="155">
+				<origin>火鼠の頭蓋</origin>
+				<translate>火鼠の頭蓋</translate>
+			</id>
+			<id id="156">
+				<origin>痺れた尻尾</origin>
+				<translate>痺れた尻尾</translate>
+			</id>
+			<id id="157">
+				<origin>砂目魚の水晶体</origin>
+				<translate>砂目魚の水晶体</translate>
+			</id>
+			<id id="158">
+				<origin>獰黒獣の突牙</origin>
+				<translate>獰黒獣の突牙</translate>
+			</id>
+			<id id="159">
+				<origin>大鳥の足腱</origin>
+				<translate>大鳥の足腱</translate>
+			</id>
+			<id id="160">
+				<origin>枯森の布材</origin>
+				<translate>枯森の布材</translate>
+			</id>
+			<id id="161">
+				<origin>堅石の石材</origin>
+				<translate>堅石の石材</translate>
+			</id>
+			<id id="162">
+				<origin>稲妻の微笑み</origin>
+				<translate>稲妻の微笑み</translate>
+			</id>
+			<id id="163">
+				<origin>妖精の羽</origin>
+				<translate>妖精の羽</translate>
+			</id>
+			<id id="164">
+				<origin>妖精の精髪</origin>
+				<translate>妖精の精髪</translate>
+			</id>
+			<id id="165">
+				<origin>ダマスカス鋳塊</origin>
+				<translate>ダマスカス鋳塊</translate>
+			</id>
+			<id id="166">
+				<origin>魔人の鎌剣</origin>
+				<translate>魔人の鎌剣</translate>
+			</id>
+			<id id="167">
+				<origin>青竹色の布きれ</origin>
+				<translate>青竹色の布きれ</translate>
+			</id>
+			<id id="168">
+				<origin>深緑輝石の勾玉</origin>
+				<translate>深緑輝石の勾玉</translate>
+			</id>
+			<id id="169">
+				<origin>魔樹の硬皮</origin>
+				<translate>魔樹の硬皮</translate>
+			</id>
+			<id id="170">
+				<origin>毒果ての樹心</origin>
+				<translate>毒果ての樹心</translate>
+			</id>
+			<id id="171">
+				<origin>女王の赤糸</origin>
+				<translate>女王の赤糸</translate>
+			</id>
+			<id id="172">
+				<origin>濡れた赤糸</origin>
+				<translate>濡れた赤糸</translate>
+			</id>
+			<id id="173">
+				<origin>女王の紫糸</origin>
+				<translate>女王の紫糸</translate>
+			</id>
+			<id id="174">
+				<origin>濡れた紫糸</origin>
+				<translate>濡れた紫糸</translate>
+			</id>
+			<id id="175">
+				<origin>森鬼の腕羽</origin>
+				<translate>森鬼の腕羽</translate>
+			</id>
+			<id id="176">
+				<origin>森鬼の腕甲</origin>
+				<translate>森鬼の腕甲</translate>
+			</id>
+			<id id="177">
+				<origin>蒼蝿の鉄針</origin>
+				<translate>蒼蝿の鉄針</translate>
+			</id>
+			<id id="178">
+				<origin>エリマキ状の皮</origin>
+				<translate>エリマキ状の皮</translate>
+			</id>
+			<id id="179">
+				<origin>子猫の三角耳</origin>
+				<translate>子猫の三角耳</translate>
+			</id>
+			<id id="180">
+				<origin>鋼鉄の大角</origin>
+				<translate>鋼鉄の大角</translate>
+			</id>
+			<id id="181">
+				<origin>剣虫の細枝</origin>
+				<translate>剣虫の細枝</translate>
+			</id>
+			<id id="182">
+				<origin>ナナホシの甲殻</origin>
+				<translate>ナナホシの甲殻</translate>
+			</id>
+			<id id="183">
+				<origin>惑いの手針</origin>
+				<translate>惑いの手針</translate>
+			</id>
+			<id id="184">
+				<origin>大獅子の鋭爪</origin>
+				<translate>大獅子の鋭爪</translate>
+			</id>
+			<id id="185">
+				<origin>豹紋柄の羽毛</origin>
+				<translate>豹紋柄の羽毛</translate>
+			</id>
+			<id id="186">
+				<origin>もこもこの尻尾</origin>
+				<translate>もこもこの尻尾</translate>
+			</id>
+			<id id="187">
+				<origin>雪獣の曲角</origin>
+				<translate>雪獣の曲角</translate>
+			</id>
+			<id id="188">
+				<origin>黒甲羅</origin>
+				<translate>黒甲羅</translate>
+			</id>
+			<id id="189">
+				<origin>引っ込んだ亀足</origin>
+				<translate>引っ込んだ亀足</translate>
+			</id>
+			<id id="190">
+				<origin>猛犬の下顎</origin>
+				<translate>猛犬の下顎</translate>
+			</id>
+			<id id="191">
+				<origin>黒ずんだ鉤爪</origin>
+				<translate>黒ずんだ鉤爪</translate>
+			</id>
+			<id id="192">
+				<origin>怪物の大腿骨</origin>
+				<translate>怪物の大腿骨</translate>
+			</id>
+			<id id="193">
+				<origin>ひしゃげた竜角</origin>
+				<translate>ひしゃげた竜角</translate>
+			</id>
+			<id id="194">
+				<origin>芋虫の鉄角</origin>
+				<translate>芋虫の鉄角</translate>
+			</id>
+			<id id="195">
+				<origin>奇天烈な葉</origin>
+				<translate>奇天烈な葉</translate>
+			</id>
+			<id id="196">
+				<origin>眠れる美芽</origin>
+				<translate>眠れる美芽</translate>
+			</id>
+			<id id="197">
+				<origin>殿様蛙の舌</origin>
+				<translate>殿様蛙の舌</translate>
+			</id>
+			<id id="198">
+				<origin>甲虫の大顎</origin>
+				<translate>甲虫の大顎</translate>
+			</id>
+			<id id="199">
+				<origin>バッタの腿節</origin>
+				<translate>バッタの腿節</translate>
+			</id>
+			<id id="200">
+				<origin>もこもこの黒耳</origin>
+				<translate>もこもこの黒耳</translate>
+			</id>
+			<id id="201">
+				<origin>真白銀のカケラ</origin>
+				<translate>真白銀のカケラ</translate>
+			</id>
+			<id id="202">
+				<origin>穴空きの銀刃</origin>
+				<translate>穴空きの銀刃</translate>
+			</id>
+			<id id="203">
+				<origin>冷たい翼膜</origin>
+				<translate>冷たい翼膜</translate>
+			</id>
+			<id id="204">
+				<origin>蝙蝠の柱牙</origin>
+				<translate>蝙蝠の柱牙</translate>
+			</id>
+			<id id="205">
+				<origin>奇怪な鹿角</origin>
+				<translate>奇怪な鹿角</translate>
+			</id>
+			<id id="206">
+				<origin>死色の細茎</origin>
+				<translate>死色の細茎</translate>
+			</id>
+			<id id="207">
+				<origin>猛火の爪</origin>
+				<translate>猛火の爪</translate>
+			</id>
+			<id id="208">
+				<origin>眠れる灯火</origin>
+				<translate>眠れる灯火</translate>
+			</id>
+			<id id="209">
+				<origin>醜悪な小角</origin>
+				<translate>醜悪な小角</translate>
+			</id>
+			<id id="210">
+				<origin>ゴツゴツした石棍</origin>
+				<translate>ゴツゴツした石棍</translate>
+			</id>
+			<id id="211">
+				<origin>弾む毛玉</origin>
+				<translate>弾む毛玉</translate>
+			</id>
+			<id id="212">
+				<origin>焦げ臭い葉っぱ</origin>
+				<translate>焦げ臭い葉っぱ</translate>
+			</id>
+			<id id="213">
+				<origin>猛々しい猪牙</origin>
+				<translate>猛々しい猪牙</translate>
+			</id>
+			<id id="214">
+				<origin>赤鳳梨獣の皮</origin>
+				<translate>赤鳳梨獣の皮</translate>
+			</id>
+			<id id="215">
+				<origin>光失の瞼</origin>
+				<translate>光失の瞼</translate>
+			</id>
+			<id id="216">
+				<origin>柔らかな大鎌</origin>
+				<translate>柔らかな大鎌</translate>
+			</id>
+			<id id="217">
+				<origin>純白の角質</origin>
+				<translate>純白の角質</translate>
+			</id>
+			<id id="218">
+				<origin>ぬるぬるのヒレ</origin>
+				<translate>ぬるぬるのヒレ</translate>
+			</id>
+			<id id="219">
+				<origin>封じられた大筒</origin>
+				<translate>封じられた大筒</translate>
+			</id>
+			<id id="220">
+				<origin>小鳳梨の柱</origin>
+				<translate>小鳳梨の柱</translate>
+			</id>
+			<id id="221">
+				<origin>パインシロップ</origin>
+				<translate>パインシロップ</translate>
+			</id>
+			<id id="222">
+				<origin>フサフサの獄尾</origin>
+				<translate>フサフサの獄尾</translate>
+			</id>
+			<id id="223">
+				<origin>天鉄の鉤爪</origin>
+				<translate>天鉄の鉤爪</translate>
+			</id>
+			<id id="224">
+				<origin>虐殺者の暗器</origin>
+				<translate>虐殺者の暗器</translate>
+			</id>
+			<id id="225">
+				<origin>極小の鋭歯</origin>
+				<translate>極小の鋭歯</translate>
+			</id>
+			<id id="226">
+				<origin>悪魔の毛皮</origin>
+				<translate>悪魔の毛皮</translate>
+			</id>
+			<id id="227">
+				<origin>首刈りの断末魔</origin>
+				<translate>首刈りの断末魔</translate>
+			</id>
+			<id id="228">
+				<origin>黒銀の断頭鋏</origin>
+				<translate>黒銀の断頭鋏</translate>
+			</id>
+			<id id="229">
+				<origin>薄赤の翅</origin>
+				<translate>薄赤の翅</translate>
+			</id>
+			<id id="230">
+				<origin>石割りの刃</origin>
+				<translate>石割りの刃</translate>
+			</id>
+			<id id="231">
+				<origin>岩魚の外皮</origin>
+				<translate>岩魚の外皮</translate>
+			</id>
+			<id id="232">
+				<origin>浮遊魚の尾ヒレ</origin>
+				<translate>浮遊魚の尾ヒレ</translate>
+			</id>
+			<id id="233">
+				<origin>研がれた猿爪</origin>
+				<translate>研がれた猿爪</translate>
+			</id>
+			<id id="234">
+				<origin>鮮黄の毛玉</origin>
+				<translate>鮮黄の毛玉</translate>
+			</id>
+			<id id="235">
+				<origin>鱗翅虫のリンプン</origin>
+				<translate>鱗翅虫のリンプン</translate>
+			</id>
+			<id id="236">
+				<origin>凍結の翅</origin>
+				<translate>凍結の翅</translate>
+			</id>
+			<id id="237">
+				<origin>赤獅子の猛牙</origin>
+				<translate>赤獅子の猛牙</translate>
+			</id>
+			<id id="238">
+				<origin>安らぎのタテガミ</origin>
+				<translate>安らぎのタテガミ</translate>
+			</id>
+			<id id="239">
+				<origin>青の怪葉</origin>
+				<translate>青の怪葉</translate>
+			</id>
+			<id id="240">
+				<origin>ガタガタの装甲</origin>
+				<translate>ガタガタの装甲</translate>
+			</id>
+			<id id="241">
+				<origin>輝きの核</origin>
+				<translate>輝きの核</translate>
+			</id>
+			<id id="242">
+				<origin>渦巻く鬼角</origin>
+				<translate>渦巻く鬼角</translate>
+			</id>
+			<id id="243">
+				<origin>南瓜頭</origin>
+				<translate>南瓜頭</translate>
+			</id>
+			<id id="244">
+				<origin>曇天の鵜尾</origin>
+				<translate>曇天の鵜尾</translate>
+			</id>
+			<id id="245">
+				<origin>魔眼の翼骨</origin>
+				<translate>魔眼の翼骨</translate>
+			</id>
+			<id id="246">
+				<origin>絞め疼く手</origin>
+				<translate>絞め疼く手</translate>
+			</id>
+			<id id="247">
+				<origin>深淵の喉袋</origin>
+				<translate>深淵の喉袋</translate>
+			</id>
+			<id id="248">
+				<origin>マンドレイクの根</origin>
+				<translate>マンドレイクの根</translate>
+			</id>
+			<id id="249">
+				<origin>幼鹿の蹄</origin>
+				<translate>幼鹿の蹄</translate>
+			</id>
+			<id id="250">
+				<origin>撫子色の膜翅</origin>
+				<translate>撫子色の膜翅</translate>
+			</id>
+			<id id="251">
+				<origin>曲がった大爪</origin>
+				<translate>曲がった大爪</translate>
+			</id>
+			<id id="252">
+				<origin>ヒビ入りの石腕</origin>
+				<translate>ヒビ入りの石腕</translate>
+			</id>
+			<id id="253">
+				<origin>紫避役の舌骨</origin>
+				<translate>紫避役の舌骨</translate>
+			</id>
+			<id id="254">
+				<origin>剣魚のウロコ</origin>
+				<translate>剣魚のウロコ</translate>
+			</id>
+			<id id="255">
+				<origin>鮮やかな舌</origin>
+				<translate>鮮やかな舌</translate>
+			</id>
+			<id id="256">
+				<origin>薄紫の翅</origin>
+				<translate>薄紫の翅</translate>
+			</id>
+			<id id="257">
+				<origin>欺きの大顎</origin>
+				<translate>欺きの大顎</translate>
+			</id>
+			<id id="258">
+				<origin>輝く尾骨</origin>
+				<translate>輝く尾骨</translate>
+			</id>
+			<id id="259">
+				<origin>森兎の前歯</origin>
+				<translate>森兎の前歯</translate>
+			</id>
+			<id id="260">
+				<origin>崩れた雷核</origin>
+				<translate>崩れた雷核</translate>
+			</id>
+			<id id="261">
+				<origin>雷鉱石</origin>
+				<translate>雷鉱石</translate>
+			</id>
+			<id id="262">
+				<origin>巨象の牙</origin>
+				<translate>巨象の牙</translate>
+			</id>
+			<id id="263">
+				<origin>黄金鹿の毛皮</origin>
+				<translate>黄金鹿の毛皮</translate>
+			</id>
+			<id id="264">
+				<origin>迷彩犬の大牙</origin>
+				<translate>迷彩犬の大牙</translate>
+			</id>
+			<id id="265">
+				<origin>巨虫の爪針</origin>
+				<translate>巨虫の爪針</translate>
+			</id>
+			<id id="266">
+				<origin>妖精の花服</origin>
+				<translate>妖精の花服</translate>
+			</id>
+			<id id="267">
+				<origin>枯れ果てた棘</origin>
+				<translate>枯れ果てた棘</translate>
+			</id>
+			<id id="268">
+				<origin>青白い棘骨</origin>
+				<translate>青白い棘骨</translate>
+			</id>
+			<id id="269">
+				<origin>千変南瓜</origin>
+				<translate>千変南瓜</translate>
+			</id>
+			<id id="270">
+				<origin>鋼鉄の小骨片</origin>
+				<translate>鋼鉄の小骨片</translate>
+			</id>
+			<id id="271">
+				<origin>黒白の節足</origin>
+				<translate>黒白の節足</translate>
+			</id>
+			<id id="272">
+				<origin>火蟻の鋭顎</origin>
+				<translate>火蟻の鋭顎</translate>
+			</id>
+			<id id="273">
+				<origin>黄金炭の骨殻</origin>
+				<translate>黄金炭の骨殻</translate>
+			</id>
+			<id id="274">
+				<origin>鋼鉄の赤骨片</origin>
+				<translate>鋼鉄の赤骨片</translate>
+			</id>
+			<id id="275">
+				<origin>森狼の牙</origin>
+				<translate>森狼の牙</translate>
+			</id>
+			<id id="276">
+				<origin>雪狼の毛皮</origin>
+				<translate>雪狼の毛皮</translate>
+			</id>
+			<id id="277">
+				<origin>跳獣の鉄拳</origin>
+				<translate>跳獣の鉄拳</translate>
+			</id>
+			<id id="278">
+				<origin>凍てつく大鎌</origin>
+				<translate>凍てつく大鎌</translate>
+			</id>
+			<id id="279">
+				<origin>骨竜の胸殻</origin>
+				<translate>骨竜の胸殻</translate>
+			</id>
+			<id id="280">
+				<origin>硬質なワニ皮</origin>
+				<translate>硬質なワニ皮</translate>
+			</id>
+			<id id="281">
+				<origin>突き落とされた牙</origin>
+				<translate>突き落とされた牙</translate>
+			</id>
+			<id id="282">
+				<origin>魔花の茨</origin>
+				<translate>魔花の茨</translate>
+			</id>
+			<id id="283">
+				<origin>獣王の鉤爪</origin>
+				<translate>獣王の鉤爪</translate>
+			</id>
+			<id id="284">
+				<origin>森王の角</origin>
+				<translate>森王の角</translate>
+			</id>
+			<id id="285">
+				<origin>魔魚の電気髭</origin>
+				<translate>魔魚の電気髭</translate>
+			</id>
+			<id id="286">
+				<origin>妖鳥の翼</origin>
+				<translate>妖鳥の翼</translate>
+			</id>
+			<id id="287">
+				<origin>飛竜の翼</origin>
+				<translate>飛竜の翼</translate>
+			</id>
+			<id id="288">
+				<origin>異形の死甲柱</origin>
+				<translate>異形の死甲柱</translate>
+			</id>
+			<id id="289">
+				<origin>白鯨の噴気孔</origin>
+				<translate>白鯨の噴気孔</translate>
+			</id>
+			<id id="290">
+				<origin>魔獣の蛇尾</origin>
+				<translate>魔獣の蛇尾</translate>
+			</id>
+			<id id="291">
+				<origin>甲蟲の錐脚</origin>
+				<translate>甲蟲の錐脚</translate>
+			</id>
+			<id id="292">
+				<origin>焔鉄の骨髄</origin>
+				<translate>焔鉄の骨髄</translate>
+			</id>
+			<id id="293">
+				<origin>焔蛟の曲角</origin>
+				<translate>焔蛟の曲角</translate>
+			</id>
+			<id id="294">
+				<origin>硬質な蛇皮</origin>
+				<translate>硬質な蛇皮</translate>
+			</id>
+			<id id="295">
+				<origin>ダマスカスの大爪</origin>
+				<translate>ダマスカスの大爪</translate>
+			</id>
+			<id id="296">
+				<origin>豪傑の布切れ</origin>
+				<translate>豪傑の布切れ</translate>
+			</id>
+			<id id="297">
+				<origin>大地の翼</origin>
+				<translate>大地の翼</translate>
+			</id>
+			<id id="298">
+				<origin>深姫の玉座片</origin>
+				<translate>深姫の玉座片</translate>
+			</id>
+			<id id="299">
+				<origin>簒奪の王腕</origin>
+				<translate>簒奪の王腕</translate>
+			</id>
+			<id id="300">
+				<origin>圧倒されし竜尾</origin>
+				<translate>圧倒されし竜尾</translate>
+			</id>
+			<id id="301">
+				<origin>不動の足鰭</origin>
+				<translate>不動の足鰭</translate>
+			</id>
+			<id id="302">
+				<origin>痺れた亀皮</origin>
+				<translate>痺れた亀皮</translate>
+			</id>
+			<id id="303">
+				<origin>女王の呪脚</origin>
+				<translate>女王の呪脚</translate>
+			</id>
+			<id id="304">
+				<origin>魔獣の毒翼</origin>
+				<translate>魔獣の毒翼</translate>
+			</id>
+			<id id="305">
+				<origin>渦惑いの皮膜</origin>
+				<translate>渦惑いの皮膜</translate>
+			</id>
+			<id id="306">
+				<origin>妃の御手</origin>
+				<translate>妃の御手</translate>
+			</id>
+			<id id="307">
+				<origin>燃ゆる封尾</origin>
+				<translate>燃ゆる封尾</translate>
+			</id>
+			<id id="308">
+				<origin>安寧の蛟鱗</origin>
+				<translate>安寧の蛟鱗</translate>
+			</id>
+			<id id="309">
+				<origin>虚ろなる眼</origin>
+				<translate>虚ろなる眼</translate>
+			</id>
+			<id id="310">
+				<origin>黄金の風切り羽</origin>
+				<translate>黄金の風切り羽</translate>
+			</id>
+			<id id="311">
+				<origin>石像の堅指</origin>
+				<translate>石像の堅指</translate>
+			</id>
+			<id id="312">
+				<origin>三光の玉石</origin>
+				<translate>三光の玉石</translate>
+			</id>
+			<id id="313">
+				<origin>極彩色の皮</origin>
+				<translate>極彩色の皮</translate>
+			</id>
+			<id id="314">
+				<origin>極彩の二枚舌</origin>
+				<translate>極彩の二枚舌</translate>
+			</id>
+			<id id="315">
+				<origin>華王の蔓草</origin>
+				<translate>華王の蔓草</translate>
+			</id>
+			<id id="316">
+				<origin>華王のビロード</origin>
+				<translate>華王のビロード</translate>
+			</id>
+			<id id="317">
+				<origin>不和獣の翼拳</origin>
+				<translate>不和獣の翼拳</translate>
+			</id>
+			<id id="318">
+				<origin>牢固たる鶴嘴</origin>
+				<translate>牢固たる鶴嘴</translate>
+			</id>
+			<id id="319">
+				<origin>氷姫の雪蔓</origin>
+				<translate>氷姫の雪蔓</translate>
+			</id>
+			<id id="320">
+				<origin>氷姫の光毛</origin>
+				<translate>氷姫の光毛</translate>
+			</id>
+			<id id="321">
+				<origin>怪女の蛇蔓</origin>
+				<translate>怪女の蛇蔓</translate>
+			</id>
+			<id id="322">
+				<origin>絡まったおさげ</origin>
+				<translate>絡まったおさげ</translate>
+			</id>
+			<id id="323">
+				<origin>守護獣の鉄膚</origin>
+				<translate>守護獣の鉄膚</translate>
+			</id>
+			<id id="324">
+				<origin>緋緋色金の尾骨</origin>
+				<translate>緋緋色金の尾骨</translate>
+			</id>
+			<id id="325">
+				<origin>処刑者のカギ爪</origin>
+				<translate>処刑者のカギ爪</translate>
+			</id>
+			<id id="326">
+				<origin>処刑者のアギト</origin>
+				<translate>処刑者のアギト</translate>
+			</id>
+			<id id="327">
+				<origin>狼王のたてがみ</origin>
+				<translate>狼王のたてがみ</translate>
+			</id>
+			<id id="328">
+				<origin>狼王の尻尾</origin>
+				<translate>狼王の尻尾</translate>
+			</id>
+			<id id="329">
+				<origin>火竜の逆鱗</origin>
+				<translate>火竜の逆鱗</translate>
+			</id>
+			<id id="330">
+				<origin>火竜の牙</origin>
+				<translate>火竜の牙</translate>
+			</id>
+			<id id="331">
+				<origin>灼熱の竜角</origin>
+				<translate>灼熱の竜角</translate>
+			</id>
+			<id id="332">
+				<origin>氷竜の逆鱗</origin>
+				<translate>氷竜の逆鱗</translate>
+			</id>
+			<id id="333">
+				<origin>氷竜の翼骨</origin>
+				<translate>氷竜の翼骨</translate>
+			</id>
+			<id id="334">
+				<origin>凍てつく竜翼</origin>
+				<translate>凍てつく竜翼</translate>
+			</id>
+			<id id="335">
+				<origin>雷竜の逆鱗</origin>
+				<translate>雷竜の逆鱗</translate>
+			</id>
+			<id id="336">
+				<origin>雷竜のヒゲ</origin>
+				<translate>雷竜のヒゲ</translate>
+			</id>
+			<id id="337">
+				<origin>霹靂の竜眼</origin>
+				<translate>霹靂の竜眼</translate>
+			</id>
+			<id id="338">
+				<origin>素材３３７</origin>
+				<translate>素材３３７</translate>
+			</id>
+			<id id="339">
+				<origin>素材３３８</origin>
+				<translate>素材３３８</translate>
+			</id>
+			<id id="340">
+				<origin>素材３３９</origin>
+				<translate>素材３３９</translate>
+			</id>
+			<id id="341">
+				<origin>素材３４０</origin>
+				<translate>素材３４０</translate>
+			</id>
+			<id id="342">
+				<origin>素材３４１</origin>
+				<translate>素材３４１</translate>
+			</id>
+			<id id="343">
+				<origin>素材３４２</origin>
+				<translate>素材３４２</translate>
+			</id>
+			<id id="344">
+				<origin>素材３４３</origin>
+				<translate>素材３４３</translate>
+			</id>
+			<id id="345">
+				<origin>素材３４４</origin>
+				<translate>素材３４４</translate>
+			</id>
+			<id id="346">
+				<origin>素材３４５</origin>
+				<translate>素材３４５</translate>
+			</id>
+			<id id="347">
+				<origin>素材３４６</origin>
+				<translate>素材３４６</translate>
+			</id>
+			<id id="348">
+				<origin>素材３４７</origin>
+				<translate>素材３４７</translate>
+			</id>
+			<id id="349">
+				<origin>素材３４８</origin>
+				<translate>素材３４８</translate>
+			</id>
+			<id id="350">
+				<origin>素材３４９</origin>
+				<translate>素材３４９</translate>
+			</id>
+			<id id="351">
+				<origin>素材３５０</origin>
+				<translate>素材３５０</translate>
+			</id>
+			<id id="352">
+				<origin>素材３５１</origin>
+				<translate>素材３５１</translate>
+			</id>
+			<id id="353">
+				<origin>素材３５２</origin>
+				<translate>素材３５２</translate>
+			</id>
+			<id id="354">
+				<origin>素材３５３</origin>
+				<translate>素材３５３</translate>
+			</id>
+			<id id="355">
+				<origin>素材３５４</origin>
+				<translate>素材３５４</translate>
+			</id>
+			<id id="356">
+				<origin>素材３５５</origin>
+				<translate>素材３５５</translate>
+			</id>
+			<id id="357">
+				<origin>素材３５６</origin>
+				<translate>素材３５６</translate>
+			</id>
+			<id id="358">
+				<origin>素材３５７</origin>
+				<translate>素材３５７</translate>
+			</id>
+			<id id="359">
+				<origin>素材３５８</origin>
+				<translate>素材３５８</translate>
+			</id>
+			<id id="360">
+				<origin>素材３５９</origin>
+				<translate>素材３５９</translate>
+			</id>
+			<id id="361">
+				<origin>素材３６０</origin>
+				<translate>素材３６０</translate>
+			</id>
+			<id id="362">
+				<origin>素材３６１</origin>
+				<translate>素材３６１</translate>
+			</id>
+			<id id="363">
+				<origin>素材３６２</origin>
+				<translate>素材３６２</translate>
+			</id>
+			<id id="364">
+				<origin>素材３６３</origin>
+				<translate>素材３６３</translate>
+			</id>
+			<id id="365">
+				<origin>素材３６４</origin>
+				<translate>素材３６４</translate>
+			</id>
+			<id id="366">
+				<origin>素材３６５</origin>
+				<translate>素材３６５</translate>
+			</id>
+			<id id="367">
+				<origin>素材３６６</origin>
+				<translate>素材３６６</translate>
+			</id>
+			<id id="368">
+				<origin>素材３６７</origin>
+				<translate>素材３６７</translate>
+			</id>
+			<id id="369">
+				<origin>素材３６８</origin>
+				<translate>素材３６８</translate>
+			</id>
+			<id id="370">
+				<origin>素材３６９</origin>
+				<translate>素材３６９</translate>
+			</id>
+			<id id="371">
+				<origin>素材３７０</origin>
+				<translate>素材３７０</translate>
+			</id>
+			<id id="372">
+				<origin>素材３７１</origin>
+				<translate>素材３７１</translate>
+			</id>
+			<id id="373">
+				<origin>素材３７２</origin>
+				<translate>素材３７２</translate>
+			</id>
+			<id id="374">
+				<origin>素材３７３</origin>
+				<translate>素材３７３</translate>
+			</id>
+			<id id="375">
+				<origin>素材３７４</origin>
+				<translate>素材３７４</translate>
+			</id>
+			<id id="376">
+				<origin>素材３７５</origin>
+				<translate>素材３７５</translate>
+			</id>
+			<id id="377">
+				<origin>素材３７６</origin>
+				<translate>素材３７６</translate>
+			</id>
+			<id id="378">
+				<origin>素材３７７</origin>
+				<translate>素材３７７</translate>
+			</id>
+			<id id="379">
+				<origin>素材３７８</origin>
+				<translate>素材３７８</translate>
+			</id>
+			<id id="380">
+				<origin>素材３７９</origin>
+				<translate>素材３７９</translate>
+			</id>
+			<id id="381">
+				<origin>駆け出しの金属鎧</origin>
+				<translate>駆け出しの金属鎧</translate>
+			</id>
+			<id id="382">
+				<origin>初心者の皮鎧</origin>
+				<translate>初心者の皮鎧</translate>
+			</id>
+			<id id="383">
+				<origin>ビギナーのローブ</origin>
+				<translate>ビギナーのローブ</translate>
+			</id>
+			<id id="384">
+				<origin>見習いの帽子</origin>
+				<translate>見習いの帽子</translate>
+			</id>
+			<id id="385">
+				<origin>初陣の小手</origin>
+				<translate>初陣の小手</translate>
+			</id>
+			<id id="386">
+				<origin>旅立ちの靴</origin>
+				<translate>旅立ちの靴</translate>
+			</id>
+			<id id="387">
+				<origin>ルーキーの盾</origin>
+				<translate>ルーキーの盾</translate>
+			</id>
+			<id id="388">
+				<origin>冒険の手引き</origin>
+				<translate>冒険の手引き</translate>
+			</id>
+			<id id="389">
+				<origin>ユニーク９</origin>
+				<translate>ユニーク９</translate>
+			</id>
+			<id id="390">
+				<origin>ユニーク１０</origin>
+				<translate>ユニーク１０</translate>
+			</id>
+			<id id="391">
+				<origin>ユニーク１１</origin>
+				<translate>ユニーク１１</translate>
+			</id>
+			<id id="392">
+				<origin>ユニーク１２</origin>
+				<translate>ユニーク１２</translate>
+			</id>
+			<id id="393">
+				<origin>ユニーク１３</origin>
+				<translate>ユニーク１３</translate>
+			</id>
+			<id id="394">
+				<origin>ユニーク１４</origin>
+				<translate>ユニーク１４</translate>
+			</id>
+			<id id="395">
+				<origin>ユニーク１５</origin>
+				<translate>ユニーク１５</translate>
+			</id>
+			<id id="396">
+				<origin>ユニーク１６</origin>
+				<translate>ユニーク１６</translate>
+			</id>
+			<id id="397">
+				<origin>ユニーク１７</origin>
+				<translate>ユニーク１７</translate>
+			</id>
+			<id id="398">
+				<origin>ユニーク１８</origin>
+				<translate>ユニーク１８</translate>
+			</id>
+			<id id="399">
+				<origin>ユニーク１９</origin>
+				<translate>ユニーク１９</translate>
+			</id>
+			<id id="400">
+				<origin>ユニーク２０</origin>
+				<translate>ユニーク２０</translate>
+			</id>
+			<id id="401">
+				<origin>ユニーク２１</origin>
+				<translate>ユニーク２１</translate>
+			</id>
+			<id id="402">
+				<origin>メディカ</origin>
+				<translate>メディカ</translate>
+			</id>
+			<id id="403">
+				<origin>メディカⅡ</origin>
+				<translate>メディカⅡ</translate>
+			</id>
+			<id id="404">
+				<origin>メディカⅢ</origin>
+				<translate>メディカⅢ</translate>
+			</id>
+			<id id="405">
+				<origin>メディカⅣ</origin>
+				<translate>メディカⅣ</translate>
+			</id>
+			<id id="406">
+				<origin>アムリタ</origin>
+				<translate>アムリタ</translate>
+			</id>
+			<id id="407">
+				<origin>アムリタⅡ</origin>
+				<translate>アムリタⅡ</translate>
+			</id>
+			<id id="408">
+				<origin>ハマオ</origin>
+				<translate>ハマオ</translate>
+			</id>
+			<id id="409">
+				<origin>ハマオプライム</origin>
+				<translate>ハマオプライム</translate>
+			</id>
+			<id id="410">
+				<origin>ソーマ</origin>
+				<translate>ソーマ</translate>
+			</id>
+			<id id="411">
+				<origin>ソーマプライム</origin>
+				<translate>ソーマプライム</translate>
+			</id>
+			<id id="412">
+				<origin>ネクタル</origin>
+				<translate>ネクタル</translate>
+			</id>
+			<id id="413">
+				<origin>ネクタルⅡ</origin>
+				<translate>ネクタルⅡ</translate>
+			</id>
+			<id id="414">
+				<origin>テリアカα</origin>
+				<translate>テリアカα</translate>
+			</id>
+			<id id="415">
+				<origin>テリアカβ</origin>
+				<translate>テリアカβ</translate>
+			</id>
+			<id id="416">
+				<origin>アクセラ</origin>
+				<translate>アクセラ</translate>
+			</id>
+			<id id="417">
+				<origin>耐熱ミスト</origin>
+				<translate>耐熱ミスト</translate>
+			</id>
+			<id id="418">
+				<origin>耐氷ミスト</origin>
+				<translate>耐氷ミスト</translate>
+			</id>
+			<id id="419">
+				<origin>耐雷ミスト</origin>
+				<translate>耐雷ミスト</translate>
+			</id>
+			<id id="420">
+				<origin>絶耐ミスト</origin>
+				<translate>絶耐ミスト</translate>
+			</id>
+			<id id="421">
+				<origin>ブレイバント</origin>
+				<translate>ブレイバント</translate>
+			</id>
+			<id id="422">
+				<origin>ストナード</origin>
+				<translate>ストナード</translate>
+			</id>
+			<id id="423">
+				<origin>ファイアオイル</origin>
+				<translate>ファイアオイル</translate>
+			</id>
+			<id id="424">
+				<origin>フリーズオイル</origin>
+				<translate>フリーズオイル</translate>
+			</id>
+			<id id="425">
+				<origin>ショックオイル</origin>
+				<translate>ショックオイル</translate>
+			</id>
+			<id id="426">
+				<origin>ラウダナム</origin>
+				<translate>ラウダナム</translate>
+			</id>
+			<id id="427">
+				<origin>ウニコウル</origin>
+				<translate>ウニコウル</translate>
+			</id>
+			<id id="428">
+				<origin>聖なる贈り物</origin>
+				<translate>聖なる贈り物</translate>
+			</id>
+			<id id="429">
+				<origin>解析グラス</origin>
+				<translate>解析グラス</translate>
+			</id>
+			<id id="430">
+				<origin>獣避けの鈴</origin>
+				<translate>獣避けの鈴</translate>
+			</id>
+			<id id="431">
+				<origin>獣寄せの鈴</origin>
+				<translate>獣寄せの鈴</translate>
+			</id>
+			<id id="432">
+				<origin>アリアドネの糸</origin>
+				<translate>アリアドネの糸</translate>
+			</id>
+			<id id="433">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="434">
+				<origin>斥候の長靴</origin>
+				<translate>斥候の長靴</translate>
+			</id>
+			<id id="435">
+				<origin>解剖用水溶液</origin>
+				<translate>解剖用水溶液</translate>
+			</id>
+			<id id="436">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="437">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="438">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="439">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="440">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="441">
+				<origin>火術の起動符</origin>
+				<translate>火術の起動符</translate>
+			</id>
+			<id id="442">
+				<origin>氷術の起動符</origin>
+				<translate>氷術の起動符</translate>
+			</id>
+			<id id="443">
+				<origin>雷術の起動符</origin>
+				<translate>雷術の起動符</translate>
+			</id>
+			<id id="444">
+				<origin>火炎術の起動符</origin>
+				<translate>火炎術の起動符</translate>
+			</id>
+			<id id="445">
+				<origin>氷結術の起動符</origin>
+				<translate>氷結術の起動符</translate>
+			</id>
+			<id id="446">
+				<origin>雷電術の起動符</origin>
+				<translate>雷電術の起動符</translate>
+			</id>
+			<id id="447">
+				<origin>盲目の香</origin>
+				<translate>盲目の香</translate>
+			</id>
+			<id id="448">
+				<origin>毒の香</origin>
+				<translate>毒の香</translate>
+			</id>
+			<id id="449">
+				<origin>麻痺の香</origin>
+				<translate>麻痺の香</translate>
+			</id>
+			<id id="450">
+				<origin>混乱の香</origin>
+				<translate>混乱の香</translate>
+			</id>
+			<id id="451">
+				<origin>呪いの香</origin>
+				<translate>呪いの香</translate>
+			</id>
+			<id id="452">
+				<origin>睡眠の香</origin>
+				<translate>睡眠の香</translate>
+			</id>
+			<id id="453">
+				<origin>縺れ糸：頭</origin>
+				<translate>縺れ糸：頭</translate>
+			</id>
+			<id id="454">
+				<origin>縺れ糸：腕</origin>
+				<translate>縺れ糸：腕</translate>
+			</id>
+			<id id="455">
+				<origin>縺れ糸：脚</origin>
+				<translate>縺れ糸：脚</translate>
+			</id>
+			<id id="456">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="457">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="458">
+				<origin>斬術の起動符</origin>
+				<translate>斬術の起動符</translate>
+			</id>
+			<id id="459">
+				<origin>壊術の起動符</origin>
+				<translate>壊術の起動符</translate>
+			</id>
+			<id id="460">
+				<origin>突術の起動符</origin>
+				<translate>突術の起動符</translate>
+			</id>
+			<id id="461">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="462">
+				<origin>石化の香</origin>
+				<translate>石化の香</translate>
+			</id>
+			<id id="463">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="464">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="465">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="466">
+				<origin>簡易遠眼鏡</origin>
+				<translate>簡易遠眼鏡</translate>
+			</id>
+			<id id="467">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="468">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="469">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="470">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="471">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="472">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="473">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="474">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="475">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="476">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="477">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="478">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="479">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="480">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="481">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="482">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="483">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="484">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="485">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="486">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="487">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="488">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="489">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="490">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="491">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="492">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="493">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="494">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="495">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="496">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="497">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="498">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="499">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="500">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="501">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="502">
+				<origin>迷宮の地図</origin>
+				<translate>迷宮の地図</translate>
+			</id>
+			<id id="503">
+				<origin>背の高い薬草</origin>
+				<translate>背の高い薬草</translate>
+			</id>
+			<id id="504">
+				<origin>良質な木</origin>
+				<translate>良質な木</translate>
+			</id>
+			<id id="505">
+				<origin>幸運のコイン</origin>
+				<translate>幸運のコイン</translate>
+			</id>
+			<id id="506">
+				<origin>熟したパイナップル</origin>
+				<translate>熟したパイナップル</translate>
+			</id>
+			<id id="507">
+				<origin>青いパイナップル</origin>
+				<translate>青いパイナップル</translate>
+			</id>
+			<id id="508">
+				<origin>特殊火炎起動符</origin>
+				<translate>特殊火炎起動符</translate>
+			</id>
+			<id id="509">
+				<origin>ネイピア印の罠</origin>
+				<translate>ネイピア印の罠</translate>
+			</id>
+			<id id="510">
+				<origin>金鉱石</origin>
+				<translate>金鉱石</translate>
+			</id>
+			<id id="511">
+				<origin>深層水？</origin>
+				<translate>深層水？</translate>
+			</id>
+			<id id="512">
+				<origin>衛兵の鍵</origin>
+				<translate>衛兵の鍵</translate>
+			</id>
+			<id id="513">
+				<origin>衛兵の鍵・剣</origin>
+				<translate>衛兵の鍵・剣</translate>
+			</id>
+			<id id="514">
+				<origin>衛兵の盾</origin>
+				<translate>衛兵の盾</translate>
+			</id>
+			<id id="515">
+				<origin>衛兵の剣</origin>
+				<translate>衛兵の剣</translate>
+			</id>
+			<id id="516">
+				<origin>石の鍵</origin>
+				<translate>石の鍵</translate>
+			</id>
+			<id id="517">
+				<origin>先輩宛ての手紙</origin>
+				<translate>先輩宛ての手紙</translate>
+			</id>
+			<id id="518">
+				<origin>大切なお守り</origin>
+				<translate>大切なお守り</translate>
+			</id>
+			<id id="519">
+				<origin>ボア・ミート</origin>
+				<translate>ボア・ミート</translate>
+			</id>
+			<id id="520">
+				<origin>扉の鍵</origin>
+				<translate>扉の鍵</translate>
+			</id>
+			<id id="521">
+				<origin>レムリアの伝承</origin>
+				<translate>レムリアの伝承</translate>
+			</id>
+			<id id="522">
+				<origin>幻の古代文明</origin>
+				<translate>幻の古代文明</translate>
+			</id>
+			<id id="523">
+				<origin>海の一族</origin>
+				<translate>海の一族</translate>
+			</id>
+			<id id="524">
+				<origin>秘宝について</origin>
+				<translate>秘宝について</translate>
+			</id>
+			<id id="525">
+				<origin>レムリア島の地図</origin>
+				<translate>レムリア島の地図</translate>
+			</id>
+			<id id="526">
+				<origin>海珠</origin>
+				<translate>海珠</translate>
+			</id>
+			<id id="527">
+				<origin>氷銀の棒杭</origin>
+				<translate>氷銀の棒杭</translate>
+			</id>
+			<id id="528">
+				<origin>砕けたペンダント</origin>
+				<translate>砕けたペンダント</translate>
+			</id>
+			<id id="529">
+				<origin>ペンダントの片割れ</origin>
+				<translate>ペンダントの片割れ</translate>
+			</id>
+			<id id="530">
+				<origin>傷だらけのカバン</origin>
+				<translate>傷だらけのカバン</translate>
+			</id>
+			<id id="531">
+				<origin>流砂の鍵</origin>
+				<translate>流砂の鍵</translate>
+			</id>
+			<id id="532">
+				<origin>世界樹のミ</origin>
+				<translate>世界樹のミ</translate>
+			</id>
+			<id id="533">
+				<origin>大鉤爪</origin>
+				<translate>大鉤爪</translate>
+			</id>
+			<id id="534">
+				<origin>氷漬けの腕</origin>
+				<translate>氷漬けの腕</translate>
+			</id>
+			<id id="535">
+				<origin>アンクの欠片</origin>
+				<translate>アンクの欠片</translate>
+			</id>
+			<id id="536">
+				<origin>闇を求めて</origin>
+				<translate>闇を求めて</translate>
+			</id>
+			<id id="537">
+				<origin>闇との出会い</origin>
+				<translate>闇との出会い</translate>
+			</id>
+			<id id="538">
+				<origin>闇の眠る場所</origin>
+				<translate>闇の眠る場所</translate>
+			</id>
+			<id id="539">
+				<origin>おいしい水</origin>
+				<translate>おいしい水</translate>
+			</id>
+			<id id="540">
+				<origin>飛竜避けの笛</origin>
+				<translate>飛竜避けの笛</translate>
+			</id>
+			<id id="541">
+				<origin>巨大熾火石</origin>
+				<translate>巨大熾火石</translate>
+			</id>
+			<id id="542">
+				<origin>皆伝の書</origin>
+				<translate>皆伝の書</translate>
+			</id>
+			<id id="543">
+				<origin>貴重品空き４０</origin>
+				<translate>貴重品空き４０</translate>
+			</id>
+			<id id="544">
+				<origin>貴重品空き４１</origin>
+				<translate>貴重品空き４１</translate>
+			</id>
+			<id id="545">
+				<origin>貴重品空き４２</origin>
+				<translate>貴重品空き４２</translate>
+			</id>
+			<id id="546">
+				<origin>貴重品空き４３</origin>
+				<translate>貴重品空き４３</translate>
+			</id>
+			<id id="547">
+				<origin>貴重品空き４４</origin>
+				<translate>貴重品空き４４</translate>
+			</id>
+			<id id="548">
+				<origin>貴重品空き４５</origin>
+				<translate>貴重品空き４５</translate>
+			</id>
+			<id id="549">
+				<origin>貴重品空き４６</origin>
+				<translate>貴重品空き４６</translate>
+			</id>
+			<id id="550">
+				<origin>貴重品空き４７</origin>
+				<translate>貴重品空き４７</translate>
+			</id>
+			<id id="551">
+				<origin>貴重品空き４８</origin>
+				<translate>貴重品空き４８</translate>
+			</id>
+			<id id="552">
+				<origin>貴重品空き４９</origin>
+				<translate>貴重品空き４９</translate>
+			</id>
+			<id id="553">
+				<origin>貴重品空き５０</origin>
+				<translate>貴重品空き５０</translate>
+			</id>
+			<id id="554">
+				<origin>貴重品空き５１</origin>
+				<translate>貴重品空き５１</translate>
+			</id>
+			<id id="555">
+				<origin>貴重品空き５２</origin>
+				<translate>貴重品空き５２</translate>
+			</id>
+			<id id="556">
+				<origin>貴重品空き５３</origin>
+				<translate>貴重品空き５３</translate>
+			</id>
+			<id id="557">
+				<origin>貴重品空き５４</origin>
+				<translate>貴重品空き５４</translate>
+			</id>
+			<id id="558">
+				<origin>貴重品空き５５</origin>
+				<translate>貴重品空き５５</translate>
+			</id>
+			<id id="559">
+				<origin>貴重品空き５６</origin>
+				<translate>貴重品空き５６</translate>
+			</id>
+			<id id="560">
+				<origin>貴重品空き５７</origin>
+				<translate>貴重品空き５７</translate>
+			</id>
+			<id id="561">
+				<origin>貴重品空き５８</origin>
+				<translate>貴重品空き５８</translate>
+			</id>
+			<id id="562">
+				<origin>貴重品空き５９</origin>
+				<translate>貴重品空き５９</translate>
+			</id>
+			<id id="563">
+				<origin>貴重品空き６０</origin>
+				<translate>貴重品空き６０</translate>
+			</id>
+			<id id="564">
+				<origin>貴重品空き６１</origin>
+				<translate>貴重品空き６１</translate>
+			</id>
+			<id id="565">
+				<origin>貴重品空き６２</origin>
+				<translate>貴重品空き６２</translate>
+			</id>
+			<id id="566">
+				<origin>貴重品空き６３</origin>
+				<translate>貴重品空き６３</translate>
+			</id>
+			<id id="567">
+				<origin>貴重品空き６４</origin>
+				<translate>貴重品空き６４</translate>
+			</id>
+			<id id="568">
+				<origin>貴重品空き６５</origin>
+				<translate>貴重品空き６５</translate>
+			</id>
+			<id id="569">
+				<origin>貴重品空き６６</origin>
+				<translate>貴重品空き６６</translate>
+			</id>
+			<id id="570">
+				<origin>貴重品空き６７</origin>
+				<translate>貴重品空き６７</translate>
+			</id>
+			<id id="571">
+				<origin>貴重品空き６８</origin>
+				<translate>貴重品空き６８</translate>
+			</id>
+			<id id="572">
+				<origin>貴重品空き６９</origin>
+				<translate>貴重品空き６９</translate>
+			</id>
+			<id id="573">
+				<origin>貴重品空き７０</origin>
+				<translate>貴重品空き７０</translate>
+			</id>
+			<id id="574">
+				<origin>貴重品空き７１</origin>
+				<translate>貴重品空き７１</translate>
+			</id>
+			<id id="575">
+				<origin>貴重品空き７２</origin>
+				<translate>貴重品空き７２</translate>
+			</id>
+			<id id="576">
+				<origin>貴重品空き７３</origin>
+				<translate>貴重品空き７３</translate>
+			</id>
+			<id id="577">
+				<origin>貴重品空き７４</origin>
+				<translate>貴重品空き７４</translate>
+			</id>
+			<id id="578">
+				<origin>貴重品空き７５</origin>
+				<translate>貴重品空き７５</translate>
+			</id>
+			<id id="579">
+				<origin>貴重品空き７６</origin>
+				<translate>貴重品空き７６</translate>
+			</id>
+			<id id="580">
+				<origin>貴重品空き７７</origin>
+				<translate>貴重品空き７７</translate>
+			</id>
+			<id id="581">
+				<origin>貴重品空き７８</origin>
+				<translate>貴重品空き７８</translate>
+			</id>
+			<id id="582">
+				<origin>貴重品空き７９</origin>
+				<translate>貴重品空き７９</translate>
+			</id>
+			<id id="583">
+				<origin>貴重品空き８０</origin>
+				<translate>貴重品空き８０</translate>
+			</id>
+			<id id="584">
+				<origin>貴重品空き８１</origin>
+				<translate>貴重品空き８１</translate>
+			</id>
+			<id id="585">
+				<origin>貴重品空き８２</origin>
+				<translate>貴重品空き８２</translate>
+			</id>
+			<id id="586">
+				<origin>貴重品空き８３</origin>
+				<translate>貴重品空き８３</translate>
+			</id>
+			<id id="587">
+				<origin>貴重品空き８４</origin>
+				<translate>貴重品空き８４</translate>
+			</id>
+			<id id="588">
+				<origin>貴重品空き８５</origin>
+				<translate>貴重品空き８５</translate>
+			</id>
+			<id id="589">
+				<origin>貴重品空き８６</origin>
+				<translate>貴重品空き８６</translate>
+			</id>
+			<id id="590">
+				<origin>貴重品空き８７</origin>
+				<translate>貴重品空き８７</translate>
+			</id>
+			<id id="591">
+				<origin>貴重品空き８８</origin>
+				<translate>貴重品空き８８</translate>
+			</id>
+			<id id="592">
+				<origin>貴重品空き８９</origin>
+				<translate>貴重品空き８９</translate>
+			</id>
+			<id id="593">
+				<origin>貴重品空き９０</origin>
+				<translate>貴重品空き９０</translate>
+			</id>
+			<id id="594">
+				<origin>貴重品空き９１</origin>
+				<translate>貴重品空き９１</translate>
+			</id>
+			<id id="595">
+				<origin>貴重品空き９２</origin>
+				<translate>貴重品空き９２</translate>
+			</id>
+			<id id="596">
+				<origin>貴重品空き９３</origin>
+				<translate>貴重品空き９３</translate>
+			</id>
+			<id id="597">
+				<origin>貴重品空き９４</origin>
+				<translate>貴重品空き９４</translate>
+			</id>
+			<id id="598">
+				<origin>貴重品空き９５</origin>
+				<translate>貴重品空き９５</translate>
+			</id>
+			<id id="599">
+				<origin>貴重品空き９６</origin>
+				<translate>貴重品空き９６</translate>
+			</id>
+			<id id="600">
+				<origin>貴重品空き９７</origin>
+				<translate>貴重品空き９７</translate>
+			</id>
+			<id id="601">
+				<origin>貴重品空き９８</origin>
+				<translate>貴重品空き９８</translate>
+			</id>
+			<id id="602">
+				<origin>銅インゴット</origin>
+				<translate>銅インゴット</translate>
+			</id>
+			<id id="603">
+				<origin>銀インゴット</origin>
+				<translate>銀インゴット</translate>
+			</id>
+			<id id="604">
+				<origin>金インゴット</origin>
+				<translate>金インゴット</translate>
+			</id>
+			<id id="605">
+				<origin>銅断片</origin>
+				<translate>銅断片</translate>
+			</id>
+			<id id="606">
+				<origin>銀断片</origin>
+				<translate>銀断片</translate>
+			</id>
+			<id id="607">
+				<origin>金断片</origin>
+				<translate>金断片</translate>
+			</id>
+			<id id="608">
+				<origin>貴重品１０７</origin>
+				<translate>貴重品１０７</translate>
+			</id>
+			<id id="609">
+				<origin>貴重品１０８</origin>
+				<translate>貴重品１０８</translate>
+			</id>
+			<id id="610">
+				<origin>貴重品１０９</origin>
+				<translate>貴重品１０９</translate>
+			</id>
+			<id id="611">
+				<origin>貴重品１１０</origin>
+				<translate>貴重品１１０</translate>
+			</id>
+			<id id="612">
+				<origin>貴重品１１１</origin>
+				<translate>貴重品１１１</translate>
+			</id>
+			<id id="613">
+				<origin>貴重品１１２</origin>
+				<translate>貴重品１１２</translate>
+			</id>
+			<id id="614">
+				<origin>貴重品１１３</origin>
+				<translate>貴重品１１３</translate>
+			</id>
+			<id id="615">
+				<origin>貴重品１１４</origin>
+				<translate>貴重品１１４</translate>
+			</id>
+			<id id="616">
+				<origin>貴重品１１５</origin>
+				<translate>貴重品１１５</translate>
+			</id>
+			<id id="617">
+				<origin>貴重品１１６</origin>
+				<translate>貴重品１１６</translate>
+			</id>
+			<id id="618">
+				<origin>貴重品１１７</origin>
+				<translate>貴重品１１７</translate>
+			</id>
+			<id id="619">
+				<origin>貴重品１１８</origin>
+				<translate>貴重品１１８</translate>
+			</id>
+			<id id="620">
+				<origin>貴重品１１９</origin>
+				<translate>貴重品１１９</translate>
+			</id>
+			<id id="621">
+				<origin>貴重品１２０</origin>
+				<translate>貴重品１２０</translate>
+			</id>
+			<id id="622">
+				<origin>貴重品１２１</origin>
+				<translate>貴重品１２１</translate>
+			</id>
+			<id id="623">
+				<origin>貴重品１２２</origin>
+				<translate>貴重品１２２</translate>
+			</id>
+			<id id="624">
+				<origin>貴重品１２３</origin>
+				<translate>貴重品１２３</translate>
+			</id>
+			<id id="625">
+				<origin>貴重品１２４</origin>
+				<translate>貴重品１２４</translate>
+			</id>
+			<id id="626">
+				<origin>貴重品１２５</origin>
+				<translate>貴重品１２５</translate>
+			</id>
+			<id id="627">
+				<origin>貴重品１２６</origin>
+				<translate>貴重品１２６</translate>
+			</id>
+			<id id="628">
+				<origin>貴重品１２７</origin>
+				<translate>貴重品１２７</translate>
+			</id>
+			<id id="629">
+				<origin>貴重品１２８</origin>
+				<translate>貴重品１２８</translate>
+			</id>
+			<id id="630">
+				<origin>貴重品１２９</origin>
+				<translate>貴重品１２９</translate>
+			</id>
+			<id id="631">
+				<origin>貴重品１３０</origin>
+				<translate>貴重品１３０</translate>
+			</id>
+			<id id="632">
+				<origin>貴重品１３１</origin>
+				<translate>貴重品１３１</translate>
+			</id>
+			<id id="633">
+				<origin>貴重品１３２</origin>
+				<translate>貴重品１３２</translate>
+			</id>
+			<id id="634">
+				<origin>貴重品１３３</origin>
+				<translate>貴重品１３３</translate>
+			</id>
+			<id id="635">
+				<origin>貴重品１３４</origin>
+				<translate>貴重品１３４</translate>
+			</id>
+			<id id="636">
+				<origin>貴重品１３５</origin>
+				<translate>貴重品１３５</translate>
+			</id>
+			<id id="637">
+				<origin>貴重品１３６</origin>
+				<translate>貴重品１３６</translate>
+			</id>
+			<id id="638">
+				<origin>貴重品１３７</origin>
+				<translate>貴重品１３７</translate>
+			</id>
+			<id id="639">
+				<origin>貴重品１３８</origin>
+				<translate>貴重品１３８</translate>
+			</id>
+			<id id="640">
+				<origin>貴重品１３９</origin>
+				<translate>貴重品１３９</translate>
+			</id>
+			<id id="641">
+				<origin>貴重品１４０</origin>
+				<translate>貴重品１４０</translate>
+			</id>
+			<id id="642">
+				<origin>貴重品１４１</origin>
+				<translate>貴重品１４１</translate>
+			</id>
+			<id id="643">
+				<origin>貴重品１４２</origin>
+				<translate>貴重品１４２</translate>
+			</id>
+			<id id="644">
+				<origin>貴重品１４３</origin>
+				<translate>貴重品１４３</translate>
+			</id>
+			<id id="645">
+				<origin>貴重品１４４</origin>
+				<translate>貴重品１４４</translate>
+			</id>
+			<id id="646">
+				<origin>貴重品１４５</origin>
+				<translate>貴重品１４５</translate>
+			</id>
+			<id id="647">
+				<origin>貴重品１４６</origin>
+				<translate>貴重品１４６</translate>
+			</id>
+			<id id="648">
+				<origin>貴重品１４７</origin>
+				<translate>貴重品１４７</translate>
+			</id>
+			<id id="649">
+				<origin>貴重品１４８</origin>
+				<translate>貴重品１４８</translate>
+			</id>
+			<id id="650">
+				<origin>貴重品１４９</origin>
+				<translate>貴重品１４９</translate>
+			</id>
+			<id id="651">
+				<origin>貴重品１５０</origin>
+				<translate>貴重品１５０</translate>
+			</id>
+			<id id="652">
+				<origin>スレート石</origin>
+				<translate>スレート石</translate>
+			</id>
+			<id id="653">
+				<origin>御影石</origin>
+				<translate>御影石</translate>
+			</id>
+			<id id="654">
+				<origin>藍結晶</origin>
+				<translate>藍結晶</translate>
+			</id>
+			<id id="655">
+				<origin>クズ真鉄</origin>
+				<translate>クズ真鉄</translate>
+			</id>
+			<id id="656">
+				<origin>ラテライト</origin>
+				<translate>ラテライト</translate>
+			</id>
+			<id id="657">
+				<origin>砕けた化石</origin>
+				<translate>砕けた化石</translate>
+			</id>
+			<id id="658">
+				<origin>響岩</origin>
+				<translate>響岩</translate>
+			</id>
+			<id id="659">
+				<origin>黄玉</origin>
+				<translate>黄玉</translate>
+			</id>
+			<id id="660">
+				<origin>葉銅鉱</origin>
+				<translate>葉銅鉱</translate>
+			</id>
+			<id id="661">
+				<origin>鉄重石</origin>
+				<translate>鉄重石</translate>
+			</id>
+			<id id="662">
+				<origin>ウレキサイト</origin>
+				<translate>ウレキサイト</translate>
+			</id>
+			<id id="663">
+				<origin>エレミア石</origin>
+				<translate>エレミア石</translate>
+			</id>
+			<id id="664">
+				<origin>葡萄石</origin>
+				<translate>葡萄石</translate>
+			</id>
+			<id id="665">
+				<origin>孔雀石</origin>
+				<translate>孔雀石</translate>
+			</id>
+			<id id="666">
+				<origin>薔薇石英</origin>
+				<translate>薔薇石英</translate>
+			</id>
+			<id id="667">
+				<origin>天河石</origin>
+				<translate>天河石</translate>
+			</id>
+			<id id="668">
+				<origin>霰石</origin>
+				<translate>霰石</translate>
+			</id>
+			<id id="669">
+				<origin>柘榴石</origin>
+				<translate>柘榴石</translate>
+			</id>
+			<id id="670">
+				<origin>黒玉</origin>
+				<translate>黒玉</translate>
+			</id>
+			<id id="671">
+				<origin>千枚岩</origin>
+				<translate>千枚岩</translate>
+			</id>
+			<id id="672">
+				<origin>磁鉄鉱</origin>
+				<translate>磁鉄鉱</translate>
+			</id>
+			<id id="673">
+				<origin>クロマイト</origin>
+				<translate>クロマイト</translate>
+			</id>
+			<id id="674">
+				<origin>錫石</origin>
+				<translate>錫石</translate>
+			</id>
+			<id id="675">
+				<origin>バリッシャー</origin>
+				<translate>バリッシャー</translate>
+			</id>
+			<id id="676">
+				<origin>鉄ばん土</origin>
+				<translate>鉄ばん土</translate>
+			</id>
+			<id id="677">
+				<origin>榴輝岩</origin>
+				<translate>榴輝岩</translate>
+			</id>
+			<id id="678">
+				<origin>翠玉</origin>
+				<translate>翠玉</translate>
+			</id>
+			<id id="679">
+				<origin>ダマスカス鋼片</origin>
+				<translate>ダマスカス鋼片</translate>
+			</id>
+			<id id="680">
+				<origin>堅石のかけら</origin>
+				<translate>堅石のかけら</translate>
+			</id>
+			<id id="681">
+				<origin>カリナン</origin>
+				<translate>カリナン</translate>
+			</id>
+			<id id="682">
+				<origin>コマチアイト</origin>
+				<translate>コマチアイト</translate>
+			</id>
+			<id id="683">
+				<origin>カンカン石</origin>
+				<translate>カンカン石</translate>
+			</id>
+			<id id="684">
+				<origin>アゲート</origin>
+				<translate>アゲート</translate>
+			</id>
+			<id id="685">
+				<origin>蒼鉛</origin>
+				<translate>蒼鉛</translate>
+			</id>
+			<id id="686">
+				<origin>桜石</origin>
+				<translate>桜石</translate>
+			</id>
+			<id id="687">
+				<origin>日映りの万華石</origin>
+				<translate>日映りの万華石</translate>
+			</id>
+			<id id="688">
+				<origin>ピッチブレンド</origin>
+				<translate>ピッチブレンド</translate>
+			</id>
+			<id id="689">
+				<origin>風信子鉱</origin>
+				<translate>風信子鉱</translate>
+			</id>
+			<id id="690">
+				<origin>アノブタン</origin>
+				<translate>アノブタン</translate>
+			</id>
+			<id id="691">
+				<origin>採掘枠予備１</origin>
+				<translate>採掘枠予備１</translate>
+			</id>
+			<id id="692">
+				<origin>採掘枠予備２</origin>
+				<translate>採掘枠予備２</translate>
+			</id>
+			<id id="693">
+				<origin>採掘枠予備３</origin>
+				<translate>採掘枠予備３</translate>
+			</id>
+			<id id="694">
+				<origin>採掘枠予備４</origin>
+				<translate>採掘枠予備４</translate>
+			</id>
+			<id id="695">
+				<origin>採掘枠予備５</origin>
+				<translate>採掘枠予備５</translate>
+			</id>
+			<id id="696">
+				<origin>採掘枠予備６</origin>
+				<translate>採掘枠予備６</translate>
+			</id>
+			<id id="697">
+				<origin>採掘枠予備７</origin>
+				<translate>採掘枠予備７</translate>
+			</id>
+			<id id="698">
+				<origin>採掘枠予備８</origin>
+				<translate>採掘枠予備８</translate>
+			</id>
+			<id id="699">
+				<origin>採掘枠予備９</origin>
+				<translate>採掘枠予備９</translate>
+			</id>
+			<id id="700">
+				<origin>採掘枠予備１０</origin>
+				<translate>採掘枠予備１０</translate>
+			</id>
+			<id id="701">
+				<origin>採掘枠予備１１</origin>
+				<translate>採掘枠予備１１</translate>
+			</id>
+			<id id="702">
+				<origin>採掘枠予備１２</origin>
+				<translate>採掘枠予備１２</translate>
+			</id>
+			<id id="703">
+				<origin>採掘枠予備１３</origin>
+				<translate>採掘枠予備１３</translate>
+			</id>
+			<id id="704">
+				<origin>採掘枠予備１４</origin>
+				<translate>採掘枠予備１４</translate>
+			</id>
+			<id id="705">
+				<origin>採掘枠予備１５</origin>
+				<translate>採掘枠予備１５</translate>
+			</id>
+			<id id="706">
+				<origin>採掘枠予備１６</origin>
+				<translate>採掘枠予備１６</translate>
+			</id>
+			<id id="707">
+				<origin>採掘枠予備１７</origin>
+				<translate>採掘枠予備１７</translate>
+			</id>
+			<id id="708">
+				<origin>樹海アロエ</origin>
+				<translate>樹海アロエ</translate>
+			</id>
+			<id id="709">
+				<origin>小さな花</origin>
+				<translate>小さな花</translate>
+			</id>
+			<id id="710">
+				<origin>クラントロ</origin>
+				<translate>クラントロ</translate>
+			</id>
+			<id id="711">
+				<origin>ミント草</origin>
+				<translate>ミント草</translate>
+			</id>
+			<id id="712">
+				<origin>樹液の塊</origin>
+				<translate>樹液の塊</translate>
+			</id>
+			<id id="713">
+				<origin>十字の種子</origin>
+				<translate>十字の種子</translate>
+			</id>
+			<id id="714">
+				<origin>アンラの実</origin>
+				<translate>アンラの実</translate>
+			</id>
+			<id id="715">
+				<origin>甘いツタ葉</origin>
+				<translate>甘いツタ葉</translate>
+			</id>
+			<id id="716">
+				<origin>仏桑花</origin>
+				<translate>仏桑花</translate>
+			</id>
+			<id id="717">
+				<origin>リュウガン</origin>
+				<translate>リュウガン</translate>
+			</id>
+			<id id="718">
+				<origin>八方エンドウ</origin>
+				<translate>八方エンドウ</translate>
+			</id>
+			<id id="719">
+				<origin>幸詰草</origin>
+				<translate>幸詰草</translate>
+			</id>
+			<id id="720">
+				<origin>姫リンゴ</origin>
+				<translate>姫リンゴ</translate>
+			</id>
+			<id id="721">
+				<origin>冬中夏草</origin>
+				<translate>冬中夏草</translate>
+			</id>
+			<id id="722">
+				<origin>不蝕の果実</origin>
+				<translate>不蝕の果実</translate>
+			</id>
+			<id id="723">
+				<origin>迷迭香</origin>
+				<translate>迷迭香</translate>
+			</id>
+			<id id="724">
+				<origin>霧吹花</origin>
+				<translate>霧吹花</translate>
+			</id>
+			<id id="725">
+				<origin>しじまの莢</origin>
+				<translate>しじまの莢</translate>
+			</id>
+			<id id="726">
+				<origin>深海ヘデラ</origin>
+				<translate>深海ヘデラ</translate>
+			</id>
+			<id id="727">
+				<origin>ウニの実</origin>
+				<translate>ウニの実</translate>
+			</id>
+			<id id="728">
+				<origin>海ブドウ</origin>
+				<translate>海ブドウ</translate>
+			</id>
+			<id id="729">
+				<origin>円錐の果実</origin>
+				<translate>円錐の果実</translate>
+			</id>
+			<id id="730">
+				<origin>マトリカリア</origin>
+				<translate>マトリカリア</translate>
+			</id>
+			<id id="731">
+				<origin>ブルースター</origin>
+				<translate>ブルースター</translate>
+			</id>
+			<id id="732">
+				<origin>黄金の手</origin>
+				<translate>黄金の手</translate>
+			</id>
+			<id id="733">
+				<origin>ヒカリゴケ</origin>
+				<translate>ヒカリゴケ</translate>
+			</id>
+			<id id="734">
+				<origin>風なびきの花</origin>
+				<translate>風なびきの花</translate>
+			</id>
+			<id id="735">
+				<origin>枯れたツタ</origin>
+				<translate>枯れたツタ</translate>
+			</id>
+			<id id="736">
+				<origin>ロサカニナ</origin>
+				<translate>ロサカニナ</translate>
+			</id>
+			<id id="737">
+				<origin>停滞の花</origin>
+				<translate>停滞の花</translate>
+			</id>
+			<id id="738">
+				<origin>乾燥した茎</origin>
+				<translate>乾燥した茎</translate>
+			</id>
+			<id id="739">
+				<origin>ノウゼンハレン</origin>
+				<translate>ノウゼンハレン</translate>
+			</id>
+			<id id="740">
+				<origin>鋼鉄の茨</origin>
+				<translate>鋼鉄の茨</translate>
+			</id>
+			<id id="741">
+				<origin>グルナド</origin>
+				<translate>グルナド</translate>
+			</id>
+			<id id="742">
+				<origin>紫雲英</origin>
+				<translate>紫雲英</translate>
+			</id>
+			<id id="743">
+				<origin>アンブロシア</origin>
+				<translate>アンブロシア</translate>
+			</id>
+			<id id="744">
+				<origin>アルセム</origin>
+				<translate>アルセム</translate>
+			</id>
+			<id id="745">
+				<origin>マドゥカ</origin>
+				<translate>マドゥカ</translate>
+			</id>
+			<id id="746">
+				<origin>ギプソフィア</origin>
+				<translate>ギプソフィア</translate>
+			</id>
+			<id id="747">
+				<origin>採取枠予備１</origin>
+				<translate>採取枠予備１</translate>
+			</id>
+			<id id="748">
+				<origin>採取枠予備２</origin>
+				<translate>採取枠予備２</translate>
+			</id>
+			<id id="749">
+				<origin>採取枠予備３</origin>
+				<translate>採取枠予備３</translate>
+			</id>
+			<id id="750">
+				<origin>採取枠予備４</origin>
+				<translate>採取枠予備４</translate>
+			</id>
+			<id id="751">
+				<origin>採取枠予備５</origin>
+				<translate>採取枠予備５</translate>
+			</id>
+			<id id="752">
+				<origin>採取枠予備６</origin>
+				<translate>採取枠予備６</translate>
+			</id>
+			<id id="753">
+				<origin>採取枠予備７</origin>
+				<translate>採取枠予備７</translate>
+			</id>
+			<id id="754">
+				<origin>採取枠予備８</origin>
+				<translate>採取枠予備８</translate>
+			</id>
+			<id id="755">
+				<origin>採取枠予備９</origin>
+				<translate>採取枠予備９</translate>
+			</id>
+			<id id="756">
+				<origin>採取枠予備１０</origin>
+				<translate>採取枠予備１０</translate>
+			</id>
+			<id id="757">
+				<origin>採取枠予備１１</origin>
+				<translate>採取枠予備１１</translate>
+			</id>
+			<id id="758">
+				<origin>採取枠予備１２</origin>
+				<translate>採取枠予備１２</translate>
+			</id>
+			<id id="759">
+				<origin>採取枠予備１３</origin>
+				<translate>採取枠予備１３</translate>
+			</id>
+			<id id="760">
+				<origin>採取枠予備１４</origin>
+				<translate>採取枠予備１４</translate>
+			</id>
+			<id id="761">
+				<origin>採取枠予備１５</origin>
+				<translate>採取枠予備１５</translate>
+			</id>
+			<id id="762">
+				<origin>採取枠予備１６</origin>
+				<translate>採取枠予備１６</translate>
+			</id>
+			<id id="763">
+				<origin>採取枠予備１７</origin>
+				<translate>採取枠予備１７</translate>
+			</id>
+			<id id="764">
+				<origin>しなる枝</origin>
+				<translate>しなる枝</translate>
+			</id>
+			<id id="765">
+				<origin>丈夫な木片</origin>
+				<translate>丈夫な木片</translate>
+			</id>
+			<id id="766">
+				<origin>チーク材</origin>
+				<translate>チーク材</translate>
+			</id>
+			<id id="767">
+				<origin>軽量の堅木</origin>
+				<translate>軽量の堅木</translate>
+			</id>
+			<id id="768">
+				<origin>絡まるツタ</origin>
+				<translate>絡まるツタ</translate>
+			</id>
+			<id id="769">
+				<origin>縄文樫</origin>
+				<translate>縄文樫</translate>
+			</id>
+			<id id="770">
+				<origin>湿った木材</origin>
+				<translate>湿った木材</translate>
+			</id>
+			<id id="771">
+				<origin>柔らかい樹皮</origin>
+				<translate>柔らかい樹皮</translate>
+			</id>
+			<id id="772">
+				<origin>椰子の幹</origin>
+				<translate>椰子の幹</translate>
+			</id>
+			<id id="773">
+				<origin>貼り付くツル</origin>
+				<translate>貼り付くツル</translate>
+			</id>
+			<id id="774">
+				<origin>鋭い丸太</origin>
+				<translate>鋭い丸太</translate>
+			</id>
+			<id id="775">
+				<origin>鉄刀木</origin>
+				<translate>鉄刀木</translate>
+			</id>
+			<id id="776">
+				<origin>弓なりの花枝</origin>
+				<translate>弓なりの花枝</translate>
+			</id>
+			<id id="777">
+				<origin>香木</origin>
+				<translate>香木</translate>
+			</id>
+			<id id="778">
+				<origin>花枝の材木</origin>
+				<translate>花枝の材木</translate>
+			</id>
+			<id id="779">
+				<origin>馴染む小枝</origin>
+				<translate>馴染む小枝</translate>
+			</id>
+			<id id="780">
+				<origin>かたい根っこ</origin>
+				<translate>かたい根っこ</translate>
+			</id>
+			<id id="781">
+				<origin>ドロドロの樹脂</origin>
+				<translate>ドロドロの樹脂</translate>
+			</id>
+			<id id="782">
+				<origin>割れた流木</origin>
+				<translate>割れた流木</translate>
+			</id>
+			<id id="783">
+				<origin>藍蓼の心材</origin>
+				<translate>藍蓼の心材</translate>
+			</id>
+			<id id="784">
+				<origin>深海樹の枝</origin>
+				<translate>深海樹の枝</translate>
+			</id>
+			<id id="785">
+				<origin>三角樹の幹</origin>
+				<translate>三角樹の幹</translate>
+			</id>
+			<id id="786">
+				<origin>樽の木</origin>
+				<translate>樽の木</translate>
+			</id>
+			<id id="787">
+				<origin>睨み鬼</origin>
+				<translate>睨み鬼</translate>
+			</id>
+			<id id="788">
+				<origin>空洞の丸太</origin>
+				<translate>空洞の丸太</translate>
+			</id>
+			<id id="789">
+				<origin>枳殻の茎針</origin>
+				<translate>枳殻の茎針</translate>
+			</id>
+			<id id="790">
+				<origin>鳳凰木のサヤ</origin>
+				<translate>鳳凰木のサヤ</translate>
+			</id>
+			<id id="791">
+				<origin>枯森の枝材</origin>
+				<translate>枯森の枝材</translate>
+			</id>
+			<id id="792">
+				<origin>乾いた木桃</origin>
+				<translate>乾いた木桃</translate>
+			</id>
+			<id id="793">
+				<origin>手鞠片檜葉</origin>
+				<translate>手鞠片檜葉</translate>
+			</id>
+			<id id="794">
+				<origin>剥き出しの根</origin>
+				<translate>剥き出しの根</translate>
+			</id>
+			<id id="795">
+				<origin>活気の木材</origin>
+				<translate>活気の木材</translate>
+			</id>
+			<id id="796">
+				<origin>上質な若木</origin>
+				<translate>上質な若木</translate>
+			</id>
+			<id id="797">
+				<origin>弛まぬ枝</origin>
+				<translate>弛まぬ枝</translate>
+			</id>
+			<id id="798">
+				<origin>弾力の木栓</origin>
+				<translate>弾力の木栓</translate>
+			</id>
+			<id id="799">
+				<origin>網目模様の樹皮</origin>
+				<translate>網目模様の樹皮</translate>
+			</id>
+			<id id="800">
+				<origin>鉄塊胡桃片</origin>
+				<translate>鉄塊胡桃片</translate>
+			</id>
+			<id id="801">
+				<origin>モラド</origin>
+				<translate>モラド</translate>
+			</id>
+			<id id="802">
+				<origin>双龍松</origin>
+				<translate>双龍松</translate>
+			</id>
+			<id id="803">
+				<origin>伐採枠予備１</origin>
+				<translate>伐採枠予備１</translate>
+			</id>
+			<id id="804">
+				<origin>伐採枠予備２</origin>
+				<translate>伐採枠予備２</translate>
+			</id>
+			<id id="805">
+				<origin>伐採枠予備３</origin>
+				<translate>伐採枠予備３</translate>
+			</id>
+			<id id="806">
+				<origin>伐採枠予備４</origin>
+				<translate>伐採枠予備４</translate>
+			</id>
+			<id id="807">
+				<origin>伐採枠予備５</origin>
+				<translate>伐採枠予備５</translate>
+			</id>
+			<id id="808">
+				<origin>伐採枠予備６</origin>
+				<translate>伐採枠予備６</translate>
+			</id>
+			<id id="809">
+				<origin>伐採枠予備７</origin>
+				<translate>伐採枠予備７</translate>
+			</id>
+			<id id="810">
+				<origin>伐採枠予備８</origin>
+				<translate>伐採枠予備８</translate>
+			</id>
+			<id id="811">
+				<origin>伐採枠予備９</origin>
+				<translate>伐採枠予備９</translate>
+			</id>
+			<id id="812">
+				<origin>伐採枠予備１０</origin>
+				<translate>伐採枠予備１０</translate>
+			</id>
+			<id id="813">
+				<origin>伐採枠予備１１</origin>
+				<translate>伐採枠予備１１</translate>
+			</id>
+			<id id="814">
+				<origin>伐採枠予備１２</origin>
+				<translate>伐採枠予備１２</translate>
+			</id>
+			<id id="815">
+				<origin>伐採枠予備１３</origin>
+				<translate>伐採枠予備１３</translate>
+			</id>
+			<id id="816">
+				<origin>伐採枠予備１４</origin>
+				<translate>伐採枠予備１４</translate>
+			</id>
+			<id id="817">
+				<origin>伐採枠予備１５</origin>
+				<translate>伐採枠予備１５</translate>
+			</id>
+			<id id="818">
+				<origin>伐採枠予備１６</origin>
+				<translate>伐採枠予備１６</translate>
+			</id>
+			<id id="819">
+				<origin>伐採枠予備１７</origin>
+				<translate>伐採枠予備１７</translate>
+			</id>
+			<id id="820">
+				<origin>カースブレイド</origin>
+				<translate>カースブレイド</translate>
+			</id>
+			<id id="821">
+				<origin>慈悲の剣</origin>
+				<translate>慈悲の剣</translate>
+			</id>
+			<id id="822">
+				<origin>ポイズンナックル</origin>
+				<translate>ポイズンナックル</translate>
+			</id>
+			<id id="823">
+				<origin>封頭の杖</origin>
+				<translate>封頭の杖</translate>
+			</id>
+			<id id="824">
+				<origin>小手切り</origin>
+				<translate>小手切り</translate>
+			</id>
+			<id id="825">
+				<origin>睡魔の弓</origin>
+				<translate>睡魔の弓</translate>
+			</id>
+			<id id="826">
+				<origin>パニックサイズ</origin>
+				<translate>パニックサイズ</translate>
+			</id>
+			<id id="827">
+				<origin>ロックキャノン</origin>
+				<translate>ロックキャノン</translate>
+			</id>
+			<id id="828">
+				<origin>パラライザー</origin>
+				<translate>パラライザー</translate>
+			</id>
+			<id id="829">
+				<origin>脚削ぎの長槍</origin>
+				<translate>脚削ぎの長槍</translate>
+			</id>
+			<id id="830">
+				<origin>スタンナイフ</origin>
+				<translate>スタンナイフ</translate>
+			</id>
+			<id id="831">
+				<origin>ブラインドタック</origin>
+				<translate>ブラインドタック</translate>
+			</id>
+			<id id="832">
+				<origin>奇跡の指輪</origin>
+				<translate>奇跡の指輪</translate>
+			</id>
+			<id id="833">
+				<origin>治療の腕輪</origin>
+				<translate>治療の腕輪</translate>
+			</id>
+			<id id="834">
+				<origin>覇者の宝玉</origin>
+				<translate>覇者の宝玉</translate>
+			</id>
+			<id id="835">
+				<origin>赫き魔眼</origin>
+				<translate>赫き魔眼</translate>
+			</id>
+			<id id="836">
+				<origin>追憶の音貝</origin>
+				<translate>追憶の音貝</translate>
+			</id>
+			<id id="837">
+				<origin>見晴らし水晶</origin>
+				<translate>見晴らし水晶</translate>
+			</id>
+			<id id="838">
+				<origin>鍛錬の珠</origin>
+				<translate>鍛錬の珠</translate>
+			</id>
+			<id id="839">
+				<origin>グロースバッジ</origin>
+				<translate>グロースバッジ</translate>
+			</id>
+			<id id="840">
+				<origin>ドロップカメオ</origin>
+				<translate>ドロップカメオ</translate>
+			</id>
+			<id id="841">
+				<origin>輝導の腕輪</origin>
+				<translate>輝導の腕輪</translate>
+			</id>
+			<id id="842">
+				<origin>シールブレイク</origin>
+				<translate>シールブレイク</translate>
+			</id>
+			<id id="843">
+				<origin>破邪の首飾り</origin>
+				<translate>破邪の首飾り</translate>
+			</id>
+			<id id="844">
+				<origin>観測モノクル</origin>
+				<translate>観測モノクル</translate>
+			</id>
+			<id id="845">
+				<origin>レムリアの宝珠</origin>
+				<translate>レムリアの宝珠</translate>
+			</id>
+			<id id="846">
+				<origin>マギニアの軍旗</origin>
+				<translate>マギニアの軍旗</translate>
+			</id>
+			<id id="847">
+				<origin>ユニーク４９</origin>
+				<translate>ユニーク４９</translate>
+			</id>
+			<id id="848">
+				<origin>ユニーク５０</origin>
+				<translate>ユニーク５０</translate>
+			</id>
+			<id id="849">
+				<origin>ユニーク５１</origin>
+				<translate>ユニーク５１</translate>
+			</id>
+		</body>
+	</tbl>

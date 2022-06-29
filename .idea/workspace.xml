@@ -4,27 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34bbdd1a-f40b-41b0-803b-294e010ffe30" name="变更" comment="初始化">
-      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shift_jis-unicode-符号.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANIM_A01.MBM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANIM_A011.MBM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANIM_A011.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANIM_A02.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ENEMYNAMETABLE.TBL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ENEMYNAMETABLE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HPI2/ANIMTABLE/ANIM_A01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HPI2/ANIMTABLE/ANIM_A01.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBM1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MBM1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBM2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MBM2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE.TBL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NPC_NAME_TABLE2.TBL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TBL1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TBL1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TBL2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TBL2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.code" beforeDir="false" afterPath="$PROJECT_DIR$/new.code" afterDir="false" />
+    <list default="true" id="34bbdd1a-f40b-41b0-803b-294e010ffe30" name="变更" comment="提交">
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/EVENT/NPC_NAME_TABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/EVENT/NPC_NAME_TABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/EQUIPITEMNAMETABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/EQUIPITEMNAMETABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/USEITEMNAMETABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/ITEM/USEITEMNAMETABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/MONSTER/TABLE/ENEMYNAMETABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/MONSTER/TABLE/ENEMYNAMETABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/ENEMYSKILLNAMETABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/ENEMYSKILLNAMETABLE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/PLAYERSKILLNAMETABLE.TBL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MORIS.HPI/SKILL/PLAYERSKILLNAMETABLE.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,6 +310,7 @@
       <workItem from="1655300132510" duration="5999000" />
       <workItem from="1655347530316" duration="46000" />
       <workItem from="1655796957244" duration="405000" />
+      <workItem from="1656208201152" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1652946367446</created>
@@ -333,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652947274255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1656208221257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656208221257</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

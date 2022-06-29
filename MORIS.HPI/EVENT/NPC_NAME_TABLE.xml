@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<tbl>
+		<numbers>1b00</numbers>
+		<body>
+			<id id="0">
+				<origin>ダミー</origin>
+				<translate>ダミー</translate>
+			</id>
+			<id id="2">
+				<origin>ヴィヴィアン</origin>
+				<translate>ヴィヴィアン</translate>
+			</id>
+			<id id="3">
+				<origin>ネイピア</origin>
+				<translate>ネイピア</translate>
+			</id>
+			<id id="4">
+				<origin>クワシル</origin>
+				<translate>クワシル</translate>
+			</id>
+			<id id="5">
+				<origin>ミュラー</origin>
+				<translate>ミュラー</translate>
+			</id>
+			<id id="6">
+				<origin>ペルセフォネ</origin>
+				<translate>ペルセフォネ</translate>
+			</id>
+			<id id="7">
+				<origin>黒背景</origin>
+				<translate>黒背景</translate>
+			</id>
+			<id id="8">
+				<origin>衛兵</origin>
+				<translate>衛兵</translate>
+			</id>
+			<id id="9">
+				<origin>衛兵長</origin>
+				<translate>衛兵長</translate>
+			</id>
+			<id id="10">
+				<origin>ビルギッタ</origin>
+				<translate>ビルギッタ</translate>
+			</id>
+			<id id="11">
+				<origin>オリバー</origin>
+				<translate>オリバー</translate>
+			</id>
+			<id id="12">
+				<origin>マルコ</origin>
+				<translate>マルコ</translate>
+			</id>
+			<id id="13">
+				<origin>ウィラフ</origin>
+				<translate>ウィラフ</translate>
+			</id>
+			<id id="14">
+				<origin>カリス</origin>
+				<translate>カリス</translate>
+			</id>
+			<id id="15">
+				<origin>ロブ</origin>
+				<translate>ロブ</translate>
+			</id>
+			<id id="16">
+				<origin>シリカ</origin>
+				<translate>シリカ</translate>
+			</id>
+			<id id="17">
+				<origin>レオ</origin>
+				<translate>レオ</translate>
+			</id>
+			<id id="18">
+				<origin>クロガネＪｒ．</origin>
+				<translate>クロガネＪｒ．</translate>
+			</id>
+			<id id="19">
+				<origin>アーテリンデ</origin>
+				<translate>アーテリンデ</translate>
+			</id>
+			<id id="20">
+				<origin>エンリーカ</origin>
+				<translate>エンリーカ</translate>
+			</id>
+			<id id="21">
+				<origin>水兵</origin>
+				<translate>水兵</translate>
+			</id>
+			<id id="22">
+				<origin>ブロート</origin>
+				<translate>ブロート</translate>
+			</id>
+			<id id="23">
+				<origin>ブロート</origin>
+				<translate>ブロート</translate>
+			</id>
+			<id id="24">
+				<origin>ブロート</origin>
+				<translate>ブロート</translate>
+			</id>
+			<id id="25">
+				<origin>モリビト子ども</origin>
+				<translate>モリビト子ども</translate>
+			</id>
+			<id id="26">
+				<origin>マキリ</origin>
+				<translate>マキリ</translate>
+			</id>
+			<id id="27">
+				<origin>世界樹の少女</origin>
+				<translate>世界樹の少女</translate>
+			</id>
+		</body>
+	</tbl>
